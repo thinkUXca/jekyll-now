@@ -4,3 +4,27 @@ title: Contact
 permalink: /contact/
 ---
 Want to say hi? Send us an email using the form below, and we'll get back to you as soon as possible!
+
+<div class="container">
+  <form action="https://formspree.io/info@thinkux.ca" method="POST">
+    <div class="form-group row">
+      <label for="name">Name</label>
+      <input type="text" class="form-control" name="name" required>
+    </div>
+    <div class="form-group row">
+      <label for="_replyto">Email</label>
+      <input type="email" class="form-control" name="_replyto" required>
+    </div>
+    <div class="form-group row">
+      <label for="_subject">Subject</label>
+      <input type="text" class="form-control" name="_subject" required>
+    </div>
+    <div class="form-group">
+      <label for="_message" class="form-control">Message</label>
+      <textarea name="_message" class="form-control"></textarea>
+     </div>
+    <div class="form-group">
+      <input type="submit" value="Send">
+    </div>
+  </form>
+</div>
