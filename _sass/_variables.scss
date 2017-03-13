@@ -3,6 +3,8 @@
 // VARIABLES
 //
 
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Oxygen');
+
 // Colors
 $blue: #4183C4;
 
@@ -18,6 +20,8 @@ $white: #fff;
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
+$open: 'Open Sans', sans-serif;
+$oxygen: 'Oxygen', sans-serif;
 
 // Mobile breakpoints
 @mixin mobile {
