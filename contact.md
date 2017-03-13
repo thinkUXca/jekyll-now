@@ -30,7 +30,9 @@ Want to say hi? Send us an email using the form below, and we'll get back to you
       <textarea rows="8" name="_message" class="form-control"></textarea>
     </div>
    </div>
-  <div class="form-group">
-    <input type="submit" class="btn btn-lg" value="Send">
+  <div class="form-group row">
+    <div class="col-sm-10 col-sm-offset-2">
+      <input type="submit" class="btn btn-lg" value="Send">
+    </div>
   </div>
 </form>
