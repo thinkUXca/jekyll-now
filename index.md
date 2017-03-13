@@ -10,7 +10,7 @@ Cu has prompta iracundia, utinam ponderum sensibus an sea. Te affert reprimique 
 
 ## The Team
 
-A place to include any other types of information that you'd like to include about yourself.
+We are so good at this it's embarrassing.
 
 ### Jonzo
 
