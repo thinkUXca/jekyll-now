@@ -16,8 +16,10 @@ Want to say hi? Send us an email using the form below, and we'll get back to you
       <input type="email" class="form-control" name="_replyto" required>
     </div>
     <div class="form-group row">
-      <label for="_subject">Subject</label>
-      <input type="text" class="form-control" name="_subject" required>
+      <label for="_subject" class="col-sm-2 col-form-label col-form-label-lg">Subject</label>
+      <div class="col-sm-10">
+        <input type="text" class="form-control" name="_subject" required>
+      </div>
     </div>
     <div class="form-group">
       <label for="_message">Message</label>
