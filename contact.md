@@ -26,8 +26,10 @@ Want to say hi? Send us an email using the form below, and we'll get back to you
       </div>
     </div>
     <div class="form-group">
-      <label for="_message">Message</label>
-      <textarea rows="8" name="_message" class="form-control"></textarea>
+      <label for="_message" class="col-sm-2 col-form-label col-form-label-lg">Message</label>
+      <div class="col-sm-10">
+        <textarea rows="8" name="_message" class="form-control"></textarea>
+      </div>
      </div>
     <div class="form-group">
       <input type="submit" class="btn btn-lg" value="Send">
