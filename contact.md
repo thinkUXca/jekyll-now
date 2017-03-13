@@ -20,11 +20,11 @@ Want to say hi? Send us an email using the form below, and we'll get back to you
       <input type="text" class="form-control" name="_subject" required>
     </div>
     <div class="form-group">
-      <label for="_message" class="form-control">Message</label>
+      <label for="_message">Message</label>
       <textarea name="_message" class="form-control"></textarea>
      </div>
     <div class="form-group">
-      <input type="submit" value="Send">
+      <input type="submit" class="btn btn-lg" value="Send">
     </div>
   </form>
 </div>
