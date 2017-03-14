@@ -5,8 +5,8 @@ This is our mission statement! We are a company!
 
 ## The Team
 <div class="media">
-  <div class="media-left">
-    <img class="media-object img-thumbnail" src="{{ site.baseurl }}/images/placeholder.png" alt="headshot" />
+  <div class="media-left media-middle">
+    <img class="media-object img-circle" src="{{ site.baseurl }}/images/placeholder.png" alt="headshot" />
   </div>
   <div class="media-body">
     <h4 class="media-heading">Jonathan Beer <small><strong>Co-Founder</strong></small></h4>
@@ -18,11 +18,10 @@ This is our mission statement! We are a company!
 </div>
 <div class="media">
   <div class="media-left media-middle">
-    <img class="media-object" src="{{ site.baseurl }}/images/placeholder.png" alt="headshot" />
+    <img class="media-object img-rounded" src="{{ site.baseurl }}/images/placeholder.png" alt="headshot" />
   </div>
   <div class="media-body">
-    <h4 class="media-heading">Tom Hall</h4>
-    <h5>Co-Founder</h5>
+    <h4 class="media-heading">Tom Hall <small>Co-Founder</small></h4>
     <p>
       Duis lacus dolor, ornare vel egestas vel, laoreet a ante. Pellentesque habitant morbi tristique senectus et netus et malesuada 
       fames ac turpis egestas. Fusce aliquam mattis volutpat.
@@ -31,11 +30,10 @@ This is our mission statement! We are a company!
 </div>
 <div class="media">
   <div class="media-left media-middle">
-    <img class="media-object" src="{{ site.baseurl }}/images/placeholder.png" alt="headshot" />
+    <img class="media-object img-responsive" src="{{ site.baseurl }}/images/placeholder.png" alt="headshot" />
   </div>
   <div class="media-body">
-    <h4 class="media-heading">Blair Nonnecke</h4>
-    <h5>Associate</h5>
+    <h4 class="media-heading">Blair Nonnecke <small>Associate</small></h4>
     <p>
       Vestibulum non odio commodo ipsum pulvinar venenatis in a nunc. Quisque rutrum vel quam eu volutpat. Mauris consectetur sem sit 
       amet ante finibus eleifend.
