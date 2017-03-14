@@ -2,8 +2,8 @@
 layout: default
 ---
 <div class="jumbotron">
-  <h1 class="text-center">Hi, we're &lt; thinkUX &#47;&gt;</h1>
-  <h4 class="text-center">We are a User Experience Consultancy.</h4>
+  <h1 class="text-center">Hi, we're thinkUX</h1>
+  <h4 class="text-center">We are user experience consultants.</h4>
 </div>
 <div class="container">
   <div class="row">
