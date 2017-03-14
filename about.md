@@ -6,7 +6,7 @@ This is our mission statement! We are a company!
 ## The Team
 <div class="media">
   <div class="media-left media-middle">
-    <img width="100" height="100" class="media-object" src="{{ site.baseurl }}/images/placeholder.png" alt="headshot" />
+    <img class="pull-left" src="{{ site.baseurl }}/images/placeholder.png" alt="headshot" />
   </div>
   <div class="media-body">
     <h4 class="media-heading">Jonathan Beer</h4>
