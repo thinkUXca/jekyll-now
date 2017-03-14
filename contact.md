@@ -37,7 +37,7 @@ permalink: /contact/
        </div>
       <div class="form-group row">
         <div class="col-sm-10 col-sm-offset-2">
-          <input type="submit" class="btn btn-info btn-lg" value="Send">
+          <input type="submit" value="Send">
         </div>
       </div>
     </form>
