@@ -29,9 +29,4 @@ layout: default
       </p>
     </div>
   </div>
-  <div class="row">
-    <div class="col-xs-12">
-      <p class="text-center"><a href="{{ site.baseurl }}/services">Read more about our services.</a></p>
-    </div>
-  </div>
 </div>
