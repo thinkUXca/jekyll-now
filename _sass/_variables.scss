@@ -3,7 +3,7 @@
 // VARIABLES
 //
 
-@import url('https://fonts.googleapis.com/css?family=Open+Sans|Oxygen');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Oxygen|Roboto');
 
 // Colors
 $blue: #4183C4;
@@ -22,6 +22,7 @@ $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
 $openSans: 'Open Sans', sans-serif;
 $oxygen: 'Oxygen', sans-serif;
+$roboto: 'Roboto', sans-serif;
 
 // Mobile breakpoints
 @mixin mobile {
