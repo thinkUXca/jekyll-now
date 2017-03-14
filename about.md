@@ -6,7 +6,7 @@ This is our mission statement! We are a company!
 ## The Team
 <div class="media">
   <div class="media-left media-middle">
-    <img src="http://placehold.it/80x80" alt="headshot" />
+    <img class="media-object" src="http://placehold.it/80x80" alt="headshot" />
   </div>
   <div class="media-body">
     <h4 class="media-heading">Jonathan Beer</h4>
@@ -19,25 +19,29 @@ This is our mission statement! We are a company!
 </div>
 <div class="media">
   <div class="media-left media-middle">
-    <img src="http://placehold.it/80x80" alt="headshot" />
+    <img class="media-object" src="http://placehold.it/80x80" alt="headshot" />
   </div>
-  <h4 class="media-heading">Tom Hall</h4>
-  <h5>Co-Founder</h5>
-  <p>
-    Duis lacus dolor, ornare vel egestas vel, laoreet a ante. Pellentesque habitant morbi tristique senectus et netus et malesuada 
-    fames ac turpis egestas. Fusce aliquam mattis volutpat.
-  </p>
+  <div class="media-body">
+    <h4 class="media-heading">Tom Hall</h4>
+    <h5>Co-Founder</h5>
+    <p>
+      Duis lacus dolor, ornare vel egestas vel, laoreet a ante. Pellentesque habitant morbi tristique senectus et netus et malesuada 
+      fames ac turpis egestas. Fusce aliquam mattis volutpat.
+    </p>
+  </div>
 </div>
 <div class="media">
   <div class="media-left media-middle">
-    <img src="http://placehold.it/80x80" alt="headshot" />
+    <img class="media-object" src="http://placehold.it/80x80" alt="headshot" />
   </div>
-  <h4 class="media-heading">Blair Nonnecke</h4>
-  <h5>Associate</h5>
-  <p>
-    Vestibulum non odio commodo ipsum pulvinar venenatis in a nunc. Quisque rutrum vel quam eu volutpat. Mauris consectetur sem sit 
-    amet ante finibus eleifend.
-  </p>
+  <div class="media-body">
+    <h4 class="media-heading">Blair Nonnecke</h4>
+    <h5>Associate</h5>
+    <p>
+      Vestibulum non odio commodo ipsum pulvinar venenatis in a nunc. Quisque rutrum vel quam eu volutpat. Mauris consectetur sem sit 
+      amet ante finibus eleifend.
+    </p>
+  </div>
 </div>
 
 ## Select Clients
