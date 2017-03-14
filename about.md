@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 This is our mission statement! We are a company!
 
