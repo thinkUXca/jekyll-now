@@ -22,7 +22,7 @@ layout: default
       </p>
     </div>
     <div class="col-xs-12 col-lg-4">
-      <h2 class="text-center">Development</h2>
+      <h2 class="text-center">Develop</h2>
       <p>
         Hello. This is a blurb. Populo dissentiunt usu at, quo meis senserit recteque ut. Vel vivendo invidunt in, duo eu persius 
         invenire. Ei illud assueverit qui, his modus reformidans eu, at per meis ocurreret.
