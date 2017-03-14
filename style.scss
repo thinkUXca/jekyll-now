@@ -121,7 +121,7 @@ img {
 }
 
 input[type="submit"] {
-  background: $atlanticBlue;
+  background: $brandBlue;
   border-width: 0;
   color: #fff;
   cursor: pointer;
@@ -136,7 +136,7 @@ input[type="submit"] {
 }
 
 input[type="submit"]:hover {
-  background: $atlanticBlueDarker;
+  background: $brandBlueDarker;
 }
 
 // Fixes images in popup boxes from Google Translate
