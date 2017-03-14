@@ -17,28 +17,32 @@
   </head>
 
   <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+    <div class="page-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
 
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
+            <div class="site-info">
+              <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+              <p class="site-description">{{ site.description }}</p>
+            </div>
 
-          <nav>
-            <a href="{{ site.baseurl }}/"><span class="glyphicon glyphicon-home"></span></a>
-            <a href="{{ site.baseurl }}/services">Services</a>
-            <a href="{{ site.baseurl }}/about">About</a>
-            <a href="{{ site.baseurl }}/contact">Contact</a>
-          </nav>
-        </header>
+            <nav>
+              <a href="{{ site.baseurl }}/"><span class="glyphicon glyphicon-home"></span></a>
+              <a href="{{ site.baseurl }}/services">Services</a>
+              <a href="{{ site.baseurl }}/about">About</a>
+              <a href="{{ site.baseurl }}/contact">Contact</a>
+            </nav>
+          </header>
+        </div>
       </div>
-    </div>
-
-    <div id="main" role="main">
-      {{ content }}
+      
+      <div id="main" role="main">
+        {{ content }}
+      </div>   
+      
+      <div class="clear-footer"></div>   
     </div>
 
     <div class="wrapper-footer">
