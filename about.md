@@ -1,27 +1,38 @@
 ---
 layout: default
 ---
-
-Hello! We're UX. We *are* UX.
-
-Lorem ipsum dolor sit amet, id amet illum argumentum usu, homero accusam democritum ea eam, cu tacimates dissentias pri. Duo suas 
-nominavi deterruisset ea, sed ex quas facete. Eu nisl duis rationibus usu, sit an augue dictas rationibus, mei labores iracundia in. 
-Cu has prompta iracundia, utinam ponderum sensibus an sea. Te affert reprimique mel.
+This is our mission statement! We are a company!
 
 ## The Team
+<div class="media">
+  <img src="http://placehold.it/80x80" alt="headshot" />
+  <div class="media-body">
+    <h4>Jonathan Beer</h4>
+    <h5>Co-Founder</h5>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vitae sem sit amet turpis imperdiet faucibus. Curabitur mi 
+      arcu, luctus quis posuere hendrerit, iaculis eu felis.
+    </p>
+  </div>
+</div>
+<div class="media">
+  <img src="http://placehold.it/80x80" alt="headshot" />
+  <h4>Tom Hall</h4>
+  <h5>Co-Founder</h5>
+  <p>
+    Duis lacus dolor, ornare vel egestas vel, laoreet a ante. Pellentesque habitant morbi tristique senectus et netus et malesuada 
+    fames ac turpis egestas. Fusce aliquam mattis volutpat.
+  </p>
+</div>
+<div class="media">
+  <img src="http://placehold.it/80x80" alt="headshot" />
+  <h4>Blair Nonnecke</h4>
+  <h5>Associate</h5>
+  <p>
+    Vestibulum non odio commodo ipsum pulvinar venenatis in a nunc. Quisque rutrum vel quam eu volutpat. Mauris consectetur sem sit 
+    amet ante finibus eleifend.
+  </p>
+</div>
 
-We are so good at this it's embarrassing.
-
-### Jonzo
-
-This guy is Jonzo. 
-
-### Tomzo
-
-This guy is Tomzo.
-
-## Previous Clients
-
-* A factory
-* The Soviets
-* Your mom
+## Select Clients
+Under construction.
