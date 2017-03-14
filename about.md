@@ -5,7 +5,7 @@ This is our mission statement! We are a company!
 
 ## The Team
 <div class="media">
-  <div class="media-left media-middle">
+  <div class="media-left">
     <img class="media-object img-thumbnail" src="{{ site.baseurl }}/images/placeholder.png" alt="headshot" />
   </div>
   <div class="media-body">
@@ -17,7 +17,7 @@ This is our mission statement! We are a company!
   </div>
 </div>
 <div class="media">
-  <div class="media-left media-middle">
+  <div class="media-left">
     <img class="media-object img-thumbnail" src="{{ site.baseurl }}/images/placeholder.png" alt="headshot" />
   </div>
   <div class="media-body">
@@ -29,7 +29,7 @@ This is our mission statement! We are a company!
   </div>
 </div>
 <div class="media">
-  <div class="media-left media-middle">
+  <div class="media-left">
     <img class="media-object img-thumbnail" src="{{ site.baseurl }}/images/placeholder.png" alt="headshot" />
   </div>
   <div class="media-body">
