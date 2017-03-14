@@ -6,7 +6,7 @@ This is our mission statement! We are a company!
 ## The Team
 <div class="media">
   <div class="media-left media-middle">
-    <img class="media-object img-thumbnail" src="https://www.google.ca/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjO39XZ89TSAhVL9YMKHZ4VA4AQjRwIBQ&url=http%3A%2F%2Fadventuretime.wikia.com%2Fwiki%2FFile%3AAt_100x100_iconjake.jpg&psig=AFQjCNHwmLZbVRiIHTxQ2nNz_trAVmDysw&ust=1489543396966612" alt="headshot" />
+    <img class="media-object img-thumbnail" src="http://www.animated-gifs.eu/category_cartoons/avatars-100x100-cartoons-spongebob/0038.gif" alt="headshot" />
   </div>
   <div class="media-body">
     <h4 class="media-heading">Jonathan Beer</h4>
