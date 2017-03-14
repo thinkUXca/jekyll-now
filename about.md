@@ -5,9 +5,9 @@ This is our mission statement! We are a company!
 
 ## The Team
 <div class="media">
-  <img src="http://placehold.it/80x80" alt="headshot" />
+  <img class="d-flex mr-3" src="http://placehold.it/80x80" alt="headshot" />
   <div class="media-body">
-    <h4>Jonathan Beer</h4>
+    <h4 class="mt-0">Jonathan Beer</h4>
     <h5>Co-Founder</h5>
     <p>
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vitae sem sit amet turpis imperdiet faucibus. Curabitur mi 
