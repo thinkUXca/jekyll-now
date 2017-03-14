@@ -35,7 +35,7 @@ Want to say hi? Send us an email using the form below, and we'll get back to you
        </div>
       <div class="form-group row">
         <div class="col-sm-10 col-sm-offset-2">
-          <input type="submit" class="btn btn-success btn-lg" value="Send">
+          <input type="submit" class="btn btn-info btn-lg" value="Send">
         </div>
       </div>
     </form>
