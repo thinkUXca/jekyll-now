@@ -6,7 +6,7 @@ This is our mission statement! We are a company!
 ## The Team
 <div class="media">
   <div class="media-left media-middle">
-    <img class="media-object" src="http://placehold.it/80x80" alt="headshot" />
+    <img class="media-object" src="{{ site.baseurl }}/images/placeholder.png" alt="headshot" />
   </div>
   <div class="media-body">
     <h4 class="media-heading">Jonathan Beer</h4>
@@ -19,7 +19,7 @@ This is our mission statement! We are a company!
 </div>
 <div class="media">
   <div class="media-left media-middle">
-    <img class="media-object" src="http://placehold.it/80x80" alt="headshot" />
+    <img class="media-object" src="{{ site.baseurl }}/images/placeholder.png" alt="headshot" />
   </div>
   <div class="media-body">
     <h4 class="media-heading">Tom Hall</h4>
@@ -32,7 +32,7 @@ This is our mission statement! We are a company!
 </div>
 <div class="media">
   <div class="media-left media-middle">
-    <img class="media-object" src="http://placehold.it/80x80" alt="headshot" />
+    <img class="media-object" src="{{ site.baseurl }}/images/placeholder.png" alt="headshot" />
   </div>
   <div class="media-body">
     <h4 class="media-heading">Blair Nonnecke</h4>
