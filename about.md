@@ -6,7 +6,7 @@ This is our mission statement! We are a company!
 ## The Team
 <div class="media">
   <div class="media-left media-middle">
-    <img class="media-object img-thumbnail" src="http://www.animated-gifs.eu/category_cartoons/avatars-100x100-cartoons-spongebob/0038.gif" alt="headshot" />
+    <img class="media-object" src="http://www.animated-gifs.eu/category_cartoons/avatars-100x100-cartoons-spongebob/0038.gif" alt="headshot" />
   </div>
   <div class="media-body">
     <h4 class="media-heading">Jonathan Beer</h4>
