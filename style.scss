@@ -13,6 +13,10 @@
 /* BASE RULES */
 /**************/
 
+html, body {
+  height: 100%;	
+}
+
 html {
   font-size: 100%;
 }
@@ -21,6 +25,12 @@ body {
   background: $white;
   font: 18px/1.4 $openSans;
   color: $darkGray;
+}
+
+.page-container {
+  min-height: 100%;
+  margin-bottom: -88px;
+  position: relative;
 }
 
 /* .container {
@@ -108,6 +118,25 @@ strong, b {
 
 img {
   max-width: 100%;
+}
+
+input[type="submit"] {
+  background: $atlanticBlue;
+  border-width: 0;
+  color: #fff;
+  cursor: pointer;
+  text-align: center;
+  padding: 10px 10px 8px;
+  font-size: 16px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
+  border-radius: 4px;
+}
+
+input[type="submit"]:hover {
+  background: $atlanticBlueDarker;
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -275,10 +304,17 @@ nav {
   }
 }
 
+.clear-footer {
+  height: 70px;
+  clear: both;
+}
+
 .wrapper-footer {
-  margin-top: 50px;
+/*   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
+  background-color: $lightGray; */
+  position: relative;
   background-color: $lightGray;
 }
 
