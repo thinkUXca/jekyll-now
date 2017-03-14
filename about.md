@@ -8,7 +8,7 @@ This is our mission statement! We are a company!
 <div class="col-xs-12 col-lg-10">
 <div class="media">
   <div class="media-left">
-    <img class="media-object" src="{{ site.baseurl }}/images/placeholder.png" alt="headshot" />
+    <img class="media-object img-thumbnail" src="{{ site.baseurl }}/images/placeholder.png" alt="headshot" />
   </div>
   <div class="media-body">
     <h4 class="media-heading">Jonathan Beer <small>Co-Founder</small></h4>
@@ -20,7 +20,7 @@ This is our mission statement! We are a company!
 </div>
 <div class="media">
   <div class="media-left media-middle">
-    <img class="media-object img-circle" src="{{ site.baseurl }}/images/placeholder.png" alt="headshot" />
+    <img class="media-object img-thumbnail" src="{{ site.baseurl }}/images/placeholder.png" alt="headshot" />
   </div>
   <div class="media-body">
     <h4 class="media-heading">Tom Hall <small>Co-Founder</small></h4>
