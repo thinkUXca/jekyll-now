@@ -7,7 +7,7 @@ permalink: /contact/
 Want to say hi? Send us an email using the form below, and we'll get back to you as soon as possible!
 
 <div class="row">
-  <div class="col-xs-12 col-lg-9">
+  <div class="col-xs-12 col-lg-6">
     <form action="https://formspree.io/info@thinkux.ca" method="POST">
       <div class="form-group row">
         <label for="name" class="col-sm-2 col-form-label col-form-label-lg">Name</label>
@@ -35,7 +35,7 @@ Want to say hi? Send us an email using the form below, and we'll get back to you
        </div>
       <div class="form-group row">
         <div class="col-sm-10 col-sm-offset-2">
-          <input type="submit" class="btn btn-lg" value="Send">
+          <input type="submit" class="btn btn-primary btn-lg" value="Send">
         </div>
       </div>
     </form>
