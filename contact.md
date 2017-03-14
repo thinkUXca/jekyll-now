@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: default
 title: Contact
 permalink: /contact/
 ---
+## Contact
 Want to say hi? Send us an email using the form below, and we'll get back to you as soon as possible!
 
 <form action="https://formspree.io/info@thinkux.ca" method="POST">
