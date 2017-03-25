@@ -15,7 +15,7 @@ layout: default
       </p>
     </div>
     <div class="col-xs-12 col-lg-4">
-      <h2 class="text-center">Design</h2>
+      <h2 class="text-center"><i class="fa fa-pencil-square-o" aria-hidden="true"></i>&ensp;Design</h2>
       <p>
         Hello. This is a blurb. Sint velit ex sea. Ridens evertitur no vel, quo tollit iriure lobortis ei, ea delectus accommodare sed. 
         Eam te solum exerci. Eu viris numquam aliquando mea, at nam mutat eruditi indoctum.
