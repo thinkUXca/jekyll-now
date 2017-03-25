@@ -8,7 +8,7 @@ layout: default
 <div class="container">
   <div class="row">
     <div class="col-xs-12 col-lg-4">
-      <h2 class="text-center"><i class="fa fa-flask" aria-hidden="true"></i>&emsp;Research</h2>
+      <h2 class="text-center"><i class="fa fa-flask" aria-hidden="true"></i>&ensp;Research</h2>
       <p>
         Hello. This is a blurb. Et populo repudiare disputando nec. Sanctus quaestio qui et, aliquam fastidii te qui, usu in posse 
         volumus electram. Alia noluisse no nec, vis ex habeo legere constituam, ea bonorum dolorem officiis mel. An vis suas ullum soleat.
@@ -22,7 +22,7 @@ layout: default
       </p>
     </div>
     <div class="col-xs-12 col-lg-4">
-      <h2 class="text-center">Develop</h2>
+      <h2 class="text-center"><i class="fa fa-code" aria-hidden="true"></i>&ensp;Develop</h2>
       <p>
         Hello. This is a blurb. Populo dissentiunt usu at, quo meis senserit recteque ut. Vel vivendo invidunt in, duo eu persius 
         invenire. Ei illud assueverit qui, his modus reformidans eu, at per meis ocurreret.
