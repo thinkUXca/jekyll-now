@@ -8,7 +8,7 @@ layout: default
 <div class="container">
   <div class="row">
     <div class="col-xs-12 col-lg-4">
-      <h2 class="text-center">Research</h2>
+      <h2 class="text-center"><i class="fa fa-flask" aria-hidden="true"></i>Research</h2>
       <p>
         Hello. This is a blurb. Et populo repudiare disputando nec. Sanctus quaestio qui et, aliquam fastidii te qui, usu in posse 
         volumus electram. Alia noluisse no nec, vis ex habeo legere constituam, ea bonorum dolorem officiis mel. An vis suas ullum soleat.
