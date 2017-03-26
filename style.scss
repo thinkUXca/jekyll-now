@@ -113,6 +113,12 @@ img {
   max-width: 100%;
 }
 
+img.headshot {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 input[type="submit"] {
   background: $orange;
   border-width: 0;
