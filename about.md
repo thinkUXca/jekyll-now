@@ -9,7 +9,7 @@ The founders have more than 50 years of combined experience in research, teachin
 <div class="row">
   <div class="col-xs-12 col-md-4">
     <img class="headshot" src="{{ site.baseurl }}/images/placeholder.png" />
-    <h4 class="text-center">Jonathan Beer <small>Co-Founder</small></h4>
+    <h4 class="text-center">Jonathan Beer, MSc <small>Co-Founder</small></h4>
     <p>
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vitae sem sit amet turpis imperdiet faucibus. Curabitur mi 
       arcu, luctus quis posuere hendrerit, iaculis eu felis.
@@ -17,7 +17,7 @@ The founders have more than 50 years of combined experience in research, teachin
   </div>
   <div class="col-xs-12 col-md-4">
     <img class="headshot" src="{{ site.baseurl }}/images/placeholder.png" />
-    <h4 class="text-center">Tom Hall <small>Co-Founder</small></h4>
+    <h4 class="text-center">Tom Hall, MSc <small>Co-Founder</small></h4>
     <p>
       Duis lacus dolor, ornare vel egestas vel, laoreet a ante. Pellentesque habitant morbi tristique senectus et netus et malesuada 
       fames ac turpis egestas. Fusce aliquam mattis volutpat.
@@ -25,7 +25,7 @@ The founders have more than 50 years of combined experience in research, teachin
   </div>
   <div class="col-xs-12 col-md-4">
     <img class="headshot" src="{{ site.baseurl }}/images/placeholder.png" />
-    <h4 class="text-center">Blair Nonnecke <small>Associate</small></h4>
+    <h4 class="text-center">Blair Nonnecke, PhD <small>Associate</small></h4>
     <p>
       Vestibulum non odio commodo ipsum pulvinar venenatis in a nunc. Quisque rutrum vel quam eu volutpat. Mauris consectetur sem sit 
       amet ante finibus eleifend.
