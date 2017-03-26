@@ -177,7 +177,9 @@ input[type="submit"]:hover {
 }
 
 .jumbotron {
-  margin-top: -50px;	
+  margin-top: -50px;
+  background: $white;
+  border-bottom: 1px solid $lightGray;
 }
 
 .masthead {
