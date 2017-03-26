@@ -9,7 +9,7 @@ We have more than 50 years of combined experience in research, teaching, softwar
 <div class="row">
   <div class="col-xs-12 col-md-4">
     <img class="headshot" src="{{ site.baseurl }}/images/placeholder.png" />
-    <h4 class="text-center">Jonathan Beer, MSc <small>Co-Founder</small></h4>
+    <p class="text-center"><strong>Jonathan Beer, MSc</strong> <small>Co-Founder</small></p>
     <p>
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vitae sem sit amet turpis imperdiet faucibus. Curabitur mi 
       arcu, luctus quis posuere hendrerit, iaculis eu felis.
