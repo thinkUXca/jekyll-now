@@ -6,6 +6,25 @@ This is our mission statement! We are a company!
 <div class="row">
   <div class="col-xs-12 col-lg-8">
     <h2>The Team</h2>
+    
+    <div class="row">
+      <div class="col-xs-12 col-lg-4">
+        <img src="{{ site.baseurl }}/images/placeholder.png" />
+        <h4>Jonathan Beer <small>Co-Founder</small></h4>
+        <p>blip blop</p>
+      </div>
+      <div class="col-xs-12 col-lg-4">
+        <img src="{{ site.baseurl }}/images/placeholder.png" />
+        <h4>Tom Hall <small>Co-Founder</small></h4>
+        <p>blip blop</p>
+      </div>
+      <div class="col-xs-12 col-lg-4">
+        <img src="{{ site.baseurl }}/images/placeholder.png" />
+        <h4>Blair Nonnecke <small>Associate</small></h4>
+        <p>blip blop</p>
+      </div>
+    </div>
+    
     <div class="media m-b-20">
       <div class="media-left">
         <img class="media-object img-thumbnail" src="{{ site.baseurl }}/images/placeholder.png" alt="headshot" />
