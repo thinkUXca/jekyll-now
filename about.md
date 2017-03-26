@@ -5,7 +5,7 @@ ThinkUX pride ourselves on our ability to produce high-quality deliverables base
 
 We have more than 50 years of combined experience in research, teaching, software development, and user experience design.  
 
-<h2>Our Team</h2>
+<h2 class="m-b-20">Our Team</h2>
 <div class="row">
   <div class="col-xs-12 col-md-4">
     <img class="headshot" src="{{ site.baseurl }}/images/placeholder.png" />
