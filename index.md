@@ -4,7 +4,7 @@ layout: default
 <div class="container">
   <div class="jumbotron">
     <h1 class="text-center">Hi, we're ThinkUX.</h1>
-    <h4 class="text-center">User experience consultants.</h4>
+    <p class="text-center">User experience consultants.</p>
   </div>
   <div class="row">
     <div class="col-xs-12 col-lg-4">
