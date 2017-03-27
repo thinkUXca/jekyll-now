@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 ## Contact
 <div class="m-b-50">
-  <p>Want to say hi? Send us an email using the form below, and we'll get back to you as soon as possible!</p>
+  <p>Want to get in touch? Send us an email using the form below, and we'll get back to you as soon as possible!</p>
 </div>
 
 <div class="row">
