@@ -7,7 +7,7 @@ We have more than 50 years of combined experience in research, teaching, softwar
 
 <h2 class="m-b-20">Our Team</h2>
 <div class="row">
-  <div class="col-xs-12 col-md-4">
+  <div class="col-xs-12 col-md-4 m-b-20">
     <img class="headshot" src="{{ site.baseurl }}/images/placeholder.png" />
     <h4 class="text-center">Jonathan Beer, MSc <small>Co-Founder</small></h4>
     <p>
@@ -15,7 +15,7 @@ We have more than 50 years of combined experience in research, teaching, softwar
       arcu, luctus quis posuere hendrerit, iaculis eu felis.
     </p>
   </div>
-  <div class="col-xs-12 col-md-4">
+  <div class="col-xs-12 col-md-4 m-b-20">
     <img class="headshot" src="{{ site.baseurl }}/images/tom.jpg" />
     <h4 class="text-center">Tom Hall, MSc <small>Co-Founder</small></h4>
     <p>
@@ -25,7 +25,7 @@ We have more than 50 years of combined experience in research, teaching, softwar
     When not at work, Tom can be found playing board games, cooking, or searching for new places to eat with his wife.
     </p>
   </div>
-  <div class="col-xs-12 col-md-4">
+  <div class="col-xs-12 col-md-4 m-b-20">
     <img class="headshot" src="{{ site.baseurl }}/images/placeholder.png" />
     <h4 class="text-center">Blair Nonnecke, PhD <small>Associate</small></h4>
     <p>
