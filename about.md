@@ -19,8 +19,10 @@ We have more than 50 years of combined experience in research, teaching, softwar
     <img class="headshot" src="{{ site.baseurl }}/images/placeholder.png" />
     <h4 class="text-center">Tom Hall, MSc <small>Co-Founder</small></h4>
     <p>
-      Duis lacus dolor, ornare vel egestas vel, laoreet a ante. Pellentesque habitant morbi tristique senectus et netus et malesuada 
-      fames ac turpis egestas. Fusce aliquam mattis volutpat.
+    Tom has a background in user testing, user interviews, and interface design. He has worked with BlackBerry and the University of         Guelph's Child Development Research Unit. Tom holds an MSc. in Human Computer Interaction from the University of Guelph. 
+    </p>  
+    <p>
+    When not in the office, Tom can be found playing board games, cooking, or searching for new places to eat with his wife.
     </p>
   </div>
   <div class="col-xs-12 col-md-4">
