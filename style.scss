@@ -101,6 +101,10 @@ ul ul, ol ul {
   list-style-type: circle;
 }
 
+article {
+  max-width: 35em;
+}
+
 em, i {
   font-style: italic;
 }
