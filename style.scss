@@ -119,6 +119,11 @@ img.headshot {
   margin-right: auto;
 }
 
+iframe {
+  display: block;
+  margin: 0 auto;
+}
+
 input[type="submit"] {
   background: $orange;
   border-width: 0;
