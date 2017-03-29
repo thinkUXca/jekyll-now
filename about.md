@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-ThinkUX pride ourselves on our ability to produce high-quality deliverables based on user-centered research. We specialize in collecting information through stakeholder interviews, finding common themes, patterns, and trends in the data, and creating well organized, useful documentation and presentations for our clients. 
+ThinkUX pride ourselves on our ability to produce high-quality deliverables based on user-centered research. We specialize in collecting information through stakeholder interviews, finding common themes, patterns, and trends in the data, and creating examplary user-centered designs, documentation, and presentations for our clients.  
 
 We have more than 50 years of combined experience in research, teaching, software development, and user experience design.  
 
