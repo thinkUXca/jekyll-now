@@ -11,7 +11,7 @@ We have more than 50 years of combined experience in research, teaching, softwar
     <img class="headshot" src="{{ site.baseurl }}/images/placeholder.png" />
     <h4 class="text-center">Jonathan Beer, MSc <small>Co-Founder</small></h4>
     <p>
-    Jonathan is a User Experience Designer and Software Enginner whose passion is creating excellent user experiences.  He was a national chess champion as a kid, an award-winning scholar throughout his schooling, and now he's committed to helping his clients provide their users with intuitive user experiences.  He specializes in expert evaluations, rapid prototyping, usability testing, persona and role development, and user interviews.
+    Jonathan is a User Experience Designer and Software Engineer whose passion is creating excellent user experiences.  He was a national chess champion as a kid, an award-winning scholar throughout his schooling, and now he's committed to helping his clients provide their users with intuitive user experiences.  He specializes in expert evaluations, rapid prototyping, usability testing, persona and role development, and user interviews.
     </p>
     <p>
     Jonathan's work experience is varied: he has worked as a software developer for both startups and large firms; he co-founded a company that created a game with 10,000+ users; he's designed and taught university courses, and he's done UX consulting for several top companies including Agricorp, Research in Motion, and Emerson. He has a BSc in Computer Science, and an MSc in Human Computer Interaction from the University of Guelph.  His work has been published in academic journals, and is being used in courses world-wide.
