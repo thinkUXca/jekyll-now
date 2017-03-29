@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Creating a Whiteboard Animation
+author: jonathan
 published: true
 ---
 
