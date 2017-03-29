@@ -101,10 +101,9 @@ ul ul, ol ul {
   list-style-type: circle;
 }
 
-article {
-  .post {
-  	max-width: 35em;
-  }
+article.post {
+  max-width: 40em;
+  line-height: 150%
 }
 
 em, i {
