@@ -1,11 +1,13 @@
 ---
 layout: post
 title: Creating a Whiteboard Animation
+published: true
 ---
 
 As part of my MSc, I created a whiteboard animation (aka. a video-scribed animation, or speed-drawing video) that describes the writing process.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/V1pnpL8295E?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/V1pnpL8295E?rel=0" width="560" height="315" frameborder="0"> 
+</iframe>
 
 Since its creation, the video has taken on a life of its own and is being used in online textbooks, and in courses taught around the world.  I've received numerous inquiries about how the video was made, so today I'll be explaining just that!  
 
