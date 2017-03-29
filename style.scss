@@ -284,7 +284,7 @@ nav {
   }
 
   .read-more {
-    text-transform: uppercase;
+/*     text-transform: uppercase; */
     font-size: 15px;
   }
 }
@@ -295,13 +295,8 @@ nav {
 }
 
 .wrapper-footer {
-/*   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray; */
   position: relative;
   background-color: $orange;
-/*   background-color: $lightGray; */
 }
 
 footer {
