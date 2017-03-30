@@ -7,7 +7,7 @@ author: tom
 Since VR has come so far in such a short time, there’s still a lot that we just don’t know about design “best practices”. For example, in my 
 [last post]({{ site.baseurl }}/blog/experiences-in-virtual-reality/) I told a story of how one of our lab members accidentally walked
 into a tree in the virtual environment, and spilled some coffee in the real world while bracing himself for the impact (which obviously
-never came). Safety, possibly for the first time, is a design consideration for UX in virtual reality.
+never came). Safety, possibly for the first time, is a design consideration for UX in virtual reality! In this article, I'm going to talk about some other significant ones.
 
 There are two components in a VR application: environments and interfaces. The environment is the virtual world itself (e.g. a suburban
 neighbourhood), while the interface is a set of components that users can use or interact with to control the environment in some way.
