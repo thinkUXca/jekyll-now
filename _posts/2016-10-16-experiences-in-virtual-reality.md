@@ -48,7 +48,7 @@ first into a wall. Luckily, the only thing injured was her pride, but we had to 
 nobody walked into anything in the future. The PlayStation VR has a smaller workable tracking area (3m by 2m) than we had available, but 
 users will have to make sure that their space is clear of hazards (or hire an assistant). 
 
-It's important that UX designers to take safety into account when designing for VR applications, which has not meaningfully been an issue
+It's important that UX designers take safety into account when designing for VR applications, which has not meaningfully been an issue
 on other mediums.
 
 ### Wrap
