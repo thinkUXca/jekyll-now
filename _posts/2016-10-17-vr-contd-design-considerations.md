@@ -46,7 +46,7 @@ concerned. For more on that, it's time to address one of the elephants in the ro
 
 ## Motion sickness
 
-Motion sickness was by far the biggest issue we ran into while building our training game. There are a number of reasons why motion sickness 
+Motion sickness was by far the biggest design issue we ran into while building our training game. There are a number of reasons why motion sickness 
 is a problem with VR headsets, and not everyone agrees on the root causes, so I'm not going to get into all of them here. The two issues
 that we ran into most prominently were responsiveness and [cue conflict theory](http://www.gamasutra.com/blogs/BenLewisEvans/20140404/214732/Simulation_Sickness_and_VR__What_is_it_and_what_can_developers_and_players_do_to_reduce_it.php).
 
