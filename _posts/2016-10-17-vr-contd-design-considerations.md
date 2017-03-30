@@ -21,9 +21,9 @@ Our training game's interface was only visible as the application was booted up 
 and to select the training stage they wanted to use. The first consisted of a simple form, and the second was a simple menu consisting
 of a handful of buttons. In some VR applications, the user may interact with the interface using their hands with tracking
 technology such as [Leap Motion](https://www.leapmotion.com/), or with controllers such as the ones included with the PlayStation VR
-or the HTC Vive. These choices come with a lot of their own design considerations, which I won't get into here. 
+or the HTC Vive. These choices come with a lot of their own design considerations, which I won't get into here. In our case, because the users were always sat at a desk with an Oculus Rift, we allowed them to simply use a mouse. 
 
-In our case, because the users were always sat at a desk with an Oculus Rift, we allowed them to simply use a mouse. This, frankly, 
+This, frankly, 
 felt a little odd, and is probably not an ideal solution for more complex interfaces. However, since our interface was so simple, and 
 because a lot of the time it was a research assistant actually keying in the information using a nearby monitor
 (which mirrored what the user was seeing), the mouse served the purpose.
