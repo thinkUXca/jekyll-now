@@ -42,7 +42,7 @@ relatively low resolution of current VR displays (considering they're right up i
 to accept for now.
 
 While our interface was quite simple, we had a number of much more complicated design decisions to make as far as our environment was
-concerned. So now to address one of the elephants in the room when it comes to VR: motion sickness.
+concerned. For more on that, it's time to address one of the elephants in the room when it comes to VR: motion sickness.
 
 ## Motion sickness
 
