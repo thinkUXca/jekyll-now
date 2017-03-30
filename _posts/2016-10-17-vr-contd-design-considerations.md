@@ -38,7 +38,7 @@ in.
 We tried to place the interface at a comfortable viewing distance for the user. You can see a great demonstration of comfortable viewing 
 distances in this Michael Alger [video](https://www.youtube.com/watch?v=iR4iRyLoJlg). One issue that we had, and that more text-heavy 
 interfaces may struggle with, is that UI elements (and particularly text) will tend to look pixelated and blurry, because of the
-relatively low resolution of current VR displays (considering they're right up in your eyeballs). This may just something that you have
+relatively low resolution of current VR displays (considering they're right up in your eyeballs). This may just be something that designers have
 to accept for now.
 
 While our interface was quite simple, we had a number of much more complicated design decisions to make as far as our environment was
