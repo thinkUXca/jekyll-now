@@ -38,9 +38,9 @@ When writing the script, a natural part of the process is to think about the ill
 Now that you've got a script, it's time to get drawing!  I worked with an artist, and we found that creating multiple drawings for each sentence was a great approach.  It was fun, and gave us lots of options to create a "flow" for the animation.  When we ran into sentences that were hard to illustrate, we searched Google for ideas.  It's important to note that although we wanted to have illustrations for every sentence, it takes time to animate the drawings, so occasionally for short sentences we didn't have animations.  In these cases, animations were still happening from the previous (related) sentence, or were setting up for the next sentence.
 
 ## Step 3: Arrange illustrations
-We drew all of the images out in full size on newsprint and physically cut them out and moved them around to create the final version of the drawing.  There are of course software options you could use to do the same thing, but the takeaway is the same: *make sure you have the images arranged, and the order that you're drawing them clearly marked.*
+We drew all of the images out in full size on newsprint, scanned them, and arranged them using Photoshop to create the final layout of the drawing.  The goal is to *make sure you have the images arranged, and the order that you're drawing them clearly marked.*
 
-
+![Whiteboard Layout]({{site.baseurl}}/_posts/layout.png)
 
 ## Step 4: Record the voiceover
 Now that you know what you're saying, and what you'll be drawing, you can record the script.  You can do this yourself, or farm it out to voice professionals.  If you do it yourself, make sure that you use a high-quality microphone with a a pop-filter, and try and do the recording in a space that has limited/no echo.  Make sure you have a silent environment to record in!  You probably don't want to hear traffic, crying babies or coworkers, and barking dogs in the background.
