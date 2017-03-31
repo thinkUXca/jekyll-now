@@ -45,7 +45,7 @@ We drew all of the images out in full size on newsprint, scanned them, and arran
 
 <figure class="figure">
   <img src="{{ site.baseurl }}/images/whiteboard_layout.png" class="img-responsive" alt="Layout of illustrations" />
-  <figcaption class="figure-caption">Layout of the final animation, in photoshop, with grid overlay</figcaption>
+  <figcaption class="figure-caption">Layout of the final animation, in Photoshop, with grid overlay</figcaption>
 </figure>
 
 ## Step 4: Record the voiceover
@@ -56,7 +56,7 @@ Finally!  You get to record the drawings!
 
 <figure class="figure">
   <img src="{{ site.baseurl }}/images/whiteboard_panorama.jpeg" class="img-responsive" alt="Complete Whiteboard Animation Panorama" />
-  <figcaption class="figure-caption">The Complete 4'x8' Whiteboard with Illustrations</figcaption>
+  <figcaption class="figure-caption">The 4'x8' Whiteboard Illustrations for the 'Writing Process Animation'</figcaption>
 </figure>
 
 We used a high-end home video camera with HD, and importantly, a great tripod.  The drawings were done on a giant whiteboard, 4' x 8'.  This was a difficult process: the artist had to be far away so that only her arm/hand showed, and had to draw vertically.  If we did it again using today's technology, I'd likely use an [overhead document camera](https://www.amazon.ca/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=HD+USB+Document+Camera&rh=i%3Aaps%2Ck%3AHD+USB+Document+Camera).  You can take your time when doing the drawings -- they're sped up using software during post-production.  We had to re-record a few of the drawings because they didn't turn out as desired, but the viewer wouldn't know, as lots gets left on the proverbial cutting room floor.  
