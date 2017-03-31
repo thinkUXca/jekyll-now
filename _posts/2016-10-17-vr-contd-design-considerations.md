@@ -23,9 +23,9 @@ of a handful of buttons. In some VR applications, the user may interact with the
 technology such as [Leap Motion](https://www.leapmotion.com/), or with controllers such as the ones included with the PlayStation VR
 or the HTC Vive. These choices come with a lot of their own design considerations, which I won't get into here. In our case, because the users were always sat at a desk with an Oculus Rift, we allowed them to simply use a mouse. 
 
-<figure>
+<figure class="figure">
   <img src="{{ site.baseurl }}/images/trainingsys_interface.PNG" class="img-responsive" alt="the training system interface" />
-  <figcaption>The sign-in interface for the CDRU's VR training application</figcaption>
+  <figcaption class="figure-caption">The sign-in interface for the CDRU's VR training application</figcaption>
 </figure>
 
 This, frankly, 
