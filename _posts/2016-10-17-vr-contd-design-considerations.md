@@ -90,12 +90,12 @@ which had shown some promise in academic research.
 
 However, our solution to this problem was actually fairly simple. When the user was wearing the Oculus Rift, instead of 
 having their perspective shift along with the replay, a screen would appear in the middle of the street in front of them, with the 
-replays projected onto it. If anyone remembers drive-in movie theatres, it wasn't unlike that. The user could then simply turn their 
-head and look at the screen. Because we were no longer forcing the user's perspective to shift quickly, independent of their actual physical 
+replays projected onto it, and the user could then simply turn their 
+head and look at the screen. If anyone remembers drive-in movie theatres, it wasn't unlike that. Because we were no longer forcing the user's perspective to shift quickly, independent of their actual physical 
 movement, this solution proved to be quite effective in combating motion sickness.
 
 Of course, it was possible for the user to simply choose not to look at the replay screen. Helping us out here was the fact that, because the replay screen 
-appeared directly in the middle of the user's comfortable viewing space (described in the Michael Alger video above), and our attention is
+appeared directly in the middle of the user's comfortable viewing space, and our attention is
 naturally drawn to movement, it was natural for the user to want to look at the replay screen anyway.
 
 ### Wrap
