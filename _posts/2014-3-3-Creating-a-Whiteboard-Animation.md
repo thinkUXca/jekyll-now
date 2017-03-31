@@ -32,7 +32,7 @@ Your video is a story. Engaging stories have followed a similar [3-part structur
 ### Think about the illustrations
 When writing the script, a natural part of the process is to think about the illustrations that accompany parts of the script.  It's important to have things that can be drawn and animated!  If you have a sentence that you can't think of an illustration for, it might be worth changing it at this point.
 
-![Illustration Brainstorming]({{site.baseurl}}/_images/whiteboard_brainstorm.png)
+![Illustration Brainstorming]({{site.baseurl}}/images/whiteboard_brainstorm.png)
 
 ## Step 2: Brainstorm and draft illustrations
 Now that you've got a script, it's time to get drawing!  I worked with an artist, and we found that creating multiple drawings for each sentence was a great approach.  It was fun, and gave us lots of options to create a "flow" for the animation.  When we ran into sentences that were hard to illustrate, we searched Google for ideas.  It's important to note that although we wanted to have illustrations for every sentence, it takes time to animate the drawings, so occasionally for short sentences we didn't have animations.  In these cases, animations were still happening from the previous (related) sentence, or were setting up for the next sentence.
@@ -40,7 +40,7 @@ Now that you've got a script, it's time to get drawing!  I worked with an artist
 ## Step 3: Arrange illustrations
 We drew all of the images out in full size on newsprint, scanned them, and arranged them using Photoshop to create the final layout of the drawing.  The goal is to *make sure you have the images arranged, and the order that you're drawing them clearly marked.*
 
-![Whiteboard Layout]({{site.baseurl}}/_images/whiteboard_layout.png)
+![Whiteboard Layout]({{site.baseurl}}/images/whiteboard_layout.png)
 
 ## Step 4: Record the voiceover
 Now that you know what you're saying, and what you'll be drawing, you can record the script.  You can do this yourself, or farm it out to voice professionals.  If you do it yourself, make sure that you use a high-quality microphone with a a pop-filter, and try and do the recording in a space that has limited/no echo.  Make sure you have a silent environment to record in!  You probably don't want to hear traffic, crying babies or coworkers, and barking dogs in the background.
@@ -48,7 +48,7 @@ Now that you know what you're saying, and what you'll be drawing, you can record
 ## Step 5: Record the drawings
 Finally!  You get to record the drawings!  
 
-![Jonathan's Whiteboard Animation Panorama]({{site.baseurl}}/_images/whiteboard_panorama.jpeg)
+![Jonathan's Whiteboard Animation Panorama]({{site.baseurl}}/images/whiteboard_panorama.jpeg)
 
 We used a high-end home video camera with HD, and importantly, a great tripod.  The drawings were done on a giant whiteboard, 4' x 8'.  This was a difficult process: the artist had to be far away so that only her arm/hand showed, and had to draw vertically.  If we did it again using today's technology, I'd likely use an [overhead document camera](https://www.amazon.ca/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=HD+USB+Document+Camera&rh=i%3Aaps%2Ck%3AHD+USB+Document+Camera).  You can take your time when doing the drawings -- they're sped up using software during post-production.  We had to re-record a few of the drawings because they didn't turn out as desired, but the viewer wouldn't know, as lots gets left on the proverbial cutting room floor.  
 
