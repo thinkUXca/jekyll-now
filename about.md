@@ -25,7 +25,7 @@ We have more than 50 years of combined experience in research, teaching, softwar
     Tom has a background in user testing, user interviews, interface design, and software development. He has worked with BlackBerry and the University of Guelph's Child Development Research Unit, and holds an MSc. in Human Computer Interaction from the University of Guelph. 
     </p>  
     <p>
-    When not at work, Tom can be found playing board games, cooking, or searching for new places to eat with his wife.
+    When not at work, Tom can be found playing board games, cooking, or searching for new restaurants with his wife.
     </p>
   </div>
   <div class="col-xs-12 col-md-4 m-b-20">
