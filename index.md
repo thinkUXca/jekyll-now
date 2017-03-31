@@ -30,8 +30,8 @@ layout: default
     <div class="col-xs-12 col-lg-4">
       <h2 class="text-center"><span class="brand-color"><i class="fa fa-code" aria-hidden="true"></i></span> Develop</h2>
       <p>
-        Ready to implement your new design? Our full stack design team can help you to build out your front end code and get your
-        product out to the masses!
+        Ready to implement your new design? Whether you work with React, Vue, or JQuery, our full stack design team can help you to 
+        build out your front end and get your product out to the masses!
       </p>
     </div>
   </div>
