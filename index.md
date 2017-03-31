@@ -10,7 +10,7 @@ layout: default
     <div class="col-xs-12 col-lg-4">
       <h2 class="text-center"><span class="brand-color"><i class="fa fa-flask" aria-hidden="true"></i></span> Research</h2>
       <p>
-        Our team will help you understand your users and their goals, motivations, and behaviours. Through field research, interviews,
+        Our team will help you understand your users and their goals, motivations, and behaviours.</p><p>Through field research, interviews,
         and expert evaluations, we will provide you with actionable, evidence-based recommendations to help you deliver the best version
         of your product to your users.
       </p>
