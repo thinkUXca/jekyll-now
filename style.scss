@@ -118,13 +118,18 @@ strong, b {
   font-weight: bold;
 }
 
-/* img {
-  max-width: 100%;
-} */
-
 img.headshot {
+  margin-top: 0.4em;
   width: 140px;
   height: 140px;
+}
+
+.media {
+  padding-bottom: 10px;
+}
+
+.media-left {
+  padding-left: 30px;
 }
 
 .media-body {
