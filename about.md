@@ -11,7 +11,7 @@ We have more than 50 years of combined experience in research, teaching, softwar
   <div class="col-xs-12">
     <div class="media">
       <div class="media-left">
-        <img src="{{ site.baseurl }}/images/tom.jpg" alt="Tom headshot" class="media-object">
+        <img src="{{ site.baseurl }}/images/tom.jpg" alt="Tom headshot" class="">
       </div>
       <div class="media-body">
         <h4 class="media-heading">Tom Hall</h4>
