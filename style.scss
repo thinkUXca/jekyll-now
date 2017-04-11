@@ -122,6 +122,18 @@ strong, b {
   max-width: 100%;
 } */
 
+img.headshot {
+  width: 140px;
+  height: 140px;
+}
+
+.media-body {
+  p {
+    max-width: 40em;
+    line-height: 150%;	  
+  }
+}
+
 /* img.headshot {
   display: block;
   margin-left: auto;
