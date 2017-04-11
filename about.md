@@ -45,13 +45,14 @@ layout: page
         <h4 class="media-heading">Tom Hall, MSc <small>Co-Founder</small></h4>
         <p>
           Tom is a User Experience Designer and Software Developer, with interests in Agile UX, expert evaluation, usability testing,
-          and machine learning. Tom has worked with BlackBerry, as a freelance web developer, and with the University of Guelph's Child 
-          Development Research Unit, where his work was published in the <i>Journal of Pediatric Psychology</i>.
+          and machine learning. Tom has worked with BlackBerry as part of their UX team, as a web developer, and as a software developer 
+          with the University of Guelph's Child Development Research Unit, where his work was published in the <i>Journal of Pediatric 
+          Psychology</i>.
         </p>
         <p>
-          Tom holds a black belt in Kukkiwon Taekwondo, and when not at work can be found playing and designing board games. He holds 
-          a Bachelor of Computing and an MSc in Human Computer Interaction from the University of Guelph, where his research focused on 
-          the influence of personality on code inspection performance. 
+          Tom holds a Bachelor of Computing and an MSc in Human Computer Interaction from the University of Guelph, where his research 
+          focused on the influence of personality on code inspection performance. He has a black belt in Kukkiwon Taekwondo, and when 
+          not at work can be found playing and designing board games. 
         </p>
       </div>
     </div>
