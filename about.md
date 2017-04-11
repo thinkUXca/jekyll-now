@@ -1,13 +1,21 @@
 ---
 layout: page
 ---
-ThinkUX pride ourselves on our ability to produce high-quality deliverables based on user-centered research. We specialize in collecting information through stakeholder interviews, finding common themes, patterns, and trends in the data, and creating examplary user-centered designs, documentation, and presentations for our clients.  
-
-We have more than 50 years of combined experience in research, teaching, software development, and user experience design.  
-
-<h2 class="m-b-20">Our Team</h2>
 <div class="row">
-  <div class="col-xs-12 m-b-20">
+  <div class="col-xs-12 col-md-8">
+    <p>
+      ThinkUX pride ourselves on our ability to produce high-quality deliverables based on user-centered research. We specialize in 
+      collecting information through stakeholder interviews, finding common themes, patterns, and trends in the data, and creating 
+      examplary user-centered designs, documentation, and presentations for our clients.
+    </p>
+    <p>
+      We have more than 50 years of combined experience in research, teaching, software development, and user experience design.
+    </p>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12 col-md-8 m-b-20">
+    <h2 class="m-b-20">Our Team</h2>
     <div class="media">
       <div class="media-left media-top">
         <img class="headshot" src="{{ site.baseurl }}/images/placeholder.png" alt="Jonathan headshot">  
