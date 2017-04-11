@@ -2,7 +2,7 @@
 layout: page
 ---
 <div class="row">
-  <div class="col-xs-12 col-md-10">
+  <div class="col-xs-12 col-md-9">
     <p>
       ThinkUX pride ourselves on our ability to produce high-quality deliverables based on user-centered research. We specialize in 
       collecting information through stakeholder interviews, finding common themes, patterns, and trends in the data, and creating 
@@ -14,7 +14,7 @@ layout: page
   </div>
 </div>
 <div class="row">
-  <div class="col-xs-12 col-md-10 m-b-20">
+  <div class="col-xs-12 col-md-9 m-b-20">
     <h2 class="m-b-20">Our Team</h2>
     <div class="media">
       <div class="media-left media-top">
