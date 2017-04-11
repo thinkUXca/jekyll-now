@@ -31,7 +31,7 @@ We have more than 50 years of combined experience in research, teaching, softwar
     </div>
     <div class="media">
       <div class="media-left">
-        <img src="{{ site.baseurl }}/images/tom.jpg" alt="Tom headshot">
+        <img class="headshot" src="{{ site.baseurl }}/images/tom.jpg" alt="Tom headshot">
       </div>
       <div class="media-body">
         <h4 class="media-heading">Tom Hall, MSc <small>Co-Founder</small></h4>
@@ -47,7 +47,7 @@ We have more than 50 years of combined experience in research, teaching, softwar
     </div>
     <div class="media">
       <div class="media-left">
-        <img src="{{ site.baseurl }}/images/blair.jpg" alt="Blair headshot">
+        <img class="headshot" src="{{ site.baseurl }}/images/blair.jpg" alt="Blair headshot">
       </div>
       <div class="media-body">
         <h4 class="media-heading">Blair Nonnecke, PhD <small>Associate</small></h4>
