@@ -44,12 +44,14 @@ layout: page
       <div class="media-body">
         <h4 class="media-heading">Tom Hall, MSc <small>Co-Founder</small></h4>
         <p>
-          Tom has a background in user testing, user interviews, interface design, and software development. He has worked with 
-          BlackBerry and the University of Guelph's Child Development Research Unit, and holds an MSc. in Human Computer Interaction 
-          from the University of Guelph. 
-        </p>  
+          Tom is a User Experience Designer and Software Developer, with interests in Agile UX, expert evaluation, usability testing,
+          and machine learning. Tom has worked with BlackBerry, as a freelance web developer, and with the University of Guelph's Child 
+          Development Research Unit, where his work was published in the <i>Journal of Pediatric Psychology</i>.
+        </p>
         <p>
-          When not at work, Tom can be found playing board games, cooking, or searching for new restaurants with his wife.
+          Tom holds a black belt in Kukkiwon Taekwondo, and when not at work can be found playing and designing board games. He holds 
+          a Bachelor of Computing and an MSc in Human Computer Interaction from the University of Guelph, where his research focused on 
+          the influence of personality on code inspection performance. 
         </p>
       </div>
     </div>
@@ -60,7 +62,7 @@ layout: page
       <div class="media-body">
         <h4 class="media-heading">Blair Nonnecke, PhD <small>Associate</small></h4>
         <p>
-          Blair Nonnecke is an Associate Professor in the School of Computer Science at the University of Guelph, and a UX professional 
+          Blair is an Associate Professor in the School of Computer Science at the University of Guelph, and a UX professional 
           with interests in usability testing, automotive user interfaces, privacy policies, and lurkers in online communities. Recent 
           research has focused on driving distraction while interacting with automotive touch screens; methods for warning drivers when 
           their semi-autonomous vehicles are about to quit being autonomous; and making privacy policies more transparent.
