@@ -103,7 +103,11 @@ ul ul, ol ul {
 
 article.post {
   max-width: 40em;
-  line-height: 150%
+  line-height: 150%;
+
+  img {
+    max-width: 100%;
+  }
 }
 
 em, i {
@@ -114,15 +118,15 @@ strong, b {
   font-weight: bold;
 }
 
-img {
+/* img {
   max-width: 100%;
-}
+} */
 
-img.headshot {
+/* img.headshot {
   display: block;
   margin-left: auto;
   margin-right: auto;
-}
+} */
 
 iframe {
   display: block;
