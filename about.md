@@ -9,7 +9,7 @@ We have more than 50 years of combined experience in research, teaching, softwar
 <div class="row">
   <div class="col-xs-12 m-b-20">
     <div class="media">
-      <div class="media-left">
+      <div class="media-left media-middle">
         <img class="headshot" src="{{ site.baseurl }}/images/placeholder.png" alt="Jonathan headshot">  
       </div>
       <div class="media-body">
