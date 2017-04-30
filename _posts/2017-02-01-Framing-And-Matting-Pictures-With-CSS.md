@@ -12,7 +12,7 @@ The goal was to present her work as it would be displayed in an art gallery: bea
 [artwork labels](https://thepracticalartworld.com/2014/06/18/examples-of-artwork-labels/) underneath the art.  In this post, we'll show how we created the frame and mat.
 
 <figure class="figure">
-  <img src="{{ site.baseurl }}/images/framing_santorini.png" class="img-responsive" alt="Santorini Woman Framed and Matted" />
+  <img src="{{ site.baseurl }}/images/framed_santorini-woman.png" class="img-responsive" alt="Santorini Woman Framed and Matted" />
   <figcaption class="figure-caption">Santorini Woman by [Lauren Ellis](http://www.laurenellis.ca)</figcaption>
 </figure>
 
