@@ -39,6 +39,9 @@ For our example:
   * distance from frame to art is 15% of the frame width (on both sides)
   * distance from frame to mat is 2.5% of the frame width (on both sides)
 
+> frameToArtPct = 15%  
+> frameToMatPct = 2.5%
+
 <figure class="figure">
   <img src="{{ site.baseurl }}/images/framed_annotated_framed_owl.png" class="img-responsive" alt="Framed and Matted Horned Owl by Lauren Ellis, Annotated" />
   <figcaption class="figure-caption">Layout of the final animation, in Photoshop, with grid overlay</figcaption>
@@ -46,7 +49,11 @@ For our example:
 
 ## Get the aspect ratio of your image
 
-First we're going to select an image to frame.  For this demo, we'll be using one of Lauren's pencil portraits, a horned owl.  This image is 600 x 450, so the aspect ratio is 4:3.  We'll be using this aspect ratio when making our frame.  One thing about using this method is that you need to know the aspect ratio of the picture you're framing, but you can get that from the image itself before rendering the page (on laurenellis.ca we use javascript to calculate the aspect ratio and padding).
+First we're going to select an image to frame.  For this demo, we'll be using one of Lauren's pencil portraits, a horned owl.  This image is 600 x 450, so in our example, the aspect ratio is 4:3.  
+
+> apsectRatio = imageWidth / imageHeight
+
+We'll be using this aspect ratio when making our frame.  One thing about using this method is that you need to know the aspect ratio of the picture you're framing, but you can get that from the image itself before rendering the page (on laurenellis.ca we use javascript to calculate the aspect ratio and padding).
 
 ## Create the frame
 
@@ -66,18 +73,25 @@ We've set the width to be 100% of the parent container, and the background to bl
 
 padding-bottom is used to accomplish two things: first, it allows us to show the correct image height [before rendering](http://andyshora.com/css-image-container-padding-hack.html) the images are loaded.  Secondly, and more importantly, it allows us to [maintain the aspect ratio](http://www.goldenapplewebdesign.com/responsive-aspect-ratios-with-pure-css/) of the "frame" (i.e. the black div behind the mat) when the page is resized.
 
-It's easy to make the width of a container responsive by setting the width as a percentage, but there is no easy way to set a responsive height.  To get a responsive height we can use the fact that padding % is set *relative to the the width* of the container. In our example, we are going to make the image 70% of the frame width:
+It's easy to make the width of a container responsive by setting the width as a percentage, but there is no easy way to set a responsive height.  To get a responsive height we can use the fact that padding % is set **_relative to the the width of the container_**. In our example, we are going to make the image 70% of the frame width:
 
-imageWidth = 0.7 * frameWidth  
-frameWidth = 600 / 0.7 = 857.14  
+> imageWidth = (1 - (2 * frameToArtPct)) * frameWidth
+> frameWidth = imageWidth / (1 - 2 * frameToArtPct))
+
+**imageWidth = 0.7 * frameWidth**  
+**frameWidth = 600 / 0.7 = 857.14**  
 
 Because the frame and the mat are equal sizes on all sides, we calculate the height of the frame by adding the same amount (30% of the width) to the image height, and can then calculate the height/width ratio of the frame:
 
-frameHeight = imageHeight + (0.3 * frameWidth)  
-frameHeight = 450 + (0.3 * 857.14) = 707.14  
+> frameHeight = imageHeight + ((2 * frameToArtPct) * frameWidth)
 
-frameAspectRatio = frameHeight / frameWidth  
-frameAspectRatio = 707.14 / 857.14 = 0.825  
+**frameHeight = imageHeight + (0.3 * frameWidth)**  
+**frameHeight = 450 + (0.3 * 857.14) = 707.14**  
+
+> padding-bottom = frameAspectRatio  
+
+**frameAspectRatio = frameHeight / frameWidth**  
+**frameAspectRatio = 707.14 / 857.14 = 0.825**  
 
 So we know that the padding-bottom of the frame is 82.5% (i.e. the height of the frame is 82.5% of the width).
 
