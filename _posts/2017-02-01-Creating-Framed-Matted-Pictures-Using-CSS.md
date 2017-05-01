@@ -4,15 +4,12 @@ title: Creating Framed, Matted Pictures Using CSS
 author: jonathan
 ---
 
-We recently redesigned [laurenellis.ca](http://www.laurenellis.ca) for the incredibly talented portrait artist Lauren Ellis.
-
-The goal was to present her work as it would be displayed in an art gallery: beautifully framed, with professional-looking
-[artwork labels](https://thepracticalartworld.com/2014/06/18/examples-of-artwork-labels/) underneath the art.  In this post, we'll show how we created the frame and mat.
-
+We recently redesigned [laurenellis.ca](http://www.laurenellis.ca) for the incredibly talented portrait artist Lauren Ellis.  She wanted her art displayed as it would be in an art gallery: beautifully framed, with professional-looking
+[artwork labels](https://thepracticalartworld.com/2014/06/18/examples-of-artwork-labels/) underneath the art.  In this post, we'll show you how we created the frame and mat using CSS.
 
 <figure class="figure">
   <img src="{{ site.baseurl }}/images/framed_santorini-woman.png" class="img-responsive" alt="Santorini Woman Framed and Matted" />
-  <figcaption class="figure-caption">Santorini Woman by [Lauren Ellis](http://www.laurenellis.ca)</figcaption>
+  <figcaption class="figure-caption">Santorini Woman by Lauren Ellis</figcaption>
 </figure>
 
 We had the following requirements for displaying the art:
@@ -35,6 +32,7 @@ This is the HTML we will use to create framed and matted art:
   </div>
 </div>
 ```
+
 ## Choose the frame and mat size
 
 For our example:
