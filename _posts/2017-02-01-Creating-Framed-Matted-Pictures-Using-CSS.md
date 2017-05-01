@@ -44,14 +44,14 @@ For our example:
 
 <figure class="figure">
   <img src="{{ site.baseurl }}/images/framed_annotated_framed_owl.png" class="img-responsive" alt="Framed and Matted Horned Owl by Lauren Ellis, Annotated" />
-  <figcaption class="figure-caption">Layout of the final animation, in Photoshop, with grid overlay</figcaption>
+  <figcaption class="figure-caption">Framed, Matted picture with annotations</figcaption>
 </figure>
 
 ## Get the aspect ratio of your image
 
 First we're going to select an image to frame.  For this demo, we'll be using one of Lauren's pencil portraits, a horned owl.  This image is 600 x 450, so in our example, the aspect ratio is 4:3.  
 
-> apsectRatio = imageWidth / imageHeight
+> apsectRatio = imgWidth / imgHeight
 
 We'll be using this aspect ratio when making our frame.  One thing about using this method is that you need to know the aspect ratio of the picture you're framing, but you can get that from the image itself before rendering the page (on laurenellis.ca we use javascript to calculate the aspect ratio and padding).
 
@@ -75,17 +75,16 @@ padding-bottom is used to accomplish two things: first, it allows us to show the
 
 It's easy to make the width of a container responsive by setting the width as a percentage, but there is no easy way to set a responsive height.  To get a responsive height we can use the fact that padding % is set **_relative to the the width of the container_**. In our example, we are going to make the image 70% of the frame width:
 
-> imageWidth = (1 - (2 * frameToArtPct)) * frameWidth
-> frameWidth = imageWidth / (1 - 2 * frameToArtPct))
+> imgWidth = (1 - (2 * frameToArtPct)) * frameWidth
 
-**imageWidth = 0.7 * frameWidth**  
+**imgWidth = 0.7 * frameWidth**  
 **frameWidth = 600 / 0.7 = 857.14**  
 
 Because the frame and the mat are equal sizes on all sides, we calculate the height of the frame by adding the same amount (30% of the width) to the image height, and can then calculate the height/width ratio of the frame:
 
-> frameHeight = imageHeight + ((2 * frameToArtPct) * frameWidth)
+> frameHeight = imgHeight + ((2 * frameToArtPct) * frameWidth)
 
-**frameHeight = imageHeight + (0.3 * frameWidth)**  
+**frameHeight = imgHeight + (0.3 * frameWidth)**  
 **frameHeight = 450 + (0.3 * 857.14) = 707.14**  
 
 > padding-bottom = frameAspectRatio  
@@ -110,8 +109,9 @@ Next, we'll add a mat inside the frame.  The mat is just another slightly smalle
 
 Where did the 3.0303% for top and bottom come from?  We know that the top and bottom have to match the left/right to ensure the mat is equal on all sides, and left and right are (2.5% * frameWidth), so we calculate what percent of the frameHeight = (2.5% * frameWidth):
 
-matTopAndBottom = (2.5% * frameWidth) / frameHeight  
-matTopAndBottom = (.025 * 857.14) / 707.14 = 3.0303%  
+> matTopAndBottom = (2.5% * frameWidth) / frameHeight  
+
+**matTopAndBottom = (.025 * 857.14) / 707.14 = 3.0303%**  
 
 The box-shadow provides a nice touch of depth between the frame and the mat.
 
@@ -119,14 +119,16 @@ The box-shadow provides a nice touch of depth between the frame and the mat.
 
 For our frame's padding bottom to be correct at 82.5%, we have to have the art 15% of the frame width from the left edge.  The art sits inside the mat, so we have to calculate what 15% of the frame width is in terms of the mat:
 
-distToFrame = (frameToArt% - frameToMat%) * frameWidth  
-matWidth = (1 - 2 * frameToMat%) * frameWidth  
-artLeft = distToFrame / matWidth = 13.158%  
+> distToFrame = (frameToArtPct - frameToMatMat) * frameWidth  
+
+**matWidth = (1 - 2 * frameToMat%) * frameWidth**  
+**artLeft = distToFrame / matWidth = 13.158%**  
 
 This tells us that the distance from the edge of the mat to the edge of the art is 13.158% of the width of the mat.  Now we can calculate the distance from the top of the mat to the top of the art:
 
-matHeight = (1 - 2 * matTopAndBottom) * frameHeight  
-artTop = distToFrame / matHeight = 16.13%  
+> matHeight = (1 - 2 * matTopAndBottom) * frameHeight  
+
+**artTop = distToFrame / matHeight = 16.13%**  
 
 ```css
 .art {
