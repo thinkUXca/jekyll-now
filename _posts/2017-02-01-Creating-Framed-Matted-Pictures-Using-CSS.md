@@ -149,6 +149,8 @@ Unfortunately, we can't add a box-shadow like we did before, because the art is 
 
 As you can see, this is a lot of calculations!  I suggest you write a javascript function to do the calculations for you, so that you can frame pictures of different aspect ratios, in different sized frames.
 
+We found [a simpler method](http://thenewcode.com/721/Sophisticated-Image-Matting-Effects-With-CSS) of creating frames with mats, but it didn't meet all of our requirements.  Specifically, as the image is resized, the border doesn't maintain the aspect ratio, so if the page is very wide the border looks "thin" and if the page is small (i.e. mobile) the frame looks very "fat".  For some applications this is fine, but for displaying art, the frame and mat ratios are [very important](http://artofframinginc.com/faq/).
+
 Hope you have learned something, and enjoy your new beautifully framed and matted artwork!
 
 [laurenellis.ca](http://www.laurenellis.ca) was created using AngularJS, Bootstrap, CSS, and Javascript.
