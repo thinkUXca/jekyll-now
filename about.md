@@ -4,8 +4,7 @@ layout: page
 <div class="row">
   <div class="col-xs-12 col-md-9">
     <p>
-      ThinkUX pride ourselves on our ability to produce high-quality deliverables based on user-centered research. We specialize in
-      collecting information through stakeholder interviews, finding common themes, patterns, and trends in the data, and creating
+      At ThinkUX, we pride ourselves on our ability to produce high-quality deliverables based on user-centered research. We specialize in collecting information through stakeholder interviews, finding common themes, patterns, and trends in the data, and creating
       exemplary user-centered designs, documentation, and presentations for our clients.
     </p>
     <p>
