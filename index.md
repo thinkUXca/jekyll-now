@@ -2,8 +2,8 @@
 layout: default
 ---
 <div class="jumbotron">
-  <h1 class="text-center">Hi, we're ThinkUX.</h1>
-  <p class="text-center">Full stack user experience consultants.</p>
+  <div class="bg-img">
+  </div>
 </div>
 <div class="container">
   <div class="row">
