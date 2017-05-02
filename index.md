@@ -2,8 +2,6 @@
 layout: default
 ---
 <div class="jumbotron">
-  <div class="bg-img">
-  </div>
 </div>
 <div class="container">
   <div class="row">
