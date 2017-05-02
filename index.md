@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
+<div class="jumbotron">
+  <h1 class="text-center">Hi, we're ThinkUX.</h1>
+  <p class="text-center">Full stack user experience consultants.</p>
+</div>
 <div class="container">
-  <div class="jumbotron">
-    <h1 class="text-center">Hi, we're ThinkUX.</h1>
-    <p class="text-center">Full stack user experience consultants.</p>
-  </div>
   <div class="row">
     <div class="col-xs-12 col-lg-4">
       <h2 class="text-center"><span class="brand-color"><i class="fa fa-flask" aria-hidden="true"></i></span> Research</h2>
