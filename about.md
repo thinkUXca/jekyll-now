@@ -21,8 +21,8 @@ layout: page
 </div>
 
 <div class="row" style="margin-bottom: 30px">
-  <div class="col-xs-12 col-md-9">
-    <div class="col-xs-12 col-sm-4">
+  <div class="col-xs-12 col-md-9" style="padding-left: 0">
+    <div class="col-xs-12 col-sm-4" style="padding-top: 10px">
       <img class="img-responsive" style="margin-bottom: 10px" src="{{ site.baseurl }}/images/jonathan.jpg" alt="Jonathan headshot">
     </div>
     <div class="col-xs-12 col-sm-8">
@@ -49,9 +49,9 @@ layout: page
 </div>
 
 <div class="row" style="margin-bottom: 30px">
-  <div class="col-xs-12 col-md-9">
+  <div class="col-xs-12 col-md-9" style="padding-left: 0">
 
-    <div class="col-xs-12 col-sm-4">
+    <div class="col-xs-12 col-sm-4" style="padding-top: 10px">
       <img class="img-responsive" style="margin-bottom: 10px" src="{{ site.baseurl }}/images/tom.jpg" alt="Tom headshot">
     </div>
     <div class="col-xs-12 col-sm-8">
@@ -75,8 +75,8 @@ layout: page
 </div>
 
 <div class="row" style="margin-bottom: 30px">
-  <div class="col-xs-12 col-md-9">
-    <div class="col-xs-12 col-sm-4">
+  <div class="col-xs-12 col-md-9" style="padding-left: 0" >
+    <div class="col-xs-12 col-sm-4" style="padding-top: 10px">
       <img class="img-responsive" style="margin-bottom: 10px" src="{{ site.baseurl }}/images/blair.jpg" alt="Blair headshot">
     </div>
     <div class="col-xs-12 col-sm-8">
