@@ -2,7 +2,9 @@
 layout: default
 ---
 <div class="jumbotron">
-  <h1 class="text-center">Designing the best user experiences.</h1>
+  <div class="jumbo-header">
+    <h1 class="text-center">Designing the best user experiences.</h1>
+  </div>
 </div>
 <div class="container">
   <div class="row">
