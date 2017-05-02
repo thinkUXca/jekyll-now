@@ -18,7 +18,7 @@ layout: page
     <h2 class="m-b-20">Our Team</h2>
     <div class="media">
       <div class="media-left media-top">
-        <img class="headshot" src="{{ site.baseurl }}/images/placeholder.png" alt="Jonathan headshot">  
+        <img class="headshot" src="{{ site.baseurl }}/images/jonathan_headshot_140.jpg" alt="Jonathan headshot">  
       </div>
       <div class="media-body">
         <h4 class="media-heading">Jonathan Beer, MSc <small>Co-Founder</small></h4>  
