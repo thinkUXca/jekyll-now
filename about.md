@@ -22,7 +22,7 @@ layout: page
 
 <div class="row">
   <div class="col-xs-12 col-sm-4">
-    <img class="img-responsive" style="margin-bottom: 10px" src="{{ site.baseurl }}/images/jonathan_headshot_280.jpg" alt="Jonathan headshot">
+    <img class="img-responsive" style="margin-bottom: 10px" src="{{ site.baseurl }}/images/jonathan.jpg" alt="Jonathan headshot">
   </div>
   <div class="col-xs-12 col-sm-8">
       <h4 style="margin-top: 0">
