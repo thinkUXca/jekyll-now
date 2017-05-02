@@ -217,16 +217,22 @@ input[type="submit"]:hover {
 //   background: $white;
 //   border-bottom: 1px solid $lightGray;
  
-  .bg-img {
-    position: absolute;
-    top:0;
-    left:0;
-    right:0;
-    bottom:0;
-    background-image: url("/images/banner-background.jpeg");
-    background-repeat: no-repeat;
-    background-size:contain;
-  }
+  background:
+    linear-gradient(
+      rgba(255,0,0,0.45),
+      rgba(255,0,0,0.45)
+    ),
+    url(/images/banner-background.jpeg);
+//   .bg-img {
+//     position: absolute;
+//     top:0;
+//     left:0;
+//     right:0;
+//     bottom:0;
+//     background-image: url("/images/banner-background.jpeg");
+//     background-repeat: no-repeat;
+//     background-size:contain;
+//   }
 	
   h1 {
     color: $white;
