@@ -20,7 +20,7 @@ layout: page
   </div>
 </div>
 
-<div class="row">
+<div class="row" style="margin-bottom: 30px">
   <div class="col-xs-12 col-sm-4">
     <img class="img-responsive" style="margin-bottom: 10px" src="{{ site.baseurl }}/images/jonathan.jpg" alt="Jonathan headshot">
   </div>
@@ -46,7 +46,7 @@ layout: page
   </div>
 </div>
 
-<div class="row">
+<div class="row" style="margin-bottom: 30px">
   <div class="col-xs-12 col-sm-4">
     <img class="img-responsive" style="margin-bottom: 10px" src="{{ site.baseurl }}/images/tom.jpg" alt="Tom headshot">
   </div>
@@ -68,7 +68,8 @@ layout: page
     </p>
   </div>
 </div>
-<div class="row">
+
+<div class="row" style="margin-bottom: 30px">
   <div class="col-xs-12 col-sm-4">
     <img class="img-responsive" style="margin-bottom: 10px" src="{{ site.baseurl }}/images/blair.jpg" alt="Blair headshot">
   </div>
