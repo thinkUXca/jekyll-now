@@ -31,7 +31,7 @@ layout: page
           <span style="display:inline-block"><small>Co-Founder</small></span>
         </h4>
         <p>
-          Jonathan is a User Experience Designer and Software Engineer whose passion is creating excellent user experiences.  He was a
+          Jonathan is a User Experience Designer and Sr. Software Developer whose passion is creating excellent user experiences.  He was a
           national chess champion as a kid, an award-winning scholar throughout his schooling, and now he's committed to helping his
           clients provide their users with intuitive user experiences.  He specializes in expert evaluations, rapid prototyping,
           usability testing, persona and role development, and user interviews.
