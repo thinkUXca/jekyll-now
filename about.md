@@ -14,13 +14,13 @@ layout: page
   </div>
 </div>
 <div class="row">
-  <div class="col-xs-12 col-md-9 m-b-20">
-    <h2 class="m-b-20">Our Team</h2>
-    <div class="media">
-      <div class="media-left media-top">
-        <img class="headshot" src="{{ site.baseurl }}/images/jonathan_headshot_140.jpg" alt="Jonathan headshot">  
-      </div>
-      <div class="media-body">
+  <div class="col-xs-12 col-md-9 m-b-20">  
+    <h2 class="m-b-20">Our Team</h2>  
+    
+    <div class="col-xs-12 col-md-3 m-b-20">  
+      <img style="width: 100%" class="headshot" src="{{ site.baseurl }}/images/jonathan_headshot_140.jpg" alt="Jonathan headshot">  
+    </div>
+    <div class="col-xs-12 col-md-9">  
         <h4 class="media-heading">Jonathan Beer, MSc <small>Co-Founder</small></h4>  
         <p>
           Jonathan is a User Experience Designer and Software Engineer whose passion is creating excellent user experiences.  He was a
@@ -35,12 +35,9 @@ layout: page
           Human Computer Interaction from the University of Guelph.  His work has been published in academic journals, and is being used
           in courses world-wide.
         </p>
-      </div>
     </div>
-    <div class="media">
-      <div class="media-left">
-        <img class="headshot" src="{{ site.baseurl }}/images/tom.jpg" alt="Tom headshot">
-      </div>
+    <div class="col-xs-12 col-md-3 m-b-20">
+      <img class="headshot" src="{{ site.baseurl }}/images/tom.jpg" alt="Tom headshot">
       <div class="media-body">
         <h4 class="media-heading">Tom Hall, MSc <small>Co-Founder</small></h4>
         <p>
