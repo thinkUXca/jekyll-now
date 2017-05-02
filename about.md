@@ -47,10 +47,10 @@ layout: page
 </div>
 
 <div class="row">
-  <div class="col-xs-12 col-sm-3">
+  <div class="col-xs-12 col-sm-4">
     <img class="img-responsive" style="margin-bottom: 10px" src="{{ site.baseurl }}/images/tom.jpg" alt="Tom headshot">
   </div>
-  <div class="col-xs-12 col-sm-9">
+  <div class="col-xs-12 col-sm-8">
     <h4 style="margin-top: 0">
       <span style="display:inline-block">Tom Hall, MSc</span>
       <span style="display:inline-block"><small>Co-Founder</small></span>
@@ -69,10 +69,10 @@ layout: page
   </div>
 </div>
 <div class="row">
-  <div class="col-xs-12 col-sm-3">
+  <div class="col-xs-12 col-sm-4">
     <img class="img-responsive" style="margin-bottom: 10px" src="{{ site.baseurl }}/images/blair.jpg" alt="Blair headshot">
   </div>
-  <div class="col-xs-12 col-sm-9">
+  <div class="col-xs-12 col-sm-8">
     <h4 style="margin-top: 0">
       <span style="display:inline-block">Blair Nonnecke, PhD</span>
       <span style="display:inline-block"><small>Associate</small></span>
