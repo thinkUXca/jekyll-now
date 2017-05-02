@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Creating Framed, Matted Pictures Using CSS
+title: Creating Fully-Responsive Framed, Matted Pictures Using CSS
 author: jonathan
 ---
 
