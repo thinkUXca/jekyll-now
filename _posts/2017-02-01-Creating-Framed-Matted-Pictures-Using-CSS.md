@@ -4,7 +4,7 @@ title: Creating Framed, Matted Pictures Using CSS
 author: jonathan
 ---
 
-We recently redesigned [laurenellis.ca](http://www.laurenellis.ca) for the incredibly talented portrait artist Lauren Ellis.  She wanted her art displayed as it would be in an art gallery: beautifully framed, with professional-looking
+We recently redesigned [laurenellis.ca](http://www.laurenellis.ca) for the incredibly talented portrait artist Lauren Ellis.  She wanted her art displayed as it would be in an art gallery: beautifully framed and matted, with professional-looking
 [artwork labels](https://thepracticalartworld.com/2014/06/18/examples-of-artwork-labels/) underneath the art.  In this post, we'll show you how we created the frame and mat using CSS.
 
 <figure class="figure">
@@ -165,7 +165,7 @@ Unfortunately, we can't add a box-shadow like we did before, because the art is 
 
 As you can see, this is a lot of calculations!  I suggest you write a javascript function to do the calculations for you, so that you can frame pictures of different aspect ratios, in different sized frames.
 
-We found [a simpler method](http://thenewcode.com/721/Sophisticated-Image-Matting-Effects-With-CSS) of creating frames with mats, but it didn't meet all of our requirements.  Specifically, as the image is resized, the border doesn't maintain the aspect ratio, so if the page is very wide the border looks "thin" and if the page is small (i.e. mobile) the frame looks very "fat".  For some applications this is fine, but for displaying art, the frame and mat ratios are [very important](http://artofframinginc.com/faq/).
+We found [a simpler method](http://thenewcode.com/721/Sophisticated-Image-Matting-Effects-With-CSS) of creating frames with mats, but it didn't meet all of our requirements.  Specifically, the border size is fixed and set in pixels.  As the image is resized, the border doesn't maintain the aspect ratio, so if the page is very wide the border looks "thin" and if the page is small (i.e. mobile) the frame looks very "fat".  For some applications this is fine, but for displaying art, the frame and mat ratios are [very important](http://artofframinginc.com/faq/).
 
 Hope you have learned something, and enjoy your new beautifully framed and matted artwork!
 
