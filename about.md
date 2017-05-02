@@ -5,7 +5,7 @@ layout: page
   <div class="col-xs-12 col-md-9">
     <p>
       At ThinkUX, we pride ourselves on our ability to produce high-quality deliverables based on user-centered research. We specialize in collecting information through stakeholder interviews, finding common themes, patterns, and trends in the data, and creating
-      exemplary user-centered designs, documentation, and presentations for our clients.
+      exemplary user-centered designs, documentation, presentations, and applications for our clients.
     </p>
     <p>
       We have more than 50 years of combined experience in research, teaching, software development, and user experience design.
@@ -26,6 +26,7 @@ layout: page
     </div>
     <div class="col-xs-12 col-sm-8">
         <!--http://stackoverflow.com/questions/18222409/specifying-a-preferred-line-break-point-in-html-text-in-a-responsive-design -->
+        <!--http://stackoverflow.com/questions/5392853/html-css-denoting-a-preferred-place-for-a-line-break -->
         <h4 style="margin-top: 0">
           <span style="display:inline-block">Jonathan Beer, MSc</span>
           <span style="display:inline-block"><small>Co-Founder</small></span>
