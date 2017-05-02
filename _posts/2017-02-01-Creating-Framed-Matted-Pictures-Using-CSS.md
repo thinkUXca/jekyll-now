@@ -71,6 +71,8 @@ We create a frame by creating a div with a black background.  Eventually we're g
 
 We've set the width to be 100% of the parent container, and the background to black (it's a black frame).  Adding a box-shadow underneath gives the frame depth, creating the illusion that the frame is hanging on a wall. We set is position to be relative so that our sub-elements, which will be [positioned absolutely](https://www.w3schools.com/css/css_positioning.asp), are set relative to the parent.
 
+<iframe width="100%" height="300" src="//jsfiddle.net/c737jr0u/3/embedded/html,css,result/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+
 padding-bottom is used to accomplish two things: first, it allows us to show the correct image height [before rendering](http://andyshora.com/css-image-container-padding-hack.html) the images are loaded.  Secondly, and more importantly, it allows us to [maintain the aspect ratio](http://www.goldenapplewebdesign.com/responsive-aspect-ratios-with-pure-css/) of the "frame" (i.e. the black div behind the mat) when the page is resized.
 
 It's easy to make the width of a container responsive by setting the width as a percentage, but there is no easy way to set a responsive height.  To get a responsive height we can use the fact that padding % is set **_relative to the the width of the container_**. In our example, we are going to make the image 70% of the frame width:
@@ -99,13 +101,15 @@ So we know that the padding-bottom of the frame is 82.5% (i.e. the height of the
 Next, we'll add a mat inside the frame.  The mat is just another slightly smaller div that sits inside our frame.  We will create a white div (the mat) and position it absolutely within the frame.  We'll set the left and right properties of the mat to be 2.5% of the width of the frame from sides of the frame.  This wouldn't work if we hadn't set position: relative on the frame!
 
 ```css
-.picture-frame .mat {
+.mat {
   position: absolute;
   background: white;
   top: 3.0303%; bottom: 3.0303%; left: 2.5%; right: 2.5%;
   box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.5) inset;
 }
 ```
+
+<iframe width="100%" height="300" src="//jsfiddle.net/c737jr0u/4/embedded/html,css,result/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
 Where did the 3.0303% for top and bottom come from?  We know that the top and bottom have to match the left/right to ensure the mat is equal on all sides, and left and right are (2.5% * frameWidth), so we calculate what percent of the frameHeight = (2.5% * frameWidth):
 
