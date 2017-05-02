@@ -6,7 +6,7 @@ layout: page
     <p>
       ThinkUX pride ourselves on our ability to produce high-quality deliverables based on user-centered research. We specialize in
       collecting information through stakeholder interviews, finding common themes, patterns, and trends in the data, and creating
-      examplary user-centered designs, documentation, and presentations for our clients.
+      exemplary user-centered designs, documentation, and presentations for our clients.
     </p>
     <p>
       We have more than 50 years of combined experience in research, teaching, software development, and user experience design.
@@ -22,7 +22,7 @@ layout: page
 
 <div class="row">
   <div class="col-xs-12 col-sm-3">
-    <img class="img-responsive" style="margin-bottom: 10px" src="jonathan_headshot_280.jpg" alt="Jonathan headshot">
+    <img class="img-responsive" style="margin-bottom: 10px" src="{{ site.baseurl }}/images/jonathan_headshot_280.jpg" alt="Jonathan headshot">
   </div>
   <div class="col-xs-12 col-sm-9">
       <h4 style="margin-top: 0">
@@ -48,7 +48,7 @@ layout: page
 
 <div class="row">
   <div class="col-xs-12 col-sm-3">
-    <img class="img-responsive" style="margin-bottom: 10px" src="jonathan_headshot_280.jpg" alt="Tom headshot">
+    <img class="img-responsive" style="margin-bottom: 10px" src="{{ site.baseurl }}/images/tom.jpg" alt="Tom headshot">
   </div>
   <div class="col-xs-12 col-sm-9">
     <h4 style="margin-top: 0">
@@ -70,7 +70,7 @@ layout: page
 </div>
 <div class="row">
   <div class="col-xs-12 col-sm-3">
-    <img class="img-responsive" style="margin-bottom: 10px" src="jonathan_headshot_280.jpg" alt="Blair headshot">
+    <img class="img-responsive" style="margin-bottom: 10px" src="{{ site.baseurl }}/images/blair.jpg" alt="Blair headshot">
   </div>
   <div class="col-xs-12 col-sm-9">
     <h4 style="margin-top: 0">
