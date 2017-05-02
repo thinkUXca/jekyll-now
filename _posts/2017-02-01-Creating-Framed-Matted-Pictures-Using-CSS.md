@@ -147,6 +147,8 @@ This tells us that the distance from the edge of the mat to the edge of the art 
 
 Setting the width of the image to 100% ensures that it is responsive.
 
+<iframe width="100%" height="300" src="//jsfiddle.net/c737jr0u/13/embedded/html,css,result/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+
 ## Add a shadow between the mat and the art
 
 The final touch is to add a shadow between the mat and the art.  This final touch really makes the art pop, and makes it look very much like it does when hanging in a gallery.  
