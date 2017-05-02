@@ -13,12 +13,13 @@ layout: page
     </p>
   </div>
 </div>
+
 <div class="row">
   <div class="col-xs-12 col-md-9 m-b-20">  
     <h2 class="m-b-20">Our Team</h2>  
 
-    <div class="col-xs-12 col-sm-3">
-      <img class="img-responsive" style="margin-bottom: 10px" src="jonathan_headshot_280.jpg" alt="Jonathan headshot">
+    <div class="col-xs-12 col-sm-3">  
+      <img class="img-responsive" style="margin-bottom: 10px" src="{{ site.baseurl }}/images/jonathan_headshot_280.jpg" alt="Jonathan headshot">
     </div>
     <div class="col-xs-12 col-sm-9">
         <h4 style="margin-top: 0">
