@@ -71,7 +71,7 @@ We create a frame by creating a div with a black background.  Eventually we're g
 
 We've set the width to be 100% of the parent container, and the background to black (it's a black frame).  Adding a box-shadow underneath gives the frame depth, creating the illusion that the frame is hanging on a wall. We set is position to be relative so that our sub-elements, which will be [positioned absolutely](https://www.w3schools.com/css/css_positioning.asp), are set relative to the parent.
 
-<iframe width="100%" height="300" src="//jsfiddle.net/c737jr0u/3/embedded/html,css,result/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+<iframe width="100%" height="660" src="//jsfiddle.net/c737jr0u/3/embedded/result,html,css/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
 padding-bottom is used to accomplish two things: first, it allows us to show the correct image height [before rendering](http://andyshora.com/css-image-container-padding-hack.html) the images are loaded.  Secondly, and more importantly, it allows us to [maintain the aspect ratio](http://www.goldenapplewebdesign.com/responsive-aspect-ratios-with-pure-css/) of the "frame" (i.e. the black div behind the mat) when the page is resized.
 
