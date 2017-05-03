@@ -17,8 +17,8 @@ layout: default
       <ul>
         <li>Persona development</li>
         <li>User stories</li>
-        <li>Interviews</li>
-        <li>Expert evaluation</li>
+        <li>Usability studies</li>
+        <li>Ethnography</li>
       </ul>
     </div>
     <div class="col-xs-12 col-md-4">
