@@ -232,6 +232,8 @@ input[type="submit"]:hover {
       font-family: $droidSans;
       color: $white; 
       margin: 0;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
     }
   }
 }
