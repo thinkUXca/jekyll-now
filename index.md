@@ -14,6 +14,12 @@ layout: default
         Our team will help you understand your users and their goals, motivations, and behaviours. We will provide you with actionable,
         evidence-based recommendations to help you deliver the best version of your product to your users.
       </p>
+      <ul>
+        <li>Rapid prototyping</li>
+        <li>Wireframing</li>
+        <li>Interviews</li>
+        <li>Expert evaluation</li>
+      </ul>
     </div>
     <div class="col-xs-12 col-lg-4">
       <h2 class="text-center"><span class="brand-color"><i class="fa fa-pencil-square-o" aria-hidden="true"></i></span> Design</h2>
@@ -25,7 +31,7 @@ layout: default
     <div class="col-xs-12 col-lg-4">
       <h2 class="text-center"><span class="brand-color"><i class="fa fa-code" aria-hidden="true"></i></span> Develop</h2>
       <p>
-        Ready to implement your new design? Our team will help build and deliver your product to the masses!
+        Ready to implement your new design? Our team will help build and deliver your product to  customers!
       </p>
     </div>
   </div>
