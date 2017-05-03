@@ -15,8 +15,8 @@ layout: default
         evidence-based recommendations to help you deliver the best version of your product to your users.
       </p>
       <ul>
-        <li>Rapid prototyping</li>
-        <li>Wireframing</li>
+        <li>Persona development</li>
+        <li>User stories</li>
         <li>Interviews</li>
         <li>Expert evaluation</li>
       </ul>
@@ -27,12 +27,24 @@ layout: default
         From paper prototypes to high fidelity mock ups, in virtual reality or on the web, we will work with you to create an intuitive
         and stylish user-centred interface design. All tested and validated with your actual users.
       </p>
+      <ul>
+        <li>Rapid prototyping</li>
+        <li>Wireframing</li>
+        <li>Information architecture</li>
+        <li>Interface design</li>
+      </ul>
     </div>
     <div class="col-xs-12 col-lg-4">
       <h2 class="text-center"><span class="brand-color"><i class="fa fa-code" aria-hidden="true"></i></span> Develop</h2>
       <p>
-        Ready to implement your new design? Our team will help build and deliver your product to  customers!
+        Ready to implement your new design? Our team will help build and deliver your product to your customers!
       </p>
+      <ul>
+        <li>Web applications</li>
+        <li>iOS/Android apps</li>
+        <li>Database design</li>
+        <li>Reporting and analytics</li>
+      </ul>
     </div>
   </div>
 </div>
