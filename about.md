@@ -61,8 +61,7 @@ layout: page
       </h4>
       <p>
         Tom is a User Experience Designer and Software Developer, with interests in Agile UX, expert evaluation, usability testing,
-        and machine learning. Tom has worked with BlackBerry as part of their UX team, as a web developer, and as a software developer
-        with the Child Development Research Unit's Virtual Reality Lab, where his work was published in the <i>Journal of Pediatric
+        and machine learning. Tom has worked with BlackBerry as part of their UX team, as a web developer, and with the Child Development Research Unit's Virtual Reality Lab, where his work was published in the <i>Journal of Pediatric
         Psychology</i>.
       </p>
       <p>
