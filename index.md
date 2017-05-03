@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="jumbotron">
   <div class="jumbo-header">
-    <h1 class="text-center">WE CREATE BETTER USER EXPERIENCES.</h1>
+    <h1 class="text-center">We create better user experiences.</h1>
   </div>
 </div>
 <div class="container">
