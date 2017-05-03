@@ -8,7 +8,7 @@ layout: default
 </div>
 <div class="container">
   <div class="row">
-    <div class="col-xs-12 col-lg-4">
+    <div class="col-xs-12 col-md-4">
       <h2 class="text-center"><span class="brand-color"><i class="fa fa-flask" aria-hidden="true"></i></span> Research</h2>
       <p>
         Our team will help you understand your users and their goals, motivations, and behaviours. We will provide you with actionable,
@@ -21,7 +21,7 @@ layout: default
         <li>Expert evaluation</li>
       </ul>
     </div>
-    <div class="col-xs-12 col-lg-4">
+    <div class="col-xs-12 col-md-4">
       <h2 class="text-center"><span class="brand-color"><i class="fa fa-pencil-square-o" aria-hidden="true"></i></span> Design</h2>
       <p>
         From paper prototypes to high fidelity mock ups, in virtual reality or on the web, we will work with you to create an intuitive
@@ -34,10 +34,11 @@ layout: default
         <li>Interface design</li>
       </ul>
     </div>
-    <div class="col-xs-12 col-lg-4">
+    <div class="col-xs-12 col-md-4">
       <h2 class="text-center"><span class="brand-color"><i class="fa fa-code" aria-hidden="true"></i></span> Develop</h2>
       <p>
-        Ready to implement your new design? Our team will help build and deliver your product to your customers!
+        Ready to implement your new design? On the web or mobile devices, our team will help build, test, and deliver your product 
+        to your customers, using modern technology and processes.
       </p>
       <ul>
         <li>Web applications</li>
