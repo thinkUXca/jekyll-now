@@ -56,3 +56,5 @@ on other mediums.
 In short, it's great to see this fantastic technology becoming available to more people, and I'm looking forward to seeing it catch on. 
 I've got another post coming with some design considerations for developing VR applications, including some issues that we ran into 
 at the CDRU.
+
+<small>(A version of this post originally appeared on my [personal blog](http://tommyhall.ca))</small>
