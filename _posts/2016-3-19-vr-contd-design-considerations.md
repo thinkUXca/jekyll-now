@@ -103,3 +103,5 @@ naturally drawn to movement, it was natural for the user to want to look at the 
 These are just a few examples of design considerations in VR development that can significantly improve the experience of your VR application. 
 I may write more about VR development in the future, because this is such an exciting time to be (virtually?) alive, and it will be fascinating 
 to see how designing for VR headsets evolves over the coming months and years.
+
+_(A version of this post originally appeared on my [personal blog](http://tommyhall.ca))_
