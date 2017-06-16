@@ -241,16 +241,12 @@ questions in the free plan, and adding new questions and pages is simple.
 
 #### The bad ####
 
-* **Free Plan Show-stopper:** can't export results or customize reports
-
-The major kickers are the inability to export data and customize reports in the free plan. Visually, I would liken it to
-softare written by developers for power users. It feels like the 90's up in here. It's very efficient, but not
-all-together very pretty.
+**Free Plan Show-stopper:** can't export results or customize reports. The major disappointment with this tool is the inability to 
+export data and customize reports in the free plan. Visually, I would liken it to desktop software written by developers for power users. It feels a little like the 90s. It's very efficient, but not very aesthetically pleasing.
 
 
 ## Summary ##
 
-By no means does this cover all of the survey tools with free plans that are out there. In fact, (it barely scratches the surface)[http://www.capterra.com/survey-software/]=
-We reviewed some of the most common tools, and stopped when we found one that was acceptable for our current purposes. We're currently using Google Forms for our user surveys, and should the time arise where we want to improve on Google Forms' flat and uninspiring visual design, we will likely look more deeply at paid plans for SurveyGizmo and SurveyMonkey. 
+By no means does this cover all of the survey tools with free plans that are out there. In fact, (it barely scratches the surface)[http://www.capterra.com/survey-software/]. We reviewed some of the most common tools, and stopped when we found one that was acceptable for our current purposes. We're currently using Google Forms for our user surveys, and should the time arise where we want to improve on Google Forms' flat and uninspiring visual design, we will likely look more deeply at paid plans for SurveyGizmo and SurveyMonkey. 
 
 Hope this helps, and happy surveying!
