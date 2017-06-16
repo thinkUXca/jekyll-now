@@ -168,8 +168,8 @@ run together and are not visually distinct), but you can create them, so that's 
 Both of these drawbacks are **Free Plan Show-stoppers**. The inability to change chart types when viewing results is acceptable for 
 some question types (such as multiple choice), but for data matrix questions the results displayed in the default chart are fairly
 useless. It doesn't even tell you the distribution of the responses (e.g. how many people selected each rating for each row)! It only
-shows mean and variation, which in a matrix, are not very helpful. If you want the data, you have to either tabulate it yourself (good
-luck), or upgrade to a paid plan.
+shows mean and variation, which are not very helpful in a matrix. If you want that data you have to either tabulate it yourself (good
+luck) or upgrade to a paid plan.
 
 
 ### SurveyMonkey ###
