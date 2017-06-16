@@ -193,7 +193,7 @@ SurveyMonkey is probably the most well-known survey tool out there. It's easy to
 
 These drawbacks are **Free Plan Show-stoppers**. While there's no denying the ease of creating surveys using SurveyMonkey, the fact that
 the free plan limits you to 10 questions makes it severely limited, and in almost all cases, unusable as a free option. Furthermore, 
-the UX of this limitation is itself frustrating: SurveyMonkey will allow you to create an entire survey, and test it out, before telling
+the UX of this limitation is itself frustrating: SurveyMonkey will allow you to create an entire survey and test it out before telling
 you that the free plan only allows 10 questions. There is no warning when you add an 11th, 12th, or 20th question. Only when you're
 ready to send it out to participants will you find out that the free plan is limited to 10 questions.
 
@@ -225,7 +225,7 @@ Matrix questions aren't available in either the free or the paid plans. When vie
 plan, nor can you export data. Additionally, there is no option to add pages or change how the survey is delivered to participants: 
 it's one question at a time.
 
-### Zoho Survey ###
+## Zoho Survey ##
 
 **ThinkUX rating:** 5 / 10
 
