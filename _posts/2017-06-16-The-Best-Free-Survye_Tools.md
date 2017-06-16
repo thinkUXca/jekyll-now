@@ -95,7 +95,7 @@ Here is a summary of the free plans of tools that we tested, in alphabetical ord
 and its surveys. We are in no way associated with any of these companies.</p>
 
 
-### Google Forms ###
+## Google Forms ##
 
 **ThinkUX rating:** 9.5 / 10
 
@@ -122,7 +122,7 @@ as many features (for example, you can't have a textbox beside a multiple choice
 yet that I needed to do something that I couldn't find a work-around for.
 * The inability to move pages around is a nuisance.
 
-### SurveyGizmo ###
+## SurveyGizmo ##
 
 **ThinkUX rating:** 8 / 10
 
@@ -146,7 +146,7 @@ customizable so you can choose which type of chart to display, or to filter your
 
 These drawbacks are unfortunate, because other aspects of the tool are very well done.
 
-### SurveyHero ###
+## SurveyHero ##
 
 **ThinkUX rating:** 6 / 10
 
@@ -172,7 +172,7 @@ shows mean and variation, which are not very helpful in a matrix. If you want th
 luck) or upgrade to a paid plan.
 
 
-### SurveyMonkey ###
+## SurveyMonkey ##
 
 **ThinkUX rating:** 7.5 / 10
 
@@ -199,7 +199,7 @@ ready to send it out to participants will you find out that the free plan is lim
 
 This is deceptive, which is not a great feeling to evoke in potential customers.
 
-### SurveyPlanet ###
+## SurveyPlanet ##
 
 **ThinkUX rating:** 3 / 10
 
@@ -248,7 +248,7 @@ softare written by developers for power users. It feels like the 90's up in here
 all-together very pretty.
 
 
-### Summary ###
+## Summary ##
 
 By no means does this cover all of the survey tools with free plans that are out there. In fact, (it barely scratches the surface)[http://www.capterra.com/survey-software/]=
 We reviewed some of the most common tools, and stopped when we found one that was acceptable for our current purposes. We're currently using Google Forms for our user surveys, and should the time arise where we want to improve on Google Forms' flat and uninspiring visual design, we will likely look more deeply at paid plans for SurveyGizmo and SurveyMonkey. 
