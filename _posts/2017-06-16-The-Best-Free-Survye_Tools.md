@@ -119,8 +119,8 @@ All in all, for a free tool, this is quite an incredible product. If I'm nitpick
 * The aesthetic is less appealing than some of the other tools.
 * It doesn't support as many question types, and the question types don't have
 as many features (for example, you can't have a textbox beside a multiple choice/checkbox answer) but I haven't run into a situation
-yet that I needed to do something that I couldn't find a work-around for (granted, small sample).
-* The inability to move pages around is a nuissance.
+yet that I needed to do something that I couldn't find a work-around for.
+* The inability to move pages around is a nuisance.
 
 ### SurveyGizmo ###
 
