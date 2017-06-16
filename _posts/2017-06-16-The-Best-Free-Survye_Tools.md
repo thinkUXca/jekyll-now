@@ -144,7 +144,7 @@ customizable so you can choose which type of chart to display, or to filter your
 * **Free Plan Show-stopper**: you can't create matrix questions.
 * Can't customize the look and feel of your survey.
 
-This drawbacks are unfortunate, because other aspects of the tool are very well done.
+These drawbacks are unfortunate, because other aspects of the tool are very well done.
 
 ### SurveyHero ###
 
