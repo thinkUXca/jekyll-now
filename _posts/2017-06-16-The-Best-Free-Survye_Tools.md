@@ -12,7 +12,7 @@ Our baseline requirements for basic surveys are:
 
 * Ask ~20 questions
 * Get unlimited results
-* Create matrix rating questions (a user is asked to rate a number of different items on the same scale, e.g., from *very unlikely* to *very likely*)
+* Create matrix rating questions (e.g. asking the respondent to rate a number of different items on the same scale, such as from *very unlikely* to *very likely*)
 * View individual and tabulated results
 * Export results
 
