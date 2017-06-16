@@ -158,8 +158,8 @@ These drawbacks are unfortunate, because other aspects of the tool are very well
 #### The good ####
 
 The drag and drop interface for creating questions and surveys is very intuitive. You can lay your survey out just
-the way you want to. Also, you can create matrix questions!  Sure, they're not perfect visually (the ranking appear to
-run together and are not visually distinct), but you can create them, so that's a plus.
+the way you want to. Also, you can create matrix questions!  Sure, they're not perfect visually (e.g. the rankings appear to
+run together and are not visually distinct), but you can create them, which is a plus.
 
 #### The bad ####
 * Can't export results
