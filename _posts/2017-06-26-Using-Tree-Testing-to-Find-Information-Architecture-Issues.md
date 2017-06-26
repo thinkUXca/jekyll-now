@@ -70,7 +70,7 @@ It can be very to assess certain issues, like labelling issues, with quantitativ
 
 ### Run the rest remotely ###
 
-After you're confident in your test, you can submit it to
+After you're confident in your test, you can run the remainder of your tests using a remote testing tool.  This will reduce the time required to both administer and analyze results from the test.
 
 ### Things to keep in mind ###
 
