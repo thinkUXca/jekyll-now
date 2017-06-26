@@ -5,12 +5,14 @@ author: jonathan
 tags: [information architecture, tree testing]
 ---
 
+Figuring out why users aren't using certain parts of your site can be a daunting task if you don't have the right tools. Tree testing is a great way to assess your site's information architecture and discover problems with your labels and categorization.
+
 ## What is Tree Testing? ##
 
 Tree testing is a way to test that your information architecture (IA) matches the mental models of your users.  It aims to answer the following questions:
-* can people easily find information on your website?
-* do your menu/category names make sense to your users?
-* is information categorized in a way that users expect?
+* Can people easily find information on your website?
+* Do your menu/category names make sense to your users?
+* Is information categorized in a way that users expect?
 
 Tree testing is an important IA technique because it _separates the user interface from the information structure._  During a tree test, users do not interact with the user interface; they navigate using only links.  By separating out the structure from the interface, you can determine if an issue is caused by the information architecture (e.g. people don't understand your category names, your heirarchy doesn't match how users think about the information, etc.) or by the navigational components and UI layout.  Let's look one of the most common issues clients have with their websites.
 
