@@ -46,11 +46,11 @@ The tree is a text-only version of your site/information hierarchy. You can crea
   <figcaption class="figure-caption">NHL.com site tree, partial</figcaption>
 </figure>
 
-The tree should include all of your categories, including both top-level and sub-categories. If you leave any part of your tree out, you run the risk of your test not being representative of actual user behaviour on your site. For example, if you leave out one part of your tree to test another and users perform well on your tree test, you might think that your tree is well structured. However, your users may confuse one of your tested categories with one that you left out.
+The tree should include all of your categories, including both top-level and sub-categories. If you leave any part of your tree out, you run the risk of your test not being representative of actual user behaviour on your site. For example, if you leave out one part of your tree to test another, and users perform well on your tree test, you might think that your tree is well structured. However, your users may confuse one of your tested categories with one that you left out.
 
 ### The Tasks ###
 
-Once you have the tree, you're going to ask users to find some information or complete some action using the tree. These tasks should be informed by key business or website goals, such as finding particular products, or donating to a charity. Each task has a "correct" answer, i.e., a category that is where the information should be found.
+Once you have the tree, you're going to ask users to find some information or complete some action using the tree. These tasks should be informed by key business or website goals, such as finding particular products, or donating to a charity. Each task has a "correct" answer: a category where the information is found.
 
 It's important to take the time to write good tasks. In general, tasks:
 * should be specific
@@ -61,7 +61,7 @@ It's important to take the time to write good tasks. In general, tasks:
 
 Tree tests are often run as unmoderated, remote sessions. This is a major benefit from a time and cost perspective, but it doesn't capture the full context of the user experience. For this reason, you should run a few tree tests in person before sending out a link to the test.
 
-### Run a few in person ###
+### Run the first few tests in person ###
 
 Running tests in person allows you to:
 * identify any issues with your task wording
@@ -69,13 +69,11 @@ Running tests in person allows you to:
 
 It can be very helpful to use quantitative data to assess certain issues, such as labelling. If participants do not understand a particular label, or perceive it to be vague, they may not click on it very often. Quantitative data will show you that people are not clicking on a category, but it will not tell you why. Asking users during in-person sessions can help identify what the issues are, and you can implement solutions before collecting the majority of your data.
 
-### Run the rest remotely ###
-
 After you're confident in your test, you can run the remainder of your tests using a remote testing tool. This will reduce the time required to both administer and analyze results from the test.
 
 ### Things to keep in mind ###
 
-When running a tree test, it's important to think about how running multiple tasks with the same user affects the results. The first time a user attempts a task, they have never seen the tree before, so they haven't learned anything about the tree (they have no learning bias). On subsequent tasks, participants have been exposed to the tree, and may recall some of the tree from previous traversals. This can affect what routes they take, and how quickly and accurately they are able to complete tasks. For this reason, you should try and minimize the number of tasks for each participant. You can also try to assign tasks that use different parts of the tree to minimize the learning bias.
+When running a tree test, it's important to think about how running multiple tasks with the same user influences the results. The first time a user attempts a task, they have never seen the tree before, so they don't know anything about the tree. On subsequent tasks, participants have been exposed to the tree, and may recall some of the tree from previous traversals. This is called *learning bias*, and it can affect what routes they take, and how quickly and accurately they are able to complete tasks. For this reason, you should try and minimize the number of tasks for each participant. You can also try to assign tasks that use different parts of the tree to minimize the learning bias.
 
 ## Tree Testing Results ##
 
