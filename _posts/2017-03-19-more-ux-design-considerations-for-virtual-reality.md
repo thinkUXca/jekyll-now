@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VR cont'd - design considerations
+title: More UX design considerations for virtual reality
 author: tom
 ---
 
