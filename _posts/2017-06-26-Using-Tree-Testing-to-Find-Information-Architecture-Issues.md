@@ -78,11 +78,11 @@ When running a tree test, it's important to think about how running multiple tas
 ## Tree Testing Results ##
 
 After completing a tree test, you'll have learned the following for each task:
-* *Direct Success Rate*: the percentage of participants that successfully completed the task without having to go up and down the tree
-* *Indirect Success Rate*: the percentage of participants that successfully completed the task, but had to go up and down the tree to find it
-* *Failure Rate*: the percentage of participants that did not successfully complete the task
-* *Pathing*: the routes that people took up and down the tree before selecting an answer
-* *Time to complete*: the amount of time taken to finish the task
+* **Direct Success Rate**: the percentage of participants that successfully completed the task without having to go up and down the tree
+* **Indirect Success Rate**: the percentage of participants that successfully completed the task, but had to go up and down the tree to find it
+* **Failure Rate**: the percentage of participants that did not successfully complete the task
+* **Pathing**: the routes that people took up and down the tree before selecting an answer
+* **Time to complete**: the amount of time taken to finish the task
 
 Note: the names of these metrics may vary depending on the software you use.
 
