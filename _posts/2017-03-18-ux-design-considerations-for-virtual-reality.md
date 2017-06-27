@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Experiences in VR development
+title: UX design considerations for virtual reality
 author: tom
 ---
 
