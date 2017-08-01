@@ -12,13 +12,13 @@ The lack of descriptiveness of the name, Gestalt Principles, might make you thin
 
 Learning the Gestalt Principles takes the guesswork out of design.
 
-There is a tonne of value in doing competitive reviews to get ideas on the design paradigms and patterns used in a given product space, but this has limitations. Maybe you're really good at knowing when something looks good, or when something looks bad, but you have a hard time identifying exactly _why_. Giving yourself a framework to think about design will make it easier for you to understand the _why_, and allow you to more easily and confidently create your own designs. The Gestalt Principals give you this framework.
+There is a tonne of value in doing competitive reviews to get ideas on the design paradigms and patterns used in a given product space, but this has limitations. Maybe you're really good at knowing when something looks good, or when something looks bad, but you have a hard time identifying exactly _why_. Giving yourself a framework to think about design will make it easier for you to understand the _why_, and allow you to more easily and confidently create your own designs. The Gestalt Principles give you this framework.
 
-There's no definitive list of Gestalt Principals, but I'm going to write about the ones that I use and think about the most when I'm creating wireframes.
+There's no definitive list of Gestalt Principles, but I'm going to write about the ones that I use and think about the most when I'm creating wireframes.
 
-# Principal #X: Figure Ground Relationships #
+# Principle: Figure Ground Relationships #
 
-A.k.a. The Foreground-Background Principal. A.k.a The prinicpal of "What matters and what doesn't." When people look at a scene, the first thing that happens instinctively is they determine what in their field of view is important, and what is not. To do this, the brain percieves objects as either foreground elements (things to focus on because they need our attention) or background elements (things that provide context, but are not as important). We do this automatically and this mechanism is the way that people determine what's important to deal with right now (a _figure_), and what is not (a _ground_).
+A.k.a. The Foreground-Background Principle. A.k.a The prinicpal of "What matters and what doesn't." When people look at a scene, the first thing that happens instinctively is they determine what in their field of view is important, and what is not. To do this, the brain percieves objects as either foreground elements (things to focus on because they need our attention) or background elements (things that provide context, but are not as important). We do this automatically and this mechanism is the way that people determine what's important to deal with right now (a _figure_), and what is not (a _ground_).
 
 Let's look at some examples to understand some visual cues you can use to distinguish figure from ground. Delicious, beery, examples. I have to tell you that these wouldn't be my personal beer choices, but I'm using them as examples because they're all extremely popular and have clearly spent some money on their websites.
 
