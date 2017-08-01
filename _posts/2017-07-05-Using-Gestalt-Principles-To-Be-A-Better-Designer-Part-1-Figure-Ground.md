@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Using Gestalt Principles To Be A Better Designer, Part 1: Figure/Ground
+title: Using Gestalt Principles To Be A Better Designer, Part 1 - Figure/Ground
+subtitle: Part 1 - Figure/Ground
 author: jonathan
 ---
 
