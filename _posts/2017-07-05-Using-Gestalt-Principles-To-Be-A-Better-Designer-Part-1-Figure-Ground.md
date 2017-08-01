@@ -27,14 +27,14 @@ Let's look at some examples to understand some visual cues you can use to distin
 
 Hero images, often with a clear call to action (CTA) button, are currently one of the most common patterns for landing page design. A good hero image uses the foreground/background principle to convey a message quickly, and make the next action obvious.
 
-<img src="{{ site.baseurl }}/images/gestalt_principles/figure_ground-moosehead_hero.png"
+<img src="{{ site.baseurl }}/images/gestalt/figure_ground-moosehead_hero.png"
   class="img-responsive"
   alt="Moosehead hero banner"
   />
 
 Moosehead uses a hero image with a clear foreground and background. The text (figure) is white with a tiny grey border and is very large, both of which make it pop in front of the image (ground). The contrast of the white text on the darker background also draws the eye. The image itself is greyscale and has been blurred wherever there is text displayed to ensure that the text is clearly the focus. All of these things work together to make it clear that the text is the _figure_ and the image is the _ground_.
 
-<img src="{{ site.baseurl }}/images/gestalt_principles/figure_ground-heineken_hero.png"
+<img src="{{ site.baseurl }}/images/gestalt/figure_ground-heineken_hero.png"
   class="img-responsive"
   alt="Heineken hero banner"
   />
@@ -45,7 +45,7 @@ Heineken uses a movie as the background of their hero banner. This makes it a li
 
 Molson Canadian uses boxes judiciously to separate foreground from background. This is what you see when you arrive at Molson's homepage:
 
-<img src="{{ site.baseurl }}/images/gestalt_principles/figure_ground-molson1.png"
+<img src="{{ site.baseurl }}/images/gestalt/figure_ground-molson1.png"
   class="img-responsive"
   alt="Molson Canadian boxes with image"
   />
@@ -58,14 +58,14 @@ The images of the beer have sharp lines that contrast with the slightly blurred 
 
 The bottom box on the Molson landing page above uses one more technique to separate it from the background: a shadow. Notice under the the box there is a slight drop shadow. This provides the feeling that the box is on top of the wheat field. They use shadows again further down the landing page to provide the same effect:
 
-<img src="{{ site.baseurl }}/images/gestalt_principles/figure_ground-molson2.png"
+<img src="{{ site.baseurl }}/images/gestalt/figure_ground-molson2.png"
   class="img-responsive"
   alt="Molson Canadian boxes on flat background"
   />
 
 Budweiser does the same thing:
 
-<img src="{{ site.baseurl }}/images/gestalt_principles/figure_ground-budweiser_hero.png"
+<img src="{{ site.baseurl }}/images/gestalt/figure_ground-budweiser_hero.png"
   class="img-responsive"
   alt="Budweider shadows"
   />
