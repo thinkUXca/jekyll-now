@@ -23,7 +23,7 @@ A.k.a. The Foreground-Background Principle. A.k.a The prinicpal of "What matters
 
 Let's look at some examples to understand some visual cues you can use to distinguish figure from ground. Delicious, beery, examples. I have to tell you that these wouldn't be my personal beer choices, but I'm using them as examples because they're all extremely popular and have clearly spent some money on their websites.
 
-## Hero images: using contrast  ##
+## Hero images: creating contrast ##
 
 Hero images, often with a clear call to action (CTA) button, are currently one of the most common patterns for landing page design. A good hero image uses the foreground/background principle to convey a message quickly, and make the next action obvious.
 
@@ -32,7 +32,7 @@ Hero images, often with a clear call to action (CTA) button, are currently one o
   alt="Moosehead hero banner"
   />
 
-Moosehead uses a hero image with a clear foreground and background. The text (figure) is white with a tiny grey border and is very large, both of which make it pop in front of the image (ground). The contrast of the white text on the darker background also draws the eye. The image itself is greyscale and has been blurred wherever there is text displayed to ensure that the text is clearly the focus. All of these things work together to make it clear that the text is the _figure_ and the image is the _ground_.
+Moosehead uses a hero image with a clear foreground and background, conveyed using *size*, *colour*, and *level of detail*. The text (figure) is white with a thin grey border and is very large, both of which make it pop in front of the image (ground). The contrast of the white text on the darker background also draws the eye. The background image is greyscale and has been blurred wherever there is text to ensure that the text is clearly the focus. Another way of thinking about this is that the background image has a lower level of detail (it's blurry) than the foreground. All of these things work together to make it clear that the text is the _figure_ and the image is the _ground_.
 
 <img src="{{ site.baseurl }}/images/gestalt/figure_ground-heineken_hero.png"
   class="img-responsive"
@@ -52,7 +52,7 @@ Molson Canadian uses boxes judiciously to separate foreground from background. T
 
 Three elements immediately jump out: the picture of the beer, the box on the top-right ("Click here to nominate..") and the big white box ("Great Canadians deserve.."). The box on the top right is obviously a foreground element: the use of the white border clearly separates it from the image it's on top of. Notice how the background under the image is primarily blue and dark yellow, providing contrast with the border, making it pop.
 
-The images of the beer have sharp lines that contrast with the slightly blurred background (noticing a pattern here?) that create a distinct _foreground_ feel.
+The images of the beer have sharp lines that contrast with the slightly blurred background (noticing a level-of-detail pattern here?) that create a distinct _foreground_ feel. The boxes and images also *overlap* the background image: they are clearly in front of the background image.
 
 ## Shadows ##
 
@@ -75,8 +75,8 @@ Notice the shadows under the navigation bar and the primary content? Both of the
 # TL;DR #
 
 The Figure/Ground prinicple is all about using visual cues to indicate what is important (foreground/figure) and what is not important (background/ground). Three common techniques to do this are:
-* using contrast (colour, size, etc.), often seen in hero banners
-* using boxes to separate content
+* using contrast (colour, size, level of detail), often seen in hero banners
+* using boxes to separate content (overlap)
 * using shadows to provide depth
 
 To cement this idea, you need to practice. Take five minutes right now and visit your favourite sites and looking at how they use thie principle to convey foreground/background. Good luck, and design on.
