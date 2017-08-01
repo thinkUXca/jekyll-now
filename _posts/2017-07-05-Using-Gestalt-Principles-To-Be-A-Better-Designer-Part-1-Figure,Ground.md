@@ -1,0 +1,81 @@
+---
+layout: post
+title: Using Gestalt Principles To Be A Better Designer, Part 1: Figure/Ground
+author: jonathan
+---
+
+Understanding Gestalt Principles will help you be a better designer.
+
+The lack of descriptiveness of the name, Gestalt Principles, might make you think that this is some complicated black magic stuff you need a PhD to understand. If they were called "Five-ish Principles of Design Based On The Way Humans Perceive and Process Visual Information", it would be much more clear what they are (and also much more painful to say). This post is going to explain them in simple terms, and show you how to apply them when designing your wireframes.
+
+# Why should you care? #
+
+Learning the Gestalt Principles takes the guesswork out of design.
+
+There is a tonne of value in doing competitive reviews to get ideas on the design paradigms and patterns used in a given product space, but this has limitations. Maybe you're really good at knowing when something looks good, or when something looks bad, but you have a hard time identifying exactly _why_. Giving yourself a framework to think about design will make it easier for you to understand the _why_, and allow you to more easily and confidently create your own designs. The Gestalt Principals give you this framework.
+
+There's no definitive list of Gestalt Principals, but I'm going to write about the ones that I use and think about the most when I'm creating wireframes.
+
+# Principal #X: Figure Ground Relationships #
+
+A.k.a. The Foreground-Background Principal. A.k.a The prinicpal of "What matters and what doesn't." When people look at a scene, the first thing that happens instinctively is they determine what in their field of view is important, and what is not. To do this, the brain percieves objects as either foreground elements (things to focus on because they need our attention) or background elements (things that provide context, but are not as important). We do this automatically and this mechanism is the way that people determine what's important to deal with right now (a _figure_), and what is not (a _ground_).
+
+Let's look at some examples to understand some visual cues you can use to distinguish figure from ground. Delicious, beery, examples. I have to tell you that these wouldn't be my personal beer choices, but I'm using them as examples because they're all extremely popular and have clearly spent some money on their websites.
+
+## Hero images: using contrast  ##
+
+Hero images, often with a clear call to action (CTA) button, are currently one of the most common patterns for landing page design. A good hero image uses the foreground/background principle to convey a message quickly, and make the next action obvious.
+
+<img src="{{ site.baseurl }}/images/gestalt_principles/figure_ground-moosehead_hero.png"
+  class="img-responsive"
+  alt="Moosehead hero banner"
+  />
+
+Moosehead uses a hero image with a clear foreground and background. The text (figure) is white with a tiny grey border and is very large, both of which make it pop in front of the image (ground). The contrast of the white text on the darker background also draws the eye. The image itself is greyscale and has been blurred wherever there is text displayed to ensure that the text is clearly the focus. All of these things work together to make it clear that the text is the _figure_ and the image is the _ground_.
+
+<img src="{{ site.baseurl }}/images/gestalt_principles/figure_ground-heineken_hero.png"
+  class="img-responsive"
+  alt="Heineken hero banner"
+  />
+
+Heineken uses a movie as the background of their hero banner. This makes it a little more challenging to ensure that the message and CTA pop, but they've done an excellent job by using large white text and darkening the movie. The CTA, "Watch the prep talk", is mounted on a semi-transparent black background that serves two purposes: to ensure contrast between the text and the movie so you can always read it, and to convey that it's a button (it also changes on hover to make it crystal clear).
+
+## Boxes of content ##
+
+Molson Canadian uses boxes judiciously to separate foreground from background. This is what you see when you arrive at Molson's homepage:
+
+<img src="{{ site.baseurl }}/images/gestalt_principles/figure_ground-molson1.png"
+  class="img-responsive"
+  alt="Molson Canadian boxes with image"
+  />
+
+Three elements immediately jump out: the picture of the beer, the box on the top-right ("Click here to nominate..") and the big white box ("Great Canadians deserve.."). The box on the top right is obviously a foreground element: the use of the white border clearly separates it from the image it's on top of. Notice how the background under the image is primarily blue and dark yellow, providing contrast with the border, making it pop.
+
+The images of the beer have sharp lines that contrast with the slightly blurred background (noticing a pattern here?) that create a distinct _foreground_ feel.
+
+## Shadows ##
+
+The bottom box on the Molson landing page above uses one more technique to separate it from the background: a shadow. Notice under the the box there is a slight drop shadow. This provides the feeling that the box is on top of the wheat field. They use shadows again further down the landing page to provide the same effect:
+
+<img src="{{ site.baseurl }}/images/gestalt_principles/figure_ground-molson2.png"
+  class="img-responsive"
+  alt="Molson Canadian boxes on flat background"
+  />
+
+Budweiser does the same thing:
+
+<img src="{{ site.baseurl }}/images/gestalt_principles/figure_ground-budweiser_hero.png"
+  class="img-responsive"
+  alt="Budweider shadows"
+  />
+
+Notice the shadows under the navigation bar and the primary content? Both of these serve to give the illusion that they are "on top" of the background.
+
+# TL;DR #
+
+The Figure/Ground prinicple is all about using visual cues to indicate what is important (foreground/figure) and what is not important (background/ground). Three common techniques to do this are:
+* using contrast (colour, size, etc.), often seen in hero banners
+* using boxes to separate content
+* using shadows to provide depth
+
+To cement this idea, you need to practice. Take five minutes right now and visit your favourite sites and looking at how they use thie principle to convey foreground/background. Good luck, and design on.
