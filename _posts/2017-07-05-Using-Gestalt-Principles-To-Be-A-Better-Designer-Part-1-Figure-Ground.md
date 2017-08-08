@@ -79,4 +79,4 @@ The Figure/Ground prinicple is all about using visual cues to indicate what is i
 * using boxes to separate content (overlap)
 * using shadows to provide depth
 
-To cement this idea, you need to practice. Take five minutes right now and visit your favourite sites and looking at how they use thie principle to convey foreground/background. Good luck, and design on.
+To cement this idea, you need to practice. Take five minutes right now and visit your favourite sites and examine the techniques they use to convey foreground/background. Good luck, and design on.
