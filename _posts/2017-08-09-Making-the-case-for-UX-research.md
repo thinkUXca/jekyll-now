@@ -28,6 +28,10 @@ Steve Jobs, after all, famously said that “people don’t know what they want 
 amongst the leaders in UX design, has been known to [conduct product design in secret](https://www.theatlantic.com/technology/archive/2017/07/toaster-a-bit-more-button/534312/) with a handful of what could be called genius 
 designers.
 
+<figure class="figure">
+  <img src="{{ site.baseurl }}/images/case-for-ux-research/genius.jpg" class="img-responsive" alt="a genius designer" />
+</figure>
+
 On the other hand, Jakob Nielsen has been [critical of genius design](https://www.nngroup.com/articles/the-myth-of-the-genius-designer/) for years. First of all, he argues, it’s highly unlikely that you 
 have an actual genius available to work on your project. Even if your team does have access to a designer with many good designs and 
 successful products in their portfolio, not all design patterns fit in all cases. No designer gets it right every time. No matter how 
@@ -52,6 +56,10 @@ Poor UX is [expensive](http://blog.proto.io/4-things-about-ux-designers-that-you
 that users simply don’t want. The client will have to spend more money and time on redesign and redevelopment, and that’s after they’ve 
 (hopefully) figured out what the problem is, which would require some form of user research anyway. You can help them to avoid this by
 making sure that users are involved from the early stages.
+
+<figure class="figure">
+  <img src="{{ site.baseurl }}/images/case-for-ux-research/accounting.jpeg" class="img-responsive" alt="accounting for the benefit of ux" />
+</figure>
 
 Tell the client how a better UX will impact their ROI. [Discuss how user testing can help them to meet their business objectives](http://blog.proto.io/how-to-convince-your-client-to-invest-in-ux/). Are 
 they looking for better conversion rates and user retention? What about increased sales? Are users not finding their way to pages that 
