@@ -30,8 +30,8 @@ There are multiple examples of enclosure in each Facebook post. For example, in 
 1. The entire post is in a white box (it's clear that this entire thing is a single unit).
 2. The video title and video are enclosed in a grey box (it's clear the title is for the video). This isn’t actually part of the Facebook page layout, but is another example of enclosure.
 3. The thumbs up icon and "Like Page" are in a grey box (associating the thumbs up icon with the action of liking the page).
-* The Like, Comment, and Share buttons are enclosed in the white box for the post (it's clear the actions relate to the post).
-* The smiley face (emoji), camera, GIF, and sticker icons are all enclosed in the comment box.
+4. The Like, Comment, and Share buttons are enclosed in the white box for the post (it's clear the actions relate to the post).
+5. The smiley face (emoji), camera, GIF, and sticker icons are all enclosed in the comment box.
 
 ### Article sites ###
 
