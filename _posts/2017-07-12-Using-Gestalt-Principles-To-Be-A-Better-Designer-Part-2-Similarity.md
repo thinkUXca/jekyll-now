@@ -2,7 +2,7 @@
 layout: post
 title: Using Gestalt Principles To Be A Better Designer, Part 2 - Similarity
 author: jonathan
-description: The Gestalt principle of similarity states that things that share similar visual characteristics are perceived to be more related than things that are dissimilar. The three most common characteristics used to create similarity are colour, shape, and size.
+description: The Gestalt principle of similarity states that things that share similar visual characteristics are perceived to be more related than things that are dissimilar. The three most common characteristics used to create similarity are colour, shape, and size. In this post I’ll be looking at the principle of similarity, and how you can use it to become a better designer.
 ---
 
 In [part one](http://www.thinkux.ca/blog/Using-Gestalt-Principles-To-Be-A-Better-Designer-Part-1-Figure-Ground/) of this series, I looked at the figure/ground [Gestalt principle](https://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt/). In this post I’ll be looking at the principle of similarity, and how you can use it to become a better designer.
