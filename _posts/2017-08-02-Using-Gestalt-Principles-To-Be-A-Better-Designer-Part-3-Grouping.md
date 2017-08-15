@@ -42,7 +42,7 @@ I used [Boxes and Arrows](http://www.boxesandarrows.com) in [part 2 of this seri
     class="img-responsive"
     alt="Boxes and Arrows - enclosure"
     />
-  <figcaption class="figure-caption">Figure X: Boxes and Arrows grouping - enclosure </figcaption>
+  <figcaption class="figure-caption">Figure 2: Boxes and Arrows grouping - enclosure </figcaption>
 </figure>
 
 Another good example of enclosing articles can be found on the [CBC](http://www.cbc.ca) website (Canada's national broadcaster).
@@ -52,7 +52,7 @@ Another good example of enclosing articles can be found on the [CBC](http://www.
     class="img-responsive"
     alt="CBC grouping - enclosure"
     />
-  <figcaption class="figure-caption">Figure X: The CBC News stories </figcaption>
+  <figcaption class="figure-caption">Figure 3: The CBC News stories </figcaption>
 </figure>
 
 ### Sign-up Forms ###
@@ -64,7 +64,7 @@ It's common practice to put sign up forms in boxes. For example, Google’s acco
     class="img-responsive"
     alt="Google Sign Up Form - enclosure"
     />
-  <figcaption class="figure-caption">Figure X: Google Sign Up Form - enclosure </figcaption>
+  <figcaption class="figure-caption">Figure 4: Google Sign Up Form - enclosure </figcaption>
 </figure>
 
 It's also very common to see newsletter subscription forms in boxes. For example, here's [Creative Bloq's](http://www.creativebloq.com/) newsletter sign up:
@@ -74,7 +74,7 @@ It's also very common to see newsletter subscription forms in boxes. For example
     class="img-responsive"
     alt="Creative Bloq Newsletter Form - enclosure"
     />
-  <figcaption class="figure-caption">Figure X: Creative Bloq Newsletter Form - enclosure </figcaption>
+  <figcaption class="figure-caption">Figure 5: Creative Bloq Newsletter Form - enclosure </figcaption>
 </figure>
 
 And here's [UX Booth's](http://www.uxbooth.com/):
@@ -84,13 +84,12 @@ And here's [UX Booth's](http://www.uxbooth.com/):
     class="img-responsive"
     alt="UX Booth Newsletter - enclosure"
     />
-  <figcaption class="figure-caption">Figure X: UX Booth Newsletter - enclosure </figcaption>
+  <figcaption class="figure-caption">Figure 6: UX Booth Newsletter - enclosure </figcaption>
 </figure>
-
 
 ### Navigation ###
 
-Navigation is arguably one of the most important parts of any site, and also one of the places where enclosure is used most often. Finding examples to illustrate this was easy, I just picked the first three logos from Figure X: Enclosure logos.
+Navigation is arguably one of the most important parts of any site, and also one of the places where enclosure is used most often.
 
 First we'll look at ABC's top navigation menu:
 
@@ -99,7 +98,7 @@ First we'll look at ABC's top navigation menu:
     class="img-responsive"
     alt="ABC - enclosure on top nav"
     />
-  <figcaption class="figure-caption">ABC's home page navigation. Credit: https://abc.com </figcaption>
+  <figcaption class="figure-caption">Figure 7: ABC's home page navigation. Credit: https://abc.com </figcaption>
 </figure>
 
 Notice how ABC uses a thin tan line to separate the navigation bar from the content?
@@ -111,7 +110,7 @@ Dell uses a similar technique except they have a multi-line menu, all of which i
     class="img-responsive"
     alt="Dell - enclosure on top nav"
     />
-  <figcaption class="figure-caption">Dell's home page navigation. Credit: https://dell.com </figcaption>
+  <figcaption class="figure-caption">Figure 8: Dell's home page navigation. Credit: https://dell.com </figcaption>
 </figure>
 
 Notice how they also use a shadow to create a [figure/ground relationship](http://www.thinkux.ca/blog/Using-Gestalt-Principles-To-Be-A-Better-Designer-Part-1-Figure-Ground/) within the blue box? The drop shadow makes it seem as though the menu on top (which includes the search bar) is physically in front of the menu below, placing more visual importance on the top menu.
@@ -123,7 +122,7 @@ Finally, let's look at Virgin:
     class="img-responsive"
     alt="Virgin - enclosure on top nav"
     />
-  <figcaption class="figure-caption">Virgin's home page navigation. Credit: https://virgin.com </figcaption>
+  <figcaption class="figure-caption">Figure 9: Virgin's home page navigation. Credit: https://virgin.com </figcaption>
 </figure>
 
 Their enclosure isn't a traditional box with lines, but an entire boxed area that encloses the menu and contrasts with all other elements on the page. This is particularly important here because this is a sticky menu (when you scroll, it stays at the top of the viewport).
@@ -138,7 +137,7 @@ There are a [tremendous number of companies](https://conversations.marketing-par
     class="img-responsive"
     alt="Examples of logos that use enclosure"
     />
-  <figcaption class="figure-caption">Figure X: Enclosure logos. Credit: https://conversations.marketing-partners.com/wp-content/uploads/2013/12/enclosures1.jpg </figcaption>
+  <figcaption class="figure-caption">Figure 10: Enclosure logos. Credit: https://conversations.marketing-partners.com/wp-content/uploads/2013/12/enclosures1.jpg </figcaption>
 </figure>
 
 Enclosing a logo makes it clear what is part of the logo, and what is not. Nivea's enclosed logo makes it very easy to pick the logo out of the hero banner:
@@ -148,7 +147,7 @@ Enclosing a logo makes it clear what is part of the logo, and what is not. Nivea
     class="img-responsive"
     alt="Nivea - enclosed logo on hero image"
     />
-  <figcaption class="figure-caption">Nivea's home page, hero image with enclosed logo. Credit: https://nivea.com </figcaption>
+  <figcaption class="figure-caption">Figure 11: Nivea's home page, hero image with enclosed logo. Credit: https://nivea.com </figcaption>
 </figure>
 
 Our ThinkUX logo also uses enclosure. We enclose the UX in a thought bubble:
@@ -169,7 +168,7 @@ Using lines (or thought bubbles, in our case) to connect elements is less common
     class="img-responsive"
     alt="UX Matters infographic linear connectedness"
     />
-  <figcaption class="figure-caption">Figure X: UX Matters Infographic. Credit: http://www.uxmatters.com/</figcaption>
+  <figcaption class="figure-caption">Figure 12: UX Matters Infographic. Credit: http://www.uxmatters.com/</figcaption>
 </figure>
 
 Another Gestalt principle that can be used to convey relatedness is proximity.
@@ -191,7 +190,7 @@ I created a mockup of a site that sells cruises to illustrate poor and good usag
     class="img-responsive"
     alt="Grouping with whitespace"
     />
-  <figcaption class="figure-caption">Figure X: Poor and good use of whitespace for grouping.</figcaption>
+  <figcaption class="figure-caption">Figure 13: Poor and good use of whitespace for grouping.</figcaption>
 </figure>
 
 In the “Poor whitespace usage” example on the left, the spacing between the text and the images is almost equal. The user has to work hard to figure out which picture is associated with which cruise. The middle picture could be for either the Iconic Cities cruise or the More Cities cruise. In “Better whitespace usage” example on the right, by simply moving the text closer to the associated picture, it becomes more clear that the text is related to the the picture *above* the text.
@@ -205,7 +204,7 @@ Despite having [excellent guidelines](https://material.io/guidelines/patterns/er
     class="img-responsive"
     alt="Netflix error message not in proximity to "
     />
-  <figcaption class="figure-caption">Figure X: Netflix error message. Credit: </figcaption>
+  <figcaption class="figure-caption">Figure 14: Netflix error message. Credit: </figcaption>
 </figure>
 
 The error message is far away from where the error occurred (the password field). Google demonstrates a much better use of proximity:
@@ -215,7 +214,7 @@ The error message is far away from where the error occurred (the password field)
     class="img-responsive"
     alt="Google error message in proximity to where the error occurred"
     />
-  <figcaption class="figure-caption">Figure X: Google error messages for errors detected after form submission. </figcaption>
+  <figcaption class="figure-caption">Figure 15: Google error messages for errors detected after form submission. </figcaption>
 </figure>
 
 Notice how a summary of the errors is displayed at the top of the form, and then individual messages appear directly underneath each field containing an error. Each of these error messages is closer to the field that it's related to than to the next field in the form, so it's clear which field the error message is related to.
@@ -226,3 +225,4 @@ Grouping can be achieved using the Gestalt principles of uniform connectedness a
 
 If you with to learn more about grouping using uniform connectedness and proximity, [Smashing Magazine](https://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt/#proximity) and [Andy Rutledge](http://www.andyrutledge.com/gestalt-principles-3.php) are excellent resources.
 
+To cement this idea, you need to practice. Take five minutes and visit your favourite sites and look at how they use uniform connectedness and proximity to group design elements. Good luck, and design on.
