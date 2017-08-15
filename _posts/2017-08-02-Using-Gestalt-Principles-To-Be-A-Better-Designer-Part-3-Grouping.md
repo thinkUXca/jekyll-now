@@ -101,7 +101,7 @@ First we'll look at ABC's top navigation menu:
   <figcaption class="figure-caption">Figure 7: ABC's home page navigation. Credit: https://abc.com </figcaption>
 </figure>
 
-Notice how ABC uses a thin tan line to separate the navigation bar from the content?
+ABC uses a thin tan line underneath the menu to separate the navigation bar from the content, effectively grouping the elements above the line.
 
 Dell uses a similar technique except they have a multi-line menu, all of which is enclosed in a large blue box:
 
@@ -113,7 +113,7 @@ Dell uses a similar technique except they have a multi-line menu, all of which i
   <figcaption class="figure-caption">Figure 8: Dell's home page navigation. Credit: https://dell.com </figcaption>
 </figure>
 
-Notice how they also use a shadow to create a [figure/ground relationship](http://www.thinkux.ca/blog/Using-Gestalt-Principles-To-Be-A-Better-Designer-Part-1-Figure-Ground/) within the blue box? The drop shadow makes it seem as though the menu on top (which includes the search bar) is physically in front of the menu below, placing more visual importance on the top menu.
+In addition to enclosing their content in a blue box, notice how Dell uses a shadow to create a [figure/ground relationship](http://www.thinkux.ca/blog/Using-Gestalt-Principles-To-Be-A-Better-Designer-Part-1-Figure-Ground/) within the blue box? The drop shadow makes it seem as though the menu on top (which includes the search bar) is physically in front of the menu below, placing more visual importance on the top menu.
 
 Finally, let's look at Virgin:
 
