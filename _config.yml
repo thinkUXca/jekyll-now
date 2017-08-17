@@ -8,7 +8,6 @@ name: ThinkUX
 # Added for SEO (https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md)
 title: ThinkUX
 description: User Experience (UX) Consultants based in Toronto, ON, Canada. We specialize is user-centered research, expert UX evaluations, website and app design, user testing, information architecture, prototyping, wireframe creation, and persona, scenario, and user story creation.
-# Used for Sitemap.xml and your RSS feed
 url: http://thinkux.ca
 twitter:
   username: thinkUXofficial
@@ -102,6 +101,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-whitelist:
-  - jekyll-sitemap
