@@ -2,6 +2,7 @@
 layout: post
 title: Using Gestalt Principles To Be A Better Designer, Part 3 - Grouping
 author: jonathan
+sitemap: true
 description: Become a better designer by applying the Gestalt principles of uniform connectedness and proxmity to group elements together and convey that they are related.
 ---
 
