@@ -7,9 +7,7 @@ name: ThinkUX
 
 # Added for SEO (https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md)
 title: ThinkUX
-# Short bio or description (displayed in the header)
 description: User Experience (UX) Consultants based in Toronto, ON, Canada. We specialize is user-centered research, expert UX evaluations, website and app design, user testing, information architecture, prototyping, wireframe creation, and persona, scenario, and user story creation.
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 url: http://thinkux.ca
 twitter:
@@ -39,7 +37,8 @@ footer-links:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
-  stackoverflow: users/105433/jonathan # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackexchange: users/105433/jonathan
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
@@ -103,3 +102,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+whitelist:
+  - jekyll-sitemap
