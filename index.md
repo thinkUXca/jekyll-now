@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: landing
 ---
+
 <div class="jumbotron">
   <div class="jumbo-header">
     <h1 class="text-center">We create better user experiences.</h1>
