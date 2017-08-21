@@ -3,7 +3,8 @@
   <head>
     {% include meta.html %}
     {% include above-the-fold.html %}
-    
+    {% include analytics.html %}
+
     {% seo title=false %}
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}</title>
 
@@ -46,7 +47,6 @@
       </div>
     </div>
 
-    {% include analytics.html %}
     <script src="{{ site.baseurl }}/js/jquery-3.1.1.min.js"></script>
     <script src="{{ site.baseurl }}/js/bootstrap.min.js"></script>
     
