@@ -1,5 +1,6 @@
 ---
 layout: page
+description: The ThinkUX blog covers a range of UX topics including User Experience (UX) Design, Information Architecture (IA), UX Tools, Design Theory, and more!
 ---
 
 <div class="posts">
