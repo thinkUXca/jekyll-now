@@ -3,6 +3,7 @@ layout: post
 title: Creating a Whiteboard Animation
 author: jonathan
 published: true
+description: Creating a whiteboard animation has become simpler over the years with the proliferation of low-cost tools that can make the animation for you based on a set of drawings. These are definitely lower cost, but they often lack authenticity. This post describes the process involved in making a whiteboard animation from scratch.
 ---
 
 As part of my MSc, I created a whiteboard animation (aka. a video-scribed animation, or speed-drawing video) that describes the writing process.  
