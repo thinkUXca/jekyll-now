@@ -2,6 +2,7 @@
 layout: post
 title: The Best Free Survey Tools
 author: jonathan
+description: We are a small user experience (UX) design consultancy, and we don't create surveys for clients frequently enough to justify the monthly cost of many popular survey tools. However, the limitations on the free versions of many popular tools are too restrictive. We went on a search for the best free survey tools, and discovered that Google Forms could do everything we needed to do to create great UX surveys for our clients.
 ---
 
 We're a small company with enough things to spend money on. Creating surveys for clients isn't something we do
