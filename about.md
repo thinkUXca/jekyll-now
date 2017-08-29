@@ -1,5 +1,6 @@
 ---
 layout: page
+description: ThinkUX is a user experience design consultancy based in Toronto, ON. We aim to help our clients create excellent user experiences by focusing on understanding their users and their users' needs. We produce high-quality deliverables based on user-centered research. We help clients make their ideas into beautifully crafted, user-friendly mobile and web applications.
 ---
 <div class="row">
   <div class="col-xs-12 col-md-9">
