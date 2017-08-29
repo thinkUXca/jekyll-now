@@ -3,7 +3,7 @@ layout: post
 title: Using Gestalt Principles To Be A Better Designer, Part 3 - Grouping
 author: jonathan
 sitemap: true
-description: Become a better designer by applying the Gestalt principles of uniform connectedness and proxmity to group elements together and convey that they are related.
+description: Become a better designer and improve the UX of your designs by applying the Gestalt principles of uniform connectedness and proxmity to group elements and convey that they are related. Grouping makes it clear that elements are related and improves the user experience of your sites and applications.
 ---
 
 In [part one](http://www.thinkux.ca/blog/Using-Gestalt-Principles-To-Be-A-Better-Designer-Part-1-Figure-Ground/) and [part two](http://thinkux.ca/blog/Using-Gestalt-Principles-To-Be-A-Better-Designer-Part-2-Similarity/) of this series, I looked at the figure/ground and similarity [Gestalt principle](https://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt/). In this post I’ll be looking at the Gestalt principles related to grouping elements (proximity and uniform connectedness) and how you can use them to improve your designs.
