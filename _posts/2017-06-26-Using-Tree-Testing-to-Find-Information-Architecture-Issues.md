@@ -3,6 +3,7 @@ layout: post
 title: Using Tree Testing to Find Information Architecture Issues
 author: jonathan
 tags: [information architecture, tree testing]
+description: Tree Testing is an excellent tool available to help discover problems with a website or application's information architecture. It can help to determine if people can find the information they're looking for on your site, and to understand if your the labels you've chosen for your navigation make sense to your users.
 ---
 
 Understanding why users aren't using certain parts of your site can be a daunting task if you don't have the right tools. Tree testing is a great way to assess your site's information architecture and discover problems with your labels and categorization.
