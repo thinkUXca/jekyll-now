@@ -2,6 +2,7 @@
 layout: post
 title: Creating Fully-Responsive Framed, Matted Pictures Using CSS
 author: jonathan
+description: Learn how to create beautiful, realistic frames and mats around your artwork using CSS. Creating fully-responsive framed, matted pictures using CSS (and javascript for your convenience) creates an excellent user experience as users feel that they are looking at the art as if it's hung in a gallery or on their wall.
 ---
 
 We recently redesigned [laurenellis.ca](http://www.laurenellis.ca) for the incredibly talented portrait artist Lauren Ellis.  She wanted her art displayed as it would be in an art gallery: beautifully framed and matted, with professional-looking
