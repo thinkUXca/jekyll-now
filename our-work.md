@@ -12,7 +12,14 @@ description: The portfolio of ThinkUX's user experience design work, including p
   
   <div class="row row-portfolio">
     <div class="col-xs-12 col-md-6 col-md-offset-3">
-      <p>Hello there</p>
+      <div class="row">
+        <div class="col-xs-12 col-sm-4">
+        </div>
+        <div class="col-xs-12 col-sm-8">
+          <h4>Singularity University</h4>
+          <p>Testing testing 1-2-3.</p>
+        </div>
+      </div>
     </div>
   </div>
   
