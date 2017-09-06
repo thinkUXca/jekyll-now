@@ -11,7 +11,7 @@ description: The portfolio of ThinkUX's user experience design work, including p
 <div class="container">
   
   <div class="row row-portfolio">
-    <div class="col-xs-12">
+    <div class="col-xs-12 col-md-10 col-md-offset-1">
       <div class="row">
         <div class="col-xs-12 col-sm-5" style="padding-top: 10px">
           <img class="img-responsive" src="{{ site.baseurl }}/images/portfolio-test.jpg" alt="porfolio placeholder image" />
