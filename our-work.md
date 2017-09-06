@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: The portfolio of ThinkUX's user experience design work, including prototyping, expert evaluation, usability testing, design sprints, user interviews, and more.
 ---
 
