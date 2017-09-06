@@ -29,7 +29,7 @@ description: The portfolio of ThinkUX's user experience design work, including p
     <div class="col-xs-12 col-md-10 col-md-offset-1">
       <div class="row">
         <div class="col-xs-12 col-sm-5 col-sm-push-7" style="margin-top: 30px">
-          <img class="img-responsive" src="{{ site.baseurl }}/images/portfolio-test2.jpg" alt="porfolio placeholder image" />
+          <img class="img-responsive" src="{{ site.baseurl }}/images/portfolio-test2.jpeg" alt="porfolio placeholder image" />
         </div>
         <div class="col-xs-12 col-sm-7 col-sm-pull-5">
           <h3>Child Development Research Unit</h3>
@@ -44,7 +44,7 @@ description: The portfolio of ThinkUX's user experience design work, including p
     <div class="col-xs-12 col-md-10 col-md-offset-1">
       <div class="row">
         <div class="col-xs-12 col-sm-5" style="margin-top: 30px">
-          <img class="img-responsive" src="{{ site.baseurl }}/images/portfolio-test3.jpg" alt="porfolio placeholder image" />
+          <img class="img-responsive" src="{{ site.baseurl }}/images/portfolio-test3.jpeg" alt="porfolio placeholder image" />
         </div>
         <div class="col-xs-12 col-sm-7">
           <h3>Epitome of Soul</h3>
