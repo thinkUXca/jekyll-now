@@ -34,7 +34,7 @@ description: The portfolio of ThinkUX's user experience design work, including p
         <div class="col-xs-12 col-sm-7">
           <h3>Child Development Research Unit</h3>
           <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy.</p>
-          <p><a href="#">Read the case study.</a></p>
+          <p><a href="#">Read the case study &rarr;</a></p>
         </div>
       </div>
     </div>
@@ -49,7 +49,7 @@ description: The portfolio of ThinkUX's user experience design work, including p
         <div class="col-xs-12 col-sm-7">
           <h3>Epitome of Soul</h3>
           <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy.</p>
-          <p><a href="#">Read the case study.</a></p>
+          <p><a href="#">Read the case study &rarr;</a></p>
         </div>
       </div>
     </div>
