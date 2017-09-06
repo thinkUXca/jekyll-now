@@ -3,9 +3,6 @@
 // VARIABLES
 //
 
-// No longer need to @import the web fonts, it's done in the above the fold inlined CSS
-// @import url('https://fonts.googleapis.com/css?family=Open+Sans|Oxygen|Roboto');
-
 // Colors
 $blue: #4183C4;
 $orange: #f5842f;
@@ -25,8 +22,8 @@ $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
 $openSans: 'Open Sans', sans-serif;
-$oxygen: 'Oxygen', sans-serif;
-$roboto: 'Roboto', sans-serif;
+$montserrat: 'Montserrat', sans-serif;
+
 
 // Mobile breakpoints
 @mixin mobile {
