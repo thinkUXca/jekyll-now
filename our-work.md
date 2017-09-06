@@ -11,7 +11,7 @@ description: The portfolio of ThinkUX's user experience design work, including p
 <div class="container">
   
   <div class="row row-portfolio">
-    <div class="col-xs-12 col-md-6 col-md-offset-3">
+    <div class="col-xs-12 col-md-8 col-md-offset-2">
       <div class="row">
         <div class="col-xs-12 col-sm-4">
         </div>
