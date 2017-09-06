@@ -235,6 +235,27 @@ input[type="submit"]:hover {
   }
 }
 
+.portfolio-banner {
+  height: 250px;
+  background:
+    linear-gradient(
+      rgba(220,118,42,0.85),
+      rgba(220,118,42,0.85)
+    ),
+    url(/images/portfolio-bg.jpeg);
+  background-position-x: center;
+  
+  .portfolio-header {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    h2 {
+      color: $white;
+      margin: 0;
+    }  
+  }
+}
+
 .masthead {
   padding: 10px 0;
   border-bottom: 1px solid $lightGray;
