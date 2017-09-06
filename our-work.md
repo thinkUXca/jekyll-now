@@ -5,6 +5,6 @@ description: The portfolio of ThinkUX's user experience design work, including p
 
 <div class="portfolio-banner">
   <div class="portfolio-header">
-    <h2 class="text-center">Here are some of our favourite projects.</h2>
+    <h1 class="text-center">Here are some of our favourite projects.</h1>
   </div>
 </div>
