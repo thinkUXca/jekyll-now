@@ -9,13 +9,17 @@ description: The portfolio of ThinkUX's user experience design work, including p
   </div>
 </div>
 <div class="container">
-  <div class="row">
+  
+  <div class="row row-portfolio">
     <div class="col-xs-12 col-md-6 col-md-offset-3">
       <p>Hello there</p>
     </div>
   </div>
+  
   <div class="row">
   </div>
+  
   <div class="row">
   </div>
+  
 </div>
