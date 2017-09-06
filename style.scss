@@ -236,6 +236,7 @@ input[type="submit"]:hover {
 }
 
 .portfolio-banner {
+  margin-top: -50px;
   height: 250px;
   background:
     linear-gradient(
@@ -249,7 +250,7 @@ input[type="submit"]:hover {
     position: relative;
     top: 50%;
     transform: translateY(-50%);
-    h2 {
+    h1 {
       color: $white;
       margin: 0;
     }  
