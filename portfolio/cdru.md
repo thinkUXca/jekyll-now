@@ -55,3 +55,10 @@ description: A description of the work performed for the Child Development Resea
     <p>After we built the MVP, we started the process of testing with users and iterating the prototype. After each round of user testing (generally 3-5 children), we would identify the most common issues and brainstorm solutions for them. We’d present these to the researchers, and collaboratively decide on the best course of action. We would then integrate the solutions into the system, and perform more user testing.</p>
   </div>
 </div>
+
+<div class="row case-study">
+  <div class="col-xs-12 col-md-6 col-md-offset-3">
+    <h2>Results</h2>
+    <p>User testing helped us to identify a number of usability problems with the system. Some of the major problems and our solutions are summarized in the table below, along with the results that our solutions achieved.</p>
+  </div>
+</div>
