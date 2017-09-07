@@ -63,13 +63,13 @@ description: A description of the work performed for the Child Development Resea
   </div>
 </div>
 
-<div class="row">
+<div class="row" style="margin-top: 30px;">
   <div class="col-xs-12">
-    <table class="table table-responsive table-bordered">
+    <table class="table table-responsive table-bordered table-striped">
       <thead>
-        <th>Problem</th>
-        <th>Our solution</th>
-        <th>Result</th>
+        <th><strong>Problem</strong></th>
+        <th><strong>Our solution</strong></th>
+        <th><strong>Result</strong></th>
       </thead>
       <tbody>
         <tr>
