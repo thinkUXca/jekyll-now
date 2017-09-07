@@ -27,9 +27,9 @@ description: A description of the work performed for the Child Development Resea
   <div class="col-xs-12 col-md-6 col-md-offset-3">
     <h2>Understanding the Problem</h2>
     <p>To help us understand the problem, we performed stakeholder interviews, then defined user groups and use cases.</p>
-    <h3>Stakeholder Interviews</h3>
+    <h4>Stakeholder Interviews</h4>
     <p>We interviewed the researchers, who were domain experts in pediatric psychology. We helped them refine the project goals, and to define research measures to be captured by the system. We worked with them throughout the project to ensure that the training game aligned with their research goals.</p>
-    <h3>User Groups</h3>
+    <h4>User Groups</h4>
     <p>The research subjects (participants), children ages 6-9, were the main users of the system. They needed to be able to look and walk around virtual environments using an Xbox controller. The system needed to be engaging in order to maintain the attention of the children so that they could complete the training comfortably, and in a reasonable amount of time.</p>
     <p>The other primary users of the system were research assistants at the CDRU. They needed to be able to set up new participants quickly and easily, as they had only limited time with each child. They also needed to be able to recover from errors in the event of a technical failure, or if the participant needed to take a break, and resume from where they left off.</p>
   </div>
