@@ -3,13 +3,13 @@ layout: page
 description: A description of the work performed for the Child Development Research Unit, including user interviews, minimum viable product, prototyping, usability testing.
 ---
 <div class="row case-study">
-  <div class="col-xs-12 col-md-8 col-md-offset-2">
+  <div class="col-xs-12 col-sm-8 col-sm-offset-2">
     <h1>Child Development Research Unit</h1>
   </div>
 </div>
 
 <div class="row case-study">
-  <div class="col-xs-12 col-md-8 col-md-offset-2">
+  <div class="col-xs-12 col-sm-8 col-sm-offset-2">
     <div class="testimonial">
       <p>"[ThinkUX] enabled us to focus on our research because they consistently delivered high quality products. The results speak for themselves: we improved from close to 0% task completion to nearly 100%."</p>
     </div>
@@ -17,14 +17,14 @@ description: A description of the work performed for the Child Development Resea
 </div>
 
 <div class="row case-study">
-  <div class="col-xs-12 col-md-6 col-md-offset-3">
+  <div class="col-xs-12 col-sm-6 col-sm-offset-3">
     <h2>The Challenge</h2>
     <p>The Child Development Research Unit (CDRU) is a research laboratory at the University of Guelph that studies developmental issues related to child health. We were hired to help the CDRU researchers design and build a virtual reality (VR) training game to help teach children to cross the street more safely, in a number of realistic suburban environments.</p>
   </div>
 </div>
 
 <div class="row case-study">
-  <div class="col-xs-12 col-md-6 col-md-offset-3">
+  <div class="col-xs-12 col-sm-6 col-sm-offset-3">
     <h2>Understanding the Problem</h2>
     <p>To help us understand the problem, we performed stakeholder interviews, then defined user groups and use cases.</p>
     <h4>Stakeholder Interviews</h4>
@@ -36,7 +36,7 @@ description: A description of the work performed for the Child Development Resea
 </div>
 
 <div class="row case-study">
-  <div class="col-xs-12 col-md-6 col-md-offset-3">
+  <div class="col-xs-12 col-sm-6 col-sm-offset-3">
     <h2>Building the MVP</h2>
     <p>We knew that the system needed to support the following:</p>
     <ul>
@@ -50,22 +50,22 @@ description: A description of the work performed for the Child Development Resea
 </div>
 
 <div class="row case-study">
-  <div class="col-xs-12 col-md-6 col-md-offset-3">
+  <div class="col-xs-12 col-sm-6 col-sm-offset-3">
     <h2>Our Process</h2>
     <p>After we built the MVP, we started the process of testing with users and iterating the prototype. After each round of user testing (generally 3-5 children), we would identify the most common issues and brainstorm solutions for them. We’d present these to the researchers, and collaboratively decide on the best course of action. We would then integrate the solutions into the system, and perform more user testing.</p>
   </div>
 </div>
 
 <div class="row case-study">
-  <div class="col-xs-12 col-md-6 col-md-offset-3">
+  <div class="col-xs-12 col-sm-6 col-sm-offset-3">
     <h2>Results</h2>
     <p>User testing helped us to identify a number of usability problems with the system. Some of the major problems and our solutions are summarized in the table below, along with the results that our solutions achieved.</p>
   </div>
 </div>
 
 <div class="row">
-  <div class="col-xs-12 col-md-8 col-md-offset-2">
-    <table class="table table-responsive table-striped">
+  <div class="col-xs-12 col-sm-8 col-sm-offset-2">
+    <table class="table table-responsive">
       <thead>
         <th>Problem</th>
         <th>Our solution</th>
