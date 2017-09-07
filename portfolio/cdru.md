@@ -101,3 +101,10 @@ description: A description of the work performed for the Child Development Resea
     </table>
   </div>
 </div>
+
+<div class="row case-study">
+  <div class="col-xs-12 col-sm-6 col-sm-offset-3">
+    <p>This is an additional placeholder blurb.</p>
+  </div>
+</div>
+
