@@ -32,6 +32,5 @@ description: A description of the work performed for the Child Development Resea
     <h3>User Groups</h3>
     <p>The research subjects (participants), children ages 6-9, were the main users of the system. They needed to be able to look and walk around virtual environments using an Xbox controller. The system needed to be engaging in order to maintain the attention of the children so that they could complete the training comfortably, and in a reasonable amount of time.</p>
     <p>The other primary users of the system were research assistants at the CDRU. They needed to be able to set up new participants quickly and easily, as they had only limited time with each child. They also needed to be able to recover from errors in the event of a technical failure, or if the participant needed to take a break, and resume from where they left off.</p>
-    <p>The other primary users of the system were research assistants at the CDRU. They needed to be able to set up new participants quickly and easily, as they had only limited time with each child. They also needed to be able to recover from errors in the event of a technical failure, or if the participant needed to take a break, and resume from where they left off.</p>
   </div>
 </div>
