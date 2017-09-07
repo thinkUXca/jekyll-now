@@ -263,6 +263,19 @@ input[type="submit"]:hover {
   margin-top: 80px;	
 }
 
+.case-study {
+  .testimonial {
+    font-size: 21px;
+    color: #a3a3a3;
+  }
+  h1 {
+    font-size: 40px;
+  }
+  h2 {
+    color: $orange;
+  }
+}
+
 .masthead {
   padding: 10px 0;
   border-bottom: 1px solid $lightGray;
