@@ -34,3 +34,15 @@ description: A description of the work performed for the Child Development Resea
     <p>The other primary users of the system were research assistants at the CDRU. They needed to be able to set up new participants quickly and easily, as they had only limited time with each child. They also needed to be able to recover from errors in the event of a technical failure, or if the participant needed to take a break, and resume from where they left off.</p>
   </div>
 </div>
+
+<div class="row case-study">
+  <div class="col-xs-12 col-md-6 col-md-offset-3">
+    <h2>Building the MVP</h2>
+    <p>We knew that the system needed to support the following:</p>
+    <ul>
+      <li>Multiple environments with different levels of visibility for oncoming traffic (e.g. a curve in the road, parked cars, etc.).</li>
+      <li>The ability to detect when the participants engaged in dangerous behaviour (failing to look both ways, entering the street too close to an oncoming car, etc.), and provide immediate feedback on their actions.</li>
+      <li>The ability to assess when participants had achieved competence with a training concept, and advance them to the next concept.</li>
+    </ul>
+  </div>
+</div>
