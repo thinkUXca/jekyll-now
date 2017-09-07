@@ -63,7 +63,7 @@ description: A description of the work performed for the Child Development Resea
   </div>
 </div>
 
-<div class="row" style="margin-top: 30px;">
+<div class="row case-study">
   <div class="col-xs-12">
     <table class="table table-responsive table-bordered table-striped">
       <thead>
