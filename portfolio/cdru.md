@@ -64,7 +64,7 @@ description: A description of the work performed for the Child Development Resea
 </div>
 
 <div class="row">
-  <div class="col-xs-12 col-sm-10 col-sm-offset-1">
+  <div class="col-xs-12">
     <table class="table table-responsive table-bordered">
       <thead>
         <th>Problem</th>
