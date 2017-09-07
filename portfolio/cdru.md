@@ -62,3 +62,42 @@ description: A description of the work performed for the Child Development Resea
     <p>User testing helped us to identify a number of usability problems with the system. Some of the major problems and our solutions are summarized in the table below, along with the results that our solutions achieved.</p>
   </div>
 </div>
+
+<div class="row">
+  <div class="col-xs-12 col-md-8 col-md-offset-2">
+    <table class="table table-responsive table-striped">
+      <thead>
+        <th>Problem</th>
+        <th>Our solution</th>
+        <th>Result</th>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Participants found the training tasks too difficult and were often unable to complete them.</td>
+          <td>We broke the training stages down into smaller, more easily understood sections, allowing them to focus on one concept at a time.</td>
+          <td>Significant improvement in training completion rates.</td>
+        </tr>
+        <tr>
+          <td>Participants  weren’t engaged with the system, and were losing interest before completing the training tasks.</td>
+          <td>We changed from using a 3-screen setup to using an Oculus Rift (VR headset) to increase immersion. We added animations, updated the scoring system, and streamlined the flow between training stages.</td>
+          <td>The amount of time it took to complete the training session was reduced, participants were far more engaged, and completion rates improved.</td>
+        </tr>
+        <tr>
+          <td>Participants had trouble navigating the virtual world using the controller.</td>
+          <td>We tested different control schemes until kids better understood how to navigate the world, and created an interactive tutorial to establish a baseline for control competence.</td>
+          <td>Reduced frustration in the participants. Significant reduction in the number of control-related errors made while using the system.</td>
+        </tr>
+        <tr>
+          <td>Participants didn’t understand some of the training instructions and would repeatedly make the same mistake.</td>
+          <td>We iteratively re-worked the problematic training scripts, testing with users until the comprehension rate increased.</td>
+          <td>Higher comprehension of training videos, fewer repeated mistakes.</td>
+        </tr>
+        <tr>
+          <td>Participants experienced motion sickness when using the Oculus Rift headset.</td>
+          <td>We changed the way the system displayed replays based on VR motion sickness research.</td>
+          <td>Almost no participants reported motion sickness.</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
