@@ -44,5 +44,14 @@ description: A description of the work performed for the Child Development Resea
       <li>The ability to detect when the participants engaged in dangerous behaviour (failing to look both ways, entering the street too close to an oncoming car, etc.), and provide immediate feedback on their actions.</li>
       <li>The ability to assess when participants had achieved competence with a training concept, and advance them to the next concept.</li>
     </ul>
+    <p>We sketched out each of the possible scenarios and environments, and created flow diagrams to illustrate how participants would flow between the training stages.</p>
+    <p>Given the complex nature of the immediate feedback and system flow, a working prototype was required to test participants. The original vision of the system was a desktop application, controlled with an Xbox controller, with three widescreen monitors to provide a wider field of view. We worked with the researchers to define which features were most essential, and built a minimum viable product (MVP) to test those features with users.</p>
+  </div>
+</div>
+
+<div class="row case-study">
+  <div class="col-xs-12 col-md-6 col-md-offset-3">
+    <h2>Our Process</h2>
+    <p>After we built the MVP, we started the process of testing with users and iterating the prototype. After each round of user testing (generally 3-5 children), we would identify the most common issues and brainstorm solutions for them. We’d present these to the researchers, and collaboratively decide on the best course of action. We would then integrate the solutions into the system, and perform more user testing.</p>
   </div>
 </div>
