@@ -4,7 +4,7 @@ description: A description of the work performed for the Child Development Resea
 ---
 <div class="row">
   <div class="col-xs-12 col-md-8 col-md-offset-2">
-    <h1>Child Development Research Unit</h1>
+    <h1 class="text-center">Child Development Research Unit</h1>
   </div>
 </div>
 
