@@ -291,6 +291,12 @@ input[type="submit"]:hover {
   figcaption {
     text-align: center;
   }
+  li {
+    margin-top: .5em;
+  }
+  li:first-child {
+    margin-top:0;
+  }
 }
 
 .masthead {
