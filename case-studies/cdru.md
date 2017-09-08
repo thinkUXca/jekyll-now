@@ -115,7 +115,7 @@ description: A description of the work performed for the Child Development Resea
     <p>One area that our user testing revealed a lot of problems in was user engagement, particularly when the system was giving participants instructions or feedback on their attempts to cross the street. The users were in the age range of 6-9, and were frequently losing interest in what they were being told. This meant that they were often not taking in the lessons that the system was trying to teach, and their performance wasn't improving much during the session (as intended). We ended up making a lot of tweaks to remedy this, including:</p>
     <ul>
       <li>making the instructions shorter and straight to the point</li>
-      <li>adjusting the replay camera angles to make the feedback more clear, including how to improve</li>
+      <li>adjusting the replay camera angles to make the feedback more clear</li>
       <li>adding a policeman character to deliver any audio instructions</li>
     </ul>
     <p>We also updated the scoring system to give more rewards for good performance, and make it easier for the participants to demonstrate mastery and move on to the next lesson. Overall, these changes had a marked impact on user engagement.</p>
