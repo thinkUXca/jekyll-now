@@ -119,6 +119,26 @@ description: A description of the work performed for the Child Development Resea
       <li>adding a policeman character to deliver any audio instructions</li>
     </ul>
     <p>We also updated the scoring system to give more rewards for good performance, and make it easier for the participants to demonstrate mastery and move on to the next lesson. Overall, these changes had a marked impact on user engagement.</p>
+  </div>
+</div>
+    
+<div class="row case-study">
+  <div class="col-xs-12 col-sm-6">
+    <figure class="figure">
+      <img class="img-responsive" src="{{ site.baseurl }}/images/portfolio/case_studies/police.jpg" alt="policeman character" />
+      <figcaption class="figure-caption">We added a policeman character to deliver dialog.</figcaption>
+    </figure>
+  </div>
+  <div class="col-xs-12 col-sm-6">
+    <figure class="figure">
+      <img class="img-responsive" src="{{ site.baseurl }}/images/portfolio/case_studies/training3.jpg" alt="a feedback video from the training system" />
+      <figcaption class="figure-caption">A feedback video from the training system.</figcaption>
+    </figure>
+  </div>
+</div>
+
+<div class="row case-study">
+  <div class="col-xs-12 col-sm-6 col-sm-offset-3">    
     <p>The CDRU is currently collecting data using the training system, and early results are promising. The project was featured on CityNews in Toronto (1:25 onwards in the video below shows some of the training system in action).</p>
   </div>
 </div>
