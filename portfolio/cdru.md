@@ -45,10 +45,12 @@ description: A description of the work performed for the Child Development Resea
       <li>The ability to assess when participants had achieved competence with a training concept, and advance them to the next concept.</li>
     </ul>
     <p>We sketched out each of the possible scenarios and environments, and created flow diagrams to illustrate how participants would flow between the training stages.</p>
+    <p>
     <figure>
       <img class="img-responsive" src="{{ site.baseurl }}/images/portfolio/case_studies/flowdiagram.PNG" alt="flow diagram" />
       <figcaption class="figure-caption">A flow diagram for for the states and stages of the training system.</figcaption>
     </figure>
+    </p>
     <p>Given the complex nature of the immediate feedback and system flow, a working prototype was required to test participants. The original vision of the system was a desktop application, controlled with an Xbox controller, with three widescreen monitors to provide a wider field of view. We worked with the researchers to define which features were most essential, and built a minimum viable product (MVP) to test those features with users.</p>
     <figure>
       <img class="img-responsive" src="{{ site.baseurl }}/images/portfolio/case_studies/intern.jpg" alt="flow diagram" />
