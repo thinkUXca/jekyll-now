@@ -112,7 +112,7 @@ description: A description of the work performed for the Child Development Resea
 
 <div class="row case-study">
   <div class="col-xs-12 col-sm-6 col-sm-offset-3">
-    <p>One area that our user testing revealed a lot of problems in was user engagement, particularly when the system was giving participants instructions or feedback on their attempts to cross the street. The users were in the age range of 6-9, and were frequently losing interest in what they were being told. This meant that they were often not taking in the lessons that the system was trying to teach, and their performance wasn't improving much during the session (as intended). We ended up making a lot of tweaks to remedy this, including:</p>
+    <p>One problem area that our user testing revealed was user engagement. The users were in the age range of 6 to 9, and were frequently losing interest in the training, which meant that their performance wasn't improving much. We ended up making a number of tweaks to remedy this, including:</p>
     <ul>
       <li>making the instructions shorter and straight to the point</li>
       <li>adjusting the replay camera angles to make the feedback more clear</li>
