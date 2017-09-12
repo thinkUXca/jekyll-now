@@ -34,7 +34,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $montserrat;
+  font-family: $lora;
   color: $darkerGray;
   font-weight: bold;
 
@@ -328,7 +328,8 @@ input[type="submit"]:hover {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $montserrat;
+  font-family: $openSans;
+  font-weight: 600;
   font-size: 18px;
 
   @include mobile {
