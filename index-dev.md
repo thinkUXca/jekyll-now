@@ -20,17 +20,21 @@ layout: default
       <div class="text-center">
         <img class="feature-icon" src="{{ site.baseurl }}/images/experiment-icon.svg" alt="An experiment">
       </div>
-      <h4 class="text-center">Research</h4>
+      <h4 class="text-center" style="margin-top:-40px">Research</h4>
       <p class="text-center">We dive deep to understand your product and your customers. We make your business our business.</p>
     </div>
     <div class="col-xs-12 col-sm-4">
-      <img src="{{ site.baseurl }}/images/light-icon.svg" alt="A lightbulb">
-      <h4 class="text-center">Design</h4>
+      <div class="text-center">
+        <img src="{{ site.baseurl }}/images/light-icon.svg" alt="A lightbulb">
+      </div>
+      <h4 class="text-center" style="margin-top:-40px">Design</h4>
       <p class="text-center">With our user-centred approach, we create compelling and intuitive designs for your product.</p>
     </div>
     <div class="col-xs-12 col-sm-4">
-      <img src="{{ site.baseurl }}/images/notes-icon.svg" alt="A checklist">
-      <h4 class="text-center">Test</h4>
+      <div class="text-center">
+        <img src="{{ site.baseurl }}/images/notes-icon.svg" alt="A checklist">
+      </div>
+      <h4 class="text-center" style="margin-top:-40px">Test</h4>
       <p class="text-center">Rapid prototyping, usability testing, and design iteration make sure that your money is spent wisely.</p>
     </div>
   </div>
