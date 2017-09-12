@@ -11,7 +11,7 @@ layout: default
 
   <div class="row">
     <div class="col-xs-12">
-      <h2>What we do</h2>
+      <h1 class="text-center">What we do</h1>
     </div>
   </div>
 
