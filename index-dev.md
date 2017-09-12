@@ -18,7 +18,7 @@ layout: default
   <div class="row">
     <div class="col-xs-12 col-sm-4">
       <div class="text-center">
-        <img class="img-responsive" src="{{ site.baseurl }}/images/experiment-icon.svg" alt="An experiment">
+        <img class="feature-icon" src="{{ site.baseurl }}/images/experiment-icon.svg" alt="An experiment">
       </div>
       <h4 class="text-center">Research</h4>
       <p class="text-center">We dive deep to understand your product and your customers. We make your business our business.</p>
