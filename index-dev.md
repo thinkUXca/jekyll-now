@@ -20,7 +20,7 @@ layout: default
       <div class="text-center">
         <img class="feature-icon" src="{{ site.baseurl }}/images/experiment-icon.svg" alt="An experiment">
       </div>
-      <h4 class="text-center" style="margin-top:-40px">Research</h4>
+      <h3 class="text-center" style="margin-top:-40px">Research</h3>
       <p class="text-center">We dive deep to understand your product and your customers. We make your business our business.</p>
     </div>
     <div class="col-xs-12 col-sm-4">
