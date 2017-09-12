@@ -34,7 +34,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $lora;
+  font-family: $lato;
   color: $darkerGray;
   font-weight: 600;
 
@@ -52,7 +52,7 @@ h1 {
   a {
     color: inherit;
   }
-  color:$darkishGray;
+  color: $darkishGray;
 }
 
 h2 {
@@ -61,6 +61,7 @@ h2 {
 
 h3 {
   font-size: 20px;
+  font-family: $openSans;
   color: $gray;
 }
 
