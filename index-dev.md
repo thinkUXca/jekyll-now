@@ -30,7 +30,7 @@ layout: default
     </div>
   </div>
   
-  <div class="row>
+  <div class="row">
     <div class="col-xs-6 col-xs-offset-3" style="border-bottom: 1px #eee solid;">
     </div>
   </div>
