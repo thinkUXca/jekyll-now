@@ -25,14 +25,14 @@ layout: default
     </div>
     <div class="col-xs-12 col-sm-4">
       <div class="text-center">
-        <img src="{{ site.baseurl }}/images/light-icon.svg" alt="A lightbulb">
+        <img class="feature-icon" src="{{ site.baseurl }}/images/light-icon.svg" alt="A lightbulb">
       </div>
       <h4 class="text-center" style="margin-top:-40px">Design</h4>
       <p class="text-center">With our user-centred approach, we create compelling and intuitive designs for your product.</p>
     </div>
     <div class="col-xs-12 col-sm-4">
       <div class="text-center">
-        <img src="{{ site.baseurl }}/images/notes-icon.svg" alt="A checklist">
+        <img class="feature-icon" src="{{ site.baseurl }}/images/notes-icon.svg" alt="A checklist">
       </div>
       <h4 class="text-center" style="margin-top:-40px">Test</h4>
       <p class="text-center">Rapid prototyping, usability testing, and design iteration make sure that your money is spent wisely.</p>
