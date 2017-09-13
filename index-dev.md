@@ -143,7 +143,7 @@ layout: default
           <textarea rows="8" name="_message" class="form-control"></textarea>
         </div>
         <div class="form-group row">
-          <input type="submit" class="btn-block" value="Send Message">
+          <input type="submit" class="btn-block" style="font-size:18px;" value="Send Message">
         </div>
       </form>
     </div>
