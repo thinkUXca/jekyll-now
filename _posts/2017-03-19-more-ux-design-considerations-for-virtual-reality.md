@@ -2,6 +2,7 @@
 layout: post
 title: More UX design considerations for virtual reality
 author: tom
+description: Virtual reality (VR) technology has become much more popular and widely available over the past few years. This post describes some user experience (UX) design factors that must be considered when designing for VR. This includes the difference between interface and environment design, causes of motion sickness, and some design techniques we employed to reduce the impact of that motion sickness.
 ---
 
 Since VR has come so far in such a short time, there’s still a lot that we just don’t know about design “best practices”. For example, in my 
