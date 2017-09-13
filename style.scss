@@ -190,6 +190,16 @@ input[type="submit"]:hover {
   color: $gray;
 }
 
+.dropcap {
+  color:$orange;
+  font-family:$lato;
+  font-size:75px;
+  padding-top:4px;
+  padding-right:8px;
+  padding-left:3px;
+  margin-left:-40px;
+}
+
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
@@ -288,8 +298,9 @@ input[type="submit"]:hover {
   font-family: $openSans;
   font-size: 18px;
   color: $darkishGray;
-  padding-left:2em;
+  padding-left:40px;
   padding-right:2em;
+  margin-top:2.5em;
 	
   .attribution {
     font-family: $openSans;
