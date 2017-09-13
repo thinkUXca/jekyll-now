@@ -2,6 +2,7 @@
 layout: post
 title: UX design considerations for virtual reality
 author: tom
+description: Virtual reality (VR) has become much more popular and widely available over the last few years. This post describes why the technology is so exciting, as well as sharing some experiences from working in the VR field.
 ---
 
 With the release of the [PlayStation VR](https://www.playstation.com/en-ca/explore/playstation-vr/) last week, I thought I'd just take 
