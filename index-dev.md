@@ -51,7 +51,7 @@ layout: default
     <div class="col-xs-12 col-sm-6">
       <div class="testimonial">
         <p>
-          “[ThinkUX] were able to quickly understand our project's goals, and design, document, and deliver multiple virtual reality systems that allowed us meet those goals. They enabled us to focus on our research because they consistently delivered high quality results.”
+          <span class="dropcap">“</span>[ThinkUX] were able to quickly understand our project's goals, and design, document, and deliver multiple virtual reality systems that allowed us meet those goals. They enabled us to focus on our research because they consistently delivered high quality results.”
         </p>
         <div class="attribution">
           <div class="attr-name">
@@ -66,7 +66,7 @@ layout: default
     <div class="col-xs-12 col-sm-6">
       <div class="testimonial">
         <p>
-“ThinkUX went far above expectations. Communication was fast, open, and precise. The work was performed faster than promised, with regular check-ins and feedback based on the agreed-upon milestones, and the execution went above the deliverables in meaningful ways.”
+          <span class="dropcap">“</span>ThinkUX went far above expectations. Communication was fast, open, and precise. The work was performed faster than promised, with regular check-ins and feedback based on the agreed-upon milestones, and the execution went above the deliverables in meaningful ways.”
         </p>
         <div class="attribution">
           <div class="attr-name">
@@ -84,7 +84,7 @@ layout: default
     <div class="col-xs-12 col-sm-6">
       <div class="testimonial">
         <p>
-          “ThinkUX is unbelievable at what they do. Amazing, useful, and tangible recommends we can put into practice right now to achieve our desired goals. We'll definitely be working with these guys in the future.”
+          <span class="dropcap">“</span>ThinkUX is unbelievable at what they do. Amazing, useful, and tangible recommends we can put into practice right now to achieve our desired goals. We'll definitely be working with these guys in the future.”
         </p>
         <div class="attribution">
           <div class="attr-name">
@@ -99,7 +99,7 @@ layout: default
     <div class="col-xs-12 col-sm-6">
       <div class="testimonial">
         <p>
-          "It was a pleasure working with ThinkUX to refresh and improve the UX design of our organization's website. We now have a cleaner more comprehensive site that better reflects our mission. The team went above and beyond my expectations!"
+          <span class="dropcap">“</span>It was a pleasure working with ThinkUX to refresh and improve the UX design of our organization's website. We now have a cleaner more comprehensive site that better reflects our mission. The team went above and beyond my expectations!"
         </p>
         <div class="attribution">
           <div class="attr-name">
