@@ -58,14 +58,14 @@ layout: default
     <div class="col-xs-12 col-sm-6">
       <div class="testimonial">
         <p>
-          <span class="dropcap">“</span>[ThinkUX] were able to quickly understand our project's goals, and design, document, and deliver multiple virtual reality systems that allowed us meet those goals. They enabled us to focus on our research because they consistently delivered high quality results.
+          <span class="dropcap">“</span>ThinkUX is unbelievable at what they do. Amazing, useful, and tangible recommends we can put into practice right now to achieve our desired goals. We'll definitely be working with these guys in the future.
         </p>
         <div class="attribution">
           <div class="attr-name">
-            Mike Corbett
+            Adam Hofmann
           </div>
           <div class="attr-title">
-            Project Manager at CDRU
+            Director of New Product Development at Singularity University
           </div>
         </div>
       </div>
@@ -91,14 +91,14 @@ layout: default
     <div class="col-xs-12 col-sm-6">
       <div class="testimonial">
         <p>
-          <span class="dropcap">“</span>ThinkUX is unbelievable at what they do. Amazing, useful, and tangible recommends we can put into practice right now to achieve our desired goals. We'll definitely be working with these guys in the future.
+          <span class="dropcap">“</span>[ThinkUX] were able to quickly understand our project's goals, and design, document, and deliver multiple virtual reality systems that allowed us meet those goals. They enabled us to focus on our research because they consistently delivered high quality results.
         </p>
         <div class="attribution">
           <div class="attr-name">
-            Adam Hofmann
+            Mike Corbett
           </div>
           <div class="attr-title">
-            Director of New Product Development at Singularity University
+            Project Manager at CDRU
           </div>
         </div>
       </div>
