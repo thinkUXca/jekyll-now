@@ -18,25 +18,31 @@ layout: default
 
   <div class="row">
     <div class="col-xs-12 col-sm-4">
-      <div class="text-center">
-        <img class="feature-icon" src="{{ site.baseurl }}/images/experiment-icon.svg" alt="An experiment">
+      <div class="feature">
+        <div class="text-center">
+          <img class="feature-icon" src="{{ site.baseurl }}/images/experiment-icon.svg" alt="An experiment">
+        </div>
+        <h3 class="text-center" style="margin-top:-40px">Research</h3>
+        <p>We dive deep to understand your product and your customers. We make your business our business.</p>
       </div>
-      <h3 class="text-center" style="margin-top:-40px">Research</h3>
-      <p>We dive deep to understand your product and your customers. We make your business our business.</p>
     </div>
     <div class="col-xs-12 col-sm-4">
-      <div class="text-center">
-        <img class="feature-icon" src="{{ site.baseurl }}/images/light-icon.svg" alt="A lightbulb">
+      <div class="feature">
+        <div class="text-center">
+          <img class="feature-icon" src="{{ site.baseurl }}/images/light-icon.svg" alt="A lightbulb">
+        </div>
+        <h3 class="text-center" style="margin-top:-40px">Design</h3>
+        <p>With our user-centred approach, we create compelling and intuitive designs for your product.</p>
       </div>
-      <h3 class="text-center" style="margin-top:-40px">Design</h3>
-      <p>With our user-centred approach, we create compelling and intuitive designs for your product.</p>
     </div>
     <div class="col-xs-12 col-sm-4">
-      <div class="text-center">
-        <img class="feature-icon" src="{{ site.baseurl }}/images/notes-icon.svg" alt="A checklist">
+      <div class="feature">
+        <div class="text-center">
+          <img class="feature-icon" src="{{ site.baseurl }}/images/notes-icon.svg" alt="A checklist">
+        </div>
+        <h3 class="text-center" style="margin-top:-40px">Test</h3>
+        <p>Rapid prototyping, usability testing, and design iteration make sure that your money is spent wisely.</p>
       </div>
-      <h3 class="text-center" style="margin-top:-40px">Test</h3>
-      <p>Rapid prototyping, usability testing, and design iteration make sure that your money is spent wisely.</p>
     </div>
   </div>
   
@@ -120,7 +126,7 @@ layout: default
     </div>
   </div>
   
-  <div class="row">
+  <div class="row" style="margin-top:2em;">
     <div class="col-xs-8 col-xs-offset-2 col-sm-4 col-sm-offset-4">
       <form action="https://formspree.io/info@thinkux.ca" method="POST">
         <div class="form-group row">
