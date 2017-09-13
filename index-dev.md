@@ -114,7 +114,7 @@ layout: default
   
   <div class="row landing-page-section">
     <div class="col-xs-12">
-      <h1 class="text-centered">Get in touch</h1>
+      <h1 class="text-center">Get in touch</h1>
     </div>
   </div>
   
