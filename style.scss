@@ -61,13 +61,11 @@ h2 {
 
 h3 {
   font-size: 20px;
-  font-family: $openSans;
   color: $gray;
 }
 
 h4 {
   font-size: 18px;
-  font-family: $openSans;
   color: $gray;
 }
 
@@ -131,6 +129,11 @@ img.headshot {
 
 .media {
   padding-bottom: 10px;
+}
+
+.section-subheading {
+  font-size:20px;
+  color:$gray;
 }
 
 .media-left {
