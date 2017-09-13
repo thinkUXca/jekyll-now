@@ -114,9 +114,9 @@ description: A description of the work performed for the Child Development Resea
   <div class="col-xs-12 col-sm-6 col-sm-offset-3">
     <p>One problem area that our user testing revealed was user engagement. The users were in the age range of 6 to 9, and were frequently losing interest in the training, which meant that their performance wasn't improving much. We ended up making a number of tweaks to remedy this, including:</p>
     <ul>
-      <li>making the instructions shorter and straight to the point</li>
-      <li>adjusting the replay camera angles to make the feedback more clear</li>
-      <li>adding a policeman character to deliver any audio instructions</li>
+      <li>Making the instructions shorter and straight to the point</li>
+      <li>Adjusting the replay camera angles to make the feedback more clear</li>
+      <li>Adding a policeman character to deliver any audio instructions</li>
     </ul>
     <p>We also updated the scoring system to give more rewards for good performance, and make it easier for the participants to demonstrate mastery and move on to the next lesson. Overall, these changes had a marked impact on user engagement.</p>
     <figure class="figure">
