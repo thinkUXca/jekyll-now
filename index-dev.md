@@ -6,7 +6,7 @@ layout: default
   <div class="jumbo-header">
     <h1 class="text-center">We create better user experiences.</h1>
     <p class="text-center">We're a team of passionate people who solve hard problems through inspired design.</p>
-    <p>We love our work and it shows.</p>
+    <p class="text-center">We love our work and it shows.</p>
   </div>
 </div>
 <div class="container">
