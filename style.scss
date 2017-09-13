@@ -288,18 +288,21 @@ input[type="submit"]:hover {
   font-family: $openSans;
   font-size: 18px;
   color: $darkishGray;
-}
-.attribution {
-  font-family: $openSans;
-  font-size: 16px;
-  color: $darkGray;
-  margin-top: -.5em;
-}
-.attribution .attr-name {
-  font-weight: 600;
-}
-.attribution .attr-title {
-  font-style: italic;
+  padding-left:2em;
+  padding-right:2em;
+	
+  .attribution {
+    font-family: $openSans;
+    font-size: 16px;
+    color: $darkGray;
+    margin-top: -.5em;
+  }
+  .attribution .attr-name {
+    font-weight: 600;
+  }
+  .attribution .attr-title {
+    font-style: italic; 
+  }	
 }
 
 .row-portfolio {
