@@ -121,7 +121,7 @@ layout: default
   </div>
   
   <div class="row">
-    <div class="col-xs-12 col-sm-4 col-sm-offset-4">
+    <div class="col-xs-8 col-xs-offset-2 col-sm-4 col-sm-offset-4">
       <form action="https://formspree.io/info@thinkux.ca" method="POST">
         <div class="form-group row">
           <label for="name">Name</label>
