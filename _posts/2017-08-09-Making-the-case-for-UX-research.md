@@ -2,6 +2,7 @@
 layout: post
 title: Making the case for UX research
 author: tom
+description: It's not possible to avoid user testing. If you release a product, it's going to be tested by users. The only choice you have is whether to learn from user testing or not. This post makes the case that most businesses simply can't afford to avoid user testing during the design and development process, what genius design is and why it can be so risky, as well as some simple techniques for convincing your client to invest in user testing, and how to adjust your process to fit smaller budgets where necessary.
 ---
 
 If you’ve been in the UX design game for a while, you’ll inevitably have had a client tell you that they don’t have the time or the money 
