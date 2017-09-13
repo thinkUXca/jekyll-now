@@ -18,7 +18,7 @@ layout: default
   </div>
 
   <div class="row">
-    <div class="col-xs-12 col-sm-4">
+    <div class="col-xs-8 col-xs-offset-2 col-sm-4">
       <div class="feature">
         <div class="text-center">
           <img class="feature-icon" src="{{ site.baseurl }}/images/experiment-icon.svg" alt="An experiment">
