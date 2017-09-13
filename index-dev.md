@@ -79,4 +79,47 @@ layout: default
     </div>
   </div>
   
+  <div class="row">
+    <div class="col-xs-12 col-sm-6">
+      <div class="testimonial">
+        <p>
+          “ThinkUX is unbelievable at what they do. Amazing, useful, and tangible recommends we can put into practice right now to achieve our desired goals. We'll definitely be working with these guys in the future.”
+        </p>
+      </div>
+      <div class="attribution">
+        <div class="attr-name">
+          Adam Hofmann
+        </div>
+        <div class="attr-title">
+          Director of New Product Development at Singularity University
+        </div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-6">
+      <div class="testimonial">
+        <p>
+          "It was a pleasure working with ThinkUX to refresh and improve the UX design of our organization's website. We now have a cleaner more comprehensive site that better reflects our mission. The team went above and beyond my expectations!"
+        </p>
+      </div>
+      <div class="attribution">
+        <div class="attr-name">
+          Nailah Butler
+        </div>
+        <div class="attr-title">
+          Project Manager at Epitome of Soul
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="row landing-page-section">
+    <div class="col-xs-12">
+      <h1 class="text-centered">Get in touch</h1>
+    </div>
+  </div>
+  
+  <div class="row">
+  
+  </div>
+  
 </div>
