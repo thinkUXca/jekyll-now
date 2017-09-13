@@ -28,10 +28,10 @@ layout: default
     </div>
     <div class="col-xs-12 col-sm-4">
       <div class="feature">
-        <div class="text-center">
+        <div class="text-center" style="margin-top:-5px;">
           <img class="feature-icon" src="{{ site.baseurl }}/images/light-icon.svg" alt="A lightbulb">
         </div>
-        <h3 class="text-center" style="margin-top:-40px">Design</h3>
+        <h3 class="text-center" style="margin-top:-35px">Design</h3>
         <p>With our user-centred approach, we create compelling and intuitive designs for your product.</p>
       </div>
     </div>
@@ -121,7 +121,7 @@ layout: default
   
   <div class="row landing-page-section">
     <div class="col-xs-12">
-      <h1 class="text-center">Get in touch</h1>
+      <h1 class="text-center">Let's work together</h1>
       <p class="section-subheading">Do you have a project you'd like to work with us on? We'd love to hear from you.</p>
     </div>
   </div>
