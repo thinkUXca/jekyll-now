@@ -40,7 +40,35 @@ layout: default
   </div>
   
   <div class="row">
-    <div class="col-xs-6 col-xs-offset-3" style="border-bottom: 1px #eee solid;">
+    <div class="col-xs-12 col-sm-6">
+      <div class="testimonial">
+        <p>
+          “[ThinkUX] were able to quickly understand our project's goals, and design, document, and deliver multiple virtual reality systems that allowed us meet those goals. They enabled us to focus on our research because they consistently delivered high quality results.”
+        </p>
+      </div>
+      <div class="attribution">
+        <div class="attr-name">
+          Mike Corbett
+        </div>
+        <div class="attr-title">
+          Project Manager at CDRU
+        </div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-sm-6">
+      <div class="testimonial">
+        <p>
+“ThinkUX went far above expectations. Communication was fast, open, and precise. The work was performed faster than promised, with regular check-ins and feedback based on the agreed-upon milestones, and the execution went above the deliverables in meaningful ways.”
+        </p>
+      </div>
+      <div class="attribution">
+        <div class="attr-name">
+          Markus Fromherz
+        </div>
+        <div class="attr-title">
+          CEO of TripSeer
+        </div>
+      </div>
     </div>
   </div>
   
