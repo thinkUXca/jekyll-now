@@ -120,7 +120,27 @@ layout: default
   </div>
   
   <div class="row">
-  
+    <div class="col-xs-12 col-sm-4 col-sm-offset-4">
+      <form action="https://formspree.io/info@thinkux.ca" method="POST">
+        <div class="form-group row">
+          <label for="name">Name</label>
+          <input type="text" class="form-control" name="name" placeholder="e.g. Jane Smith" required>
+        </div>
+        <div class="form-group row">
+          <label for="_replyto">Email address</label>
+          <input type="text" class="form-control" name="_subject" placeholder="Enter email" required>
+          <small class="form-text text-muted">We'll never share your email with anyone else.</small>
+        </div>
+        <div class="form-group row">
+          <label for="_message">Message</label>
+          <textarea rows="8" name="_message" class="form-control"></textarea>
+        </div>
+        <div class="form-group row">
+          <input type="submit" value="Send Message">
+        </div>
+      </div>
+      </form>
+    </div>
   </div>
   
 </div>
