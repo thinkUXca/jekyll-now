@@ -53,13 +53,13 @@ layout: default
         <p>
           “[ThinkUX] were able to quickly understand our project's goals, and design, document, and deliver multiple virtual reality systems that allowed us meet those goals. They enabled us to focus on our research because they consistently delivered high quality results.”
         </p>
-      </div>
-      <div class="attribution">
-        <div class="attr-name">
-          Mike Corbett
-        </div>
-        <div class="attr-title">
-          Project Manager at CDRU
+        <div class="attribution">
+          <div class="attr-name">
+            Mike Corbett
+          </div>
+          <div class="attr-title">
+            Project Manager at CDRU
+          </div>
         </div>
       </div>
     </div>
@@ -68,13 +68,13 @@ layout: default
         <p>
 “ThinkUX went far above expectations. Communication was fast, open, and precise. The work was performed faster than promised, with regular check-ins and feedback based on the agreed-upon milestones, and the execution went above the deliverables in meaningful ways.”
         </p>
-      </div>
-      <div class="attribution">
-        <div class="attr-name">
-          Markus Fromherz
-        </div>
-        <div class="attr-title">
-          CEO of TripSeer
+        <div class="attribution">
+          <div class="attr-name">
+            Markus Fromherz
+          </div>
+          <div class="attr-title">
+            CEO of TripSeer
+          </div>
         </div>
       </div>
     </div>
@@ -86,13 +86,13 @@ layout: default
         <p>
           “ThinkUX is unbelievable at what they do. Amazing, useful, and tangible recommends we can put into practice right now to achieve our desired goals. We'll definitely be working with these guys in the future.”
         </p>
-      </div>
-      <div class="attribution">
-        <div class="attr-name">
-          Adam Hofmann
-        </div>
-        <div class="attr-title">
-          Director of New Product Development at Singularity University
+        <div class="attribution">
+          <div class="attr-name">
+            Adam Hofmann
+          </div>
+          <div class="attr-title">
+            Director of New Product Development at Singularity University
+          </div>
         </div>
       </div>
     </div>
@@ -101,13 +101,13 @@ layout: default
         <p>
           "It was a pleasure working with ThinkUX to refresh and improve the UX design of our organization's website. We now have a cleaner more comprehensive site that better reflects our mission. The team went above and beyond my expectations!"
         </p>
-      </div>
-      <div class="attribution">
-        <div class="attr-name">
-          Nailah Butler
-        </div>
-        <div class="attr-title">
-          Project Manager at Epitome of Soul
+        <div class="attribution">
+          <div class="attr-name">
+            Nailah Butler
+          </div>
+          <div class="attr-title">
+            Project Manager at Epitome of Soul
+          </div>
         </div>
       </div>
     </div>
