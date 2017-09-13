@@ -18,7 +18,7 @@ layout: default
   </div>
 
   <div class="row">
-    <div class="col-xs-10 col-xs-offset-1 col-sm-4">
+    <div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0">
       <div class="feature">
         <div class="text-center">
           <img class="feature-icon" src="{{ site.baseurl }}/images/experiment-icon.svg" alt="An experiment">
@@ -27,7 +27,7 @@ layout: default
         <p>We dive deep to understand your product and your customers. We make your business our business.</p>
       </div>
     </div>
-    <div class="col-xs-10 col-xs-offset-1 col-sm-4">
+    <div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0">
       <div class="feature">
         <div class="text-center" style="margin-top:-5px;">
           <img class="feature-icon" src="{{ site.baseurl }}/images/light-icon.svg" alt="A lightbulb">
@@ -36,7 +36,7 @@ layout: default
         <p>With our user-centred approach, we create compelling and intuitive designs for your product.</p>
       </div>
     </div>
-    <div class="col-xs-10 col-xs-offset-1 col-sm-4">
+    <div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0">
       <div class="feature">
         <div class="text-center">
           <img class="feature-icon" src="{{ site.baseurl }}/images/notes-icon.svg" alt="A checklist">
