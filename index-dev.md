@@ -122,7 +122,7 @@ layout: default
   <div class="row landing-page-section">
     <div class="col-xs-12">
       <h1 class="text-center">Get in touch</h1>
-      <h3 class="text-center">Do you have a project you'd like to work with us on? We'd love to hear from you.</h3>
+      <p class="section-subheading">Do you have a project you'd like to work with us on? We'd love to hear from you.</p>
     </div>
   </div>
   
