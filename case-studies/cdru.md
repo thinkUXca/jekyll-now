@@ -119,32 +119,20 @@ description: A description of the work performed for the Child Development Resea
       <li>adding a policeman character to deliver any audio instructions</li>
     </ul>
     <p>We also updated the scoring system to give more rewards for good performance, and make it easier for the participants to demonstrate mastery and move on to the next lesson. Overall, these changes had a marked impact on user engagement.</p>
-  </div>
-</div>
-    
-<div class="row case-study">
-  <div class="col-xs-12 col-sm-6">
     <figure class="figure">
       <img class="img-responsive" src="{{ site.baseurl }}/images/portfolio/case_studies/police.jpg" alt="policeman character" />
       <figcaption class="figure-caption">We added a policeman character to deliver dialog.</figcaption>
     </figure>
-  </div>
-  <div class="col-xs-12 col-sm-6">
     <figure class="figure">
       <img class="img-responsive" src="{{ site.baseurl }}/images/portfolio/case_studies/training3.jpg" alt="a feedback video from the training system" />
       <figcaption class="figure-caption">A feedback video from the training system.</figcaption>
     </figure>
-  </div>
-</div>
-
-<div class="row case-study">
-  <div class="col-xs-12 col-sm-6 col-sm-offset-3">    
     <p>The CDRU is currently collecting data using the training system, and early results are promising. The project was featured on CityNews in Toronto (1:25 onwards in the video below shows some of the training system in action).</p>
   </div>
 </div>
 
 <div class="row case-study">
-  <div class="col-xs-12">
+  <div class="col-xs-12 col-sm-6 col-sm-offset-3">
     <div class="embed-responsive embed-responsive-16by9">
     <object class="embed-responsive-item" id="flashObj" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,47,0"><param name="movie" value="https://c.brightcove.com/services/viewer/federated_f9?isVid=1" /><param name="bgcolor" value="#FFFFFF" /><param name="flashVars" value="videoId=5194439063001&playerID=655898905001&playerKey=AQ~~,AAAAii5Rh_E~,CtyoY0YlBsbcIexFHrivx99PNEri0ZG2&domain=embed&dynamicStreaming=true" /><param name="base" value="https://admin.brightcove.com" /><param name="seamlesstabbing" value="false" /><param name="allowFullScreen" value="true" /><param name="swLiveConnect" value="true" /><param name="allowScriptAccess" value="always" /><embed src="https://c.brightcove.com/services/viewer/federated_f9?isVid=1" bgcolor="#FFFFFF" flashVars="videoId=5194439063001&playerID=655898905001&playerKey=AQ~~,AAAAii5Rh_E~,CtyoY0YlBsbcIexFHrivx99PNEri0ZG2&domain=embed&dynamicStreaming=true" base="http://admin.brightcove.com" name="flashObj" width="640" height="446" seamlesstabbing="false" type="application/x-shockwave-flash" allowFullScreen="true" swLiveConnect="true" allowScriptAccess="always" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></embed></object>
     </div>
