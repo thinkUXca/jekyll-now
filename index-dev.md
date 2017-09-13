@@ -39,6 +39,13 @@ layout: default
     </div>
   </div>
   
+  
+  <div class="row">
+    <div class="col-xs-12">
+      <h1 class="text-center">What our clients say</h1>
+    </div>
+  </div>
+  
   <div class="row">
     <div class="col-xs-12 col-sm-6">
       <div class="testimonial">
