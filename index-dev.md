@@ -40,7 +40,7 @@ layout: default
   </div>
   
   
-  <div class="row">
+  <div class="row landing-page-section">
     <div class="col-xs-12">
       <h1 class="text-center">What our clients say</h1>
     </div>
