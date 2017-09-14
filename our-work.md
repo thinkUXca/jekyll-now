@@ -13,7 +13,7 @@ description: The portfolio of ThinkUX's user experience design work, including p
   <div class="row portfolio-item">
     <div class="col-xs-10 col-xs-offset-1 col-md-10 col-md-offset-1">
       <div class="row">
-        <div class="col-xs-12 col-sm-5" style="margin-top: 30px">
+        <div class="col-xs-12 col-sm-5" style="margin-top:30px">
           <img class="img-responsive center-block" src="{{ site.baseurl }}/images/portfolio-test.jpg" alt="porfolio placeholder image" />
         </div>
         <div class="col-xs-12 col-sm-7">
@@ -29,12 +29,12 @@ description: The portfolio of ThinkUX's user experience design work, including p
   <div class="row portfolio-item">
     <div class="col-xs-10 col-xs-offset-1 col-md-10 col-md-offset-1">
       <div class="row">
-        <div class="col-xs-12 col-sm-5" style="margin-top: 30px">
+        <div class="col-xs-12 col-sm-5" style="margin-top:30px">
           <img class="img-responsive center-block" src="{{ site.baseurl }}/images/portfolio-test2.jpeg" alt="porfolio placeholder image" />
         </div>
         <div class="col-xs-12 col-sm-7">
           <h1>Child Development Research Unit</h1>
-          <p class="services">Interviews &bull; UX Design &bull; Development &bull; Prototyping &bull; User Testing</p>
+          <p class="services">Interviews &bull; UX Design &bull; Development &bull; Prototyping &bull; Usability Testing</p>
           <p>The Child Development Research Unit (CDRU) is a research laboratory at the University of Guelph that studies developmental issues related to child health. We were hired to help the CDRU researchers design and build a virtual reality (VR) training system to help teach children to cross the street more safely, in a number of realistic suburban environments. This work has been featured in the Toronto Star and City News, and preliminary studies have shown good results.</p>
           <p><a href="{{ site.baseurl }}/case-studies/cdru/">Read the case study &rarr;</a></p>
         </div>
@@ -45,7 +45,22 @@ description: The portfolio of ThinkUX's user experience design work, including p
   <div class="row portfolio-item">
     <div class="col-xs-10 col-xs-offset-1 col-md-10 col-md-offset-1">
       <div class="row">
-        <div class="col-xs-12 col-sm-5" style="margin-top: 30px">
+        <div class="col-xs-12 col-sm-5" style="margin-top:30px">
+          <img class="img-responsive center-block" src="{{ site.baseurl }}/images/tripseer-cover.jpg" alt="TripSeer case study cover art" />
+        </div>
+        <div class="col-xs-12 col-sm-7">
+          <h1>TripSeer</h1>
+          <p class="services">User Interviews &bull; UX Design &bull; Sprint &bull; Wireframes &bull; Prototyping &bull; Usability Testing</p>
+          <p>TripSeer is a web application offering intelligent trip planning and itinerary management. It allows users to create trips with multiple destinations, and manage accommodations, activities, and travel methods between their destinations. The client approached us because they were concerned that while the application was rich with features, it was too complex for users to manage easily. We worked with TripSeer to redesign the landing page and trip planning flow, and tested the designs with users.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="row portfolio-item">
+    <div class="col-xs-10 col-xs-offset-1 col-md-10 col-md-offset-1">
+      <div class="row">
+        <div class="col-xs-12 col-sm-5" style="margin-top:30px">
           <img class="img-responsive center-block" src="{{ site.baseurl }}/images/portfolio-test3.jpeg" alt="porfolio placeholder image" />
         </div>
         <div class="col-xs-12 col-sm-7">
