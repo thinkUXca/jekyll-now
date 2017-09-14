@@ -35,7 +35,7 @@ description: The portfolio of ThinkUX's user experience design work, including p
         <div class="col-xs-12 col-sm-7">
           <h1>Child Development Research Unit</h1>
           <p class="services">Interviews &bull; UX Design &bull; Development &bull; Prototyping &bull; User Testing</p>
-          <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy.</p>
+          <p>The Child Development Research Unit (CDRU) is a research laboratory at the University of Guelph that studies developmental issues related to child health. We were hired to help the CDRU researchers design and build a virtual reality (VR) training system to help teach children to cross the street more safely, in a number of realistic suburban environments. This work has been featured in the Toronto Star and City News, and preliminary studies have shown good results.</p>
           <p><a href="#">Read the case study &rarr;</a></p>
         </div>
       </div>
