@@ -14,7 +14,7 @@ description: The portfolio of ThinkUX's user experience design work, including p
     <div class="col-xs-10 col-xs-offset-1 col-md-10 col-md-offset-1">
       <div class="row">
         <div class="col-xs-12 col-sm-5" style="margin-top:30px">
-          <img class="img-responsive center-block" src="{{ site.baseurl }}/images/su-cover.jpeg" alt="porfolio placeholder image" />
+          <img class="img-responsive center-block" src="{{ site.baseurl }}/images/su-cover.jpeg" alt="Singularity University case study cover image" />
         </div>
         <div class="col-xs-12 col-sm-7">
           <h1>Singularity University</h1>
@@ -30,7 +30,7 @@ description: The portfolio of ThinkUX's user experience design work, including p
     <div class="col-xs-10 col-xs-offset-1 col-md-10 col-md-offset-1">
       <div class="row">
         <div class="col-xs-12 col-sm-5" style="margin-top:30px">
-          <img class="img-responsive center-block" src="{{ site.baseurl }}/images/cdru-cover.jpeg" alt="porfolio placeholder image" />
+          <img class="img-responsive center-block" src="{{ site.baseurl }}/images/cdru-cover.jpeg" alt="CDRU case study cover image" />
         </div>
         <div class="col-xs-12 col-sm-7">
           <h1>Child Development Research Unit</h1>
@@ -46,7 +46,7 @@ description: The portfolio of ThinkUX's user experience design work, including p
     <div class="col-xs-10 col-xs-offset-1 col-md-10 col-md-offset-1">
       <div class="row">
         <div class="col-xs-12 col-sm-5" style="margin-top:30px">
-          <img class="img-responsive center-block" src="{{ site.baseurl }}/images/tripseer-cover.jpeg" alt="TripSeer case study cover art" />
+          <img class="img-responsive center-block" src="{{ site.baseurl }}/images/tripseer-cover.jpeg" alt="TripSeer case study cover image" />
         </div>
         <div class="col-xs-12 col-sm-7">
           <h1>TripSeer</h1>
@@ -62,7 +62,7 @@ description: The portfolio of ThinkUX's user experience design work, including p
     <div class="col-xs-10 col-xs-offset-1 col-md-10 col-md-offset-1">
       <div class="row">
         <div class="col-xs-12 col-sm-5" style="margin-top:30px">
-          <img class="img-responsive center-block" src="{{ site.baseurl }}/images/eos-cover.jpeg" alt="porfolio placeholder image" />
+          <img class="img-responsive center-block" src="{{ site.baseurl }}/images/eos-cover.jpeg" alt="Epitome of Soul case study cover image" />
         </div>
         <div class="col-xs-12 col-sm-7">
           <h1>Epitome of Soul</h1>
