@@ -2,11 +2,11 @@
 layout: page
 description: A description of the work performed for the Child Development Research Unit, including user interviews, minimum viable product, prototyping, usability testing.
 ---
-<div class="row">
-  <div class="col-xs-12">
-    <a class="breadcrumb" href="{{ site.baseurl }}/our-work/">&larr; Back to Case Studies</a>
-  </div>
-</div>
+<ol class="breadcrumb">
+  <li class="breadcrumb-item"><a href="{{ site.baseurl }}">Home</a></li>
+  <li class="breadcrumb-item"><a href="{{ site.baseurl }}/our-work/">Our Work</a></li>
+  <li class="breadcrumb-item active">CDRU</li>
+</ol>  
 
 <div class="row case-study">
   <div class="col-xs-12 col-sm-8 col-sm-offset-2">
