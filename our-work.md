@@ -50,7 +50,7 @@ description: The portfolio of ThinkUX's user experience design work, including p
         </div>
         <div class="col-xs-12 col-sm-7">
           <h1>TripSeer</h1>
-          <p class="services">User Interviews &bull; UX Design &bull; Sprint &bull; Wireframes &bull; Prototyping &bull; Usability Testing</p>
+          <p class="services">User Interviews &bull; Expert Evaluation &bull; UX Design &bull; Wireframes &bull; Prototyping &bull; Usability Testing</p>
           <p>TripSeer is a web application offering intelligent trip planning and itinerary management. It allows users to create trips with multiple destinations, and manage accommodations, activities, and travel methods between their destinations. The client approached us because they were concerned that while the application was rich with features, it was too complex for users to manage easily. We worked with TripSeer to redesign the landing page and trip planning flow, and tested the designs with users.</p>
           <p><em>Case study coming soon!</em></p>
         </div>
