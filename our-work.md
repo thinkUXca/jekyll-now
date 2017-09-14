@@ -30,7 +30,7 @@ description: The portfolio of ThinkUX's user experience design work, including p
     <div class="col-xs-10 col-xs-offset-1 col-md-10 col-md-offset-1">
       <div class="row">
         <div class="col-xs-12 col-sm-5" style="margin-top:30px">
-          <img class="img-responsive center-block" src="{{ site.baseurl }}/images/portfolio-test2.jpeg" alt="porfolio placeholder image" />
+          <img class="img-responsive center-block" src="{{ site.baseurl }}/images/cdru-cover.jpeg" alt="porfolio placeholder image" />
         </div>
         <div class="col-xs-12 col-sm-7">
           <h1>Child Development Research Unit</h1>
@@ -62,12 +62,12 @@ description: The portfolio of ThinkUX's user experience design work, including p
     <div class="col-xs-10 col-xs-offset-1 col-md-10 col-md-offset-1">
       <div class="row">
         <div class="col-xs-12 col-sm-5" style="margin-top:30px">
-          <img class="img-responsive center-block" src="{{ site.baseurl }}/images/portfolio-test3.jpeg" alt="porfolio placeholder image" />
+          <img class="img-responsive center-block" src="{{ site.baseurl }}/images/eos-cover.jpeg" alt="porfolio placeholder image" />
         </div>
         <div class="col-xs-12 col-sm-7">
           <h1>Epitome of Soul</h1>
           <p class="services">Expert Evaluation &bull; Comparative Analysis &bull; UX Design &bull; Wireframing</p>
-          <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy.</p>
+          <p>Epitome of Soul is an organization that encourages elementary and high school students in the US to achieve academic excellence and cultural growth through the arts. We were engaged to help them improve the UX design of their website, increase sign ups, and better communicate their mission. We provided an expert evaluation and a new landing page design.</p>
           <p><em>Case study coming soon!</em></p>
         </div>
       </div>
