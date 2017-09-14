@@ -11,7 +11,7 @@ description: The portfolio of ThinkUX's user experience design work, including p
 <div class="container">
   
   <div class="row portfolio-item">
-    <div class="col-xs-12 col-md-10 col-md-offset-1">
+    <div class="col-xs-10 col-xs-offset-1 col-md-10 col-md-offset-1">
       <div class="row">
         <div class="col-xs-12 col-sm-5" style="margin-top: 30px">
           <img class="img-responsive center-block" src="{{ site.baseurl }}/images/portfolio-test.jpg" alt="porfolio placeholder image" />
@@ -27,7 +27,7 @@ description: The portfolio of ThinkUX's user experience design work, including p
   </div>
   
   <div class="row portfolio-item">
-    <div class="col-xs-12 col-md-10 col-md-offset-1">
+    <div class="col-xs-10 col-xs-offset-1 col-md-10 col-md-offset-1">
       <div class="row">
         <div class="col-xs-12 col-sm-5" style="margin-top: 30px">
           <img class="img-responsive center-block" src="{{ site.baseurl }}/images/portfolio-test2.jpeg" alt="porfolio placeholder image" />
@@ -43,7 +43,7 @@ description: The portfolio of ThinkUX's user experience design work, including p
   </div>
   
   <div class="row portfolio-item">
-    <div class="col-xs-12 col-md-10 col-md-offset-1">
+    <div class="col-xs-10 col-xs-offset-1 col-md-10 col-md-offset-1">
       <div class="row">
         <div class="col-xs-12 col-sm-5" style="margin-top: 30px">
           <img class="img-responsive center-block" src="{{ site.baseurl }}/images/portfolio-test3.jpeg" alt="porfolio placeholder image" />
