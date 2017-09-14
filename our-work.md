@@ -14,7 +14,7 @@ description: The portfolio of ThinkUX's user experience design work, including p
     <div class="col-xs-12 col-md-10 col-md-offset-1">
       <div class="row">
         <div class="col-xs-12 col-sm-5" style="margin-top: 30px">
-          <img class="img-responsive" src="{{ site.baseurl }}/images/portfolio-test.jpg" alt="porfolio placeholder image" />
+          <img class="img-responsive center-block" src="{{ site.baseurl }}/images/portfolio-test.jpg" alt="porfolio placeholder image" />
         </div>
         <div class="col-xs-12 col-sm-7">
           <h1>Singularity University</h1>
