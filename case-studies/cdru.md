@@ -4,9 +4,10 @@ description: A description of the work performed for the Child Development Resea
 ---
 <div class="row">
   <div class="col-xs-12">
-    <a href="#">&larr; Back to Case Studies</a>
+    <a class="breadcrumb" href="{{ site.baseurl }}/our-work/">&larr; Back to Case Studies</a>
   </div>
 </div>
+
 <div class="row case-study">
   <div class="col-xs-12 col-sm-8 col-sm-offset-2">
     <h1>Child Development Research Unit</h1>
