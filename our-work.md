@@ -36,7 +36,7 @@ description: The portfolio of ThinkUX's user experience design work, including p
           <h1>Child Development Research Unit</h1>
           <p class="services">Interviews &bull; UX Design &bull; Development &bull; Prototyping &bull; User Testing</p>
           <p>The Child Development Research Unit (CDRU) is a research laboratory at the University of Guelph that studies developmental issues related to child health. We were hired to help the CDRU researchers design and build a virtual reality (VR) training system to help teach children to cross the street more safely, in a number of realistic suburban environments. This work has been featured in the Toronto Star and City News, and preliminary studies have shown good results.</p>
-          <p><a href="#">Read the case study &rarr;</a></p>
+          <p><a href="{{ site.baseurl }}/case-studies/cdru/">Read the case study &rarr;</a></p>
         </div>
       </div>
     </div>
