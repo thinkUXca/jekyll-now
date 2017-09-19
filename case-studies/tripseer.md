@@ -40,6 +40,10 @@ description: A description of the work performed for TripSeer, including user in
     <p>To understand how people plan trips, we interviewed users who had planned trips with multiple destinations in the past. We asked them to walk us through trips they’d planned, including their overall planning process, the importance of various factors like cost and scheduling, what resources they’d used, and so on. This helped us understand various ways that people plan trips,  and what potential users look for in a trip planning application.</p>
     <h4>Personas &amp; User Stories</h4>
     <p>Based on the questionnaires that TripSeer had collected, and information we uncovered in our user interviews, we worked with the stakeholders to create six user proto-personas, with accompanying user stories. These personas helped us to solidify a mutual understanding of the various user groups, and what TripSeer should do for them.</p>
+    <figure class="figure">
+      <img class="img-responsive" src="{{ site.baseurl }}/images/portfolio/case_studies/tripseer-persona.jpg" alt="One of the TripSeer personas" />
+      <figcaption class="figure-caption">One of the TripSeer personas</figcaption>
+    </figure>
   </div>
 </div>
 
