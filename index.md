@@ -106,7 +106,7 @@ layout: default
     <div class="col-xs-12 col-sm-6">
       <div class="testimonial">
         <p>
-          <span class="dropcap">“</span>It was a pleasure working with ThinkUX to refresh and improve the UX design of our organization's website. We now have a cleaner more comprehensive site that better reflects our mission. The team went above and beyond my expectations!
+          <span class="dropcap">“</span>It was a pleasure working with ThinkUX to refresh and improve the UX design of our organization's website. We now have a cleaner, more comprehensive site that better reflects our mission. The team went above and beyond my expectations!
         </p>
         <div class="attribution">
           <div class="attr-name">
