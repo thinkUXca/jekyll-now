@@ -48,7 +48,7 @@ description: A description of the work performed for TripSeer, including user in
     <h2>Design and Prototype</h2>
     <p>We focused on the landing page and the trip planning flow, with the goal of making TripSeer more intuitive and less overwhelming for users. Using the personas, we brainstormed to determine which features were essential, and how we could design an interface that would accommodate the non-linear workflow of planning trips.</p>
     <p>We sketched some ideas for the interface and mapped out user flows between the screens, then demoed to each other how the different user personas might approach it. Eventually we narrowed it down to something that we thought would work.</p>
-    <figure class="figure">
+    <figure class="figure" style="max-width:555px;">
       <img class="img-responsive" src="{{ site.baseurl }}/images/portfolio/case_studies/tripseer-userflow.jpg" alt="a user flow" />
       <figcaption class="figure-caption">A user flow for signing in to the app.</figcaption>
     </figure>
