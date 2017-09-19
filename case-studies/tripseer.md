@@ -35,7 +35,7 @@ description: A description of the work performed for TripSeer, including user in
     <h4>Expert Evaluation &amp; Competitive Analysis</h4>
     <p>To get a sense of the strengths and weaknesses of the TripSeer interface, we performed an expert evaluation with two evaluators. It had a lot of powerful functionality, but the interface was overwhelming,and there was no obvious starting point. We created a Google Slides deck and presented our findings. We also identified and reviewed some competitor products. This provided insight into industry standards and gave us an idea of where TripSeer stood in terms of features and usability.</p>
     <h4>Stakeholder Interviews</h4>
-    <p></p>
+    <p>Next, we interviewed the stakeholders to get an understanding of their business goals and their vision for the project. We discussed the user research that TripSeer had already completed, including a questionnaire and some user interviews. During this meeting the CEO also gave us a demonstration of the system, which revealed some additional functionality that we hadn’t discovered during our expert evaluation.</p>
     <h4>User Interviews</h4>
     <p>To understand how people plan trips, we interviewed users who had planned trips with multiple destinations in the past. We asked them to walk us through trips they’d planned, including their overall planning process, the importance of various factors like cost and scheduling, what resources they’d used, and so on. This helped us understand various ways that people plan trips,  and what potential users look for in a trip planning application.</p>
     <h4>Personas &amp; User Stories</h4>
