@@ -49,6 +49,10 @@ description: A description of the work performed for TripSeer, including user in
     <p>We focused on the landing page and the trip planning flow, with the goal of making TripSeer more intuitive and less overwhelming for users. Using the personas, we brainstormed to determine which features were essential, and how we could design an interface that would accommodate the non-linear workflow of planning trips.</p>
     <p>We sketched some ideas for the interface and mapped out user flows between the screens, then demoed to each other how the different user personas might approach it. Eventually we narrowed it down to something that we thought would work.</p>
     <p>One of the most challenging problems was how to manage and change the number of days being spent in each destination on a multiple-destination trip. This is a difficult problem because different users have different needs: some users want to travel on specific dates with a strict itinerary, others are more flexible and want to get the best value for their money, and others want to fill in the dates at the end after they’ve planned their trips around cities and activities. We also had to consider what would happen when new destinations were added, or existing destinations were removed. We spent a lot of time workshopping these controls and came to a solution that we believe accommodates all of these needs.</p>
+    <figure class="figure">
+      <img class="img-responsive" src="{{ site.baseurl }}/images/portfolio/case_studies/tripseer-whiteboard.jpeg" alt="working on a whiteboard" />
+      <figcaption class="figure-caption">Whiteboarding the landing page design.</figcaption>
+    </figure>
     <p>Ultimately, we created some wireframes and an interactive prototype, ready for testing with users.</p>
   </div>
 </div>
