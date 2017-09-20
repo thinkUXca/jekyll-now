@@ -42,22 +42,8 @@
       </div>
     </div>
     
-    <script type="text/javascript">
-      function downloadJSAtOnload() {
-        var jqueryJS = document.createElement("script");
-        var bootstrapJS = document.createElement("script");
-        jqueryJS.src = "{{ site.baseurl }}/js/jquery-3.1.1.min.js";
-        bootstrapJS.src = "{{ site.baseurl }}/js/bootstrap.min.js";
-        document.body.appendChild(jqueryJS);
-        document.body.appendChild(bootstrapJS);
-      }
-      if (window.addEventListener)
-        window.addEventListener("load", downloadJSAtOnload, false);
-      else if (window.attachEvent)
-        window.attachEvent("onload", downloadJSAtOnload);
-      else
-        window.onload = downloadJSAtOnload;
-    </script>
+    <script src="{{ site.baseurl }}/js/jquery-3.1.1.min.js"></script>
+    <script src="{{ site.baseurl }}/js/bootstrap.min.js"></script>
     
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
