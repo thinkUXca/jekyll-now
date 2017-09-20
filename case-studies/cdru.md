@@ -23,14 +23,14 @@ description: A description of the work performed for the Child Development Resea
 </div>
 
 <div class="row case-study">
-  <div class="col-xs-12 col-sm-6 col-sm-offset-3">
+  <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
     <h2>The Challenge</h2>
     <p>The Child Development Research Unit (CDRU) is a research laboratory at the University of Guelph that studies developmental issues related to child health. We were hired to help the CDRU researchers design and build a virtual reality (VR) training game to help teach children to cross the street more safely, in a number of realistic suburban environments.</p>
   </div>
 </div>
 
 <div class="row case-study">
-  <div class="col-xs-12 col-sm-6 col-sm-offset-3">
+  <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
     <h2>Understanding the Problem</h2>
     <p>To help us understand the problem, we performed stakeholder interviews, then defined user groups and use cases.</p>
     <h4>Stakeholder Interviews</h4>
@@ -42,7 +42,7 @@ description: A description of the work performed for the Child Development Resea
 </div>
 
 <div class="row case-study">
-  <div class="col-xs-12 col-sm-6 col-sm-offset-3">
+  <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
     <h2>Building the MVP</h2>
     <p>We knew that the system needed to support the following:</p>
     <ul>
@@ -64,14 +64,14 @@ description: A description of the work performed for the Child Development Resea
 </div>
 
 <div class="row case-study">
-  <div class="col-xs-12 col-sm-6 col-sm-offset-3">
+  <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
     <h2>Our Process</h2>
     <p>After we built the MVP, we started the process of testing with users and iterating the prototype. After each round of user testing (generally 3-5 children), we would identify the most common issues and brainstorm solutions for them. We’d present these to the researchers, and collaboratively decide on the best course of action. We would then integrate the solutions into the system, and perform more user testing.</p>
   </div>
 </div>
 
 <div class="row case-study">
-  <div class="col-xs-12 col-sm-6 col-sm-offset-3">
+  <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
     <h2>Results</h2>
     <p>User testing helped us to identify a number of usability problems with the system. Some of the major problems and our solutions are summarized in the table below, along with the results that our solutions achieved.</p>
   </div>
@@ -117,7 +117,7 @@ description: A description of the work performed for the Child Development Resea
 </div>
 
 <div class="row case-study">
-  <div class="col-xs-12 col-sm-6 col-sm-offset-3">
+  <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
     <p>One problem area that our user testing revealed was user engagement. The users were in the age range of 6 to 9, and were frequently losing interest in the training, which meant that their performance wasn't improving much. We ended up making a number of tweaks to remedy this, including:</p>
     <ul>
       <li>Making the instructions shorter and straight to the point</li>
@@ -138,7 +138,7 @@ description: A description of the work performed for the Child Development Resea
 </div>
 
 <div class="row case-study">
-  <div class="col-xs-12 col-sm-6 col-sm-offset-3">
+  <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
     <div class="embed-responsive embed-responsive-16by9">
     <object class="embed-responsive-item" id="flashObj" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,47,0"><param name="movie" value="https://c.brightcove.com/services/viewer/federated_f9?isVid=1" /><param name="bgcolor" value="#FFFFFF" /><param name="flashVars" value="videoId=5194439063001&playerID=655898905001&playerKey=AQ~~,AAAAii5Rh_E~,CtyoY0YlBsbcIexFHrivx99PNEri0ZG2&domain=embed&dynamicStreaming=true" /><param name="base" value="https://admin.brightcove.com" /><param name="seamlesstabbing" value="false" /><param name="allowFullScreen" value="true" /><param name="swLiveConnect" value="true" /><param name="allowScriptAccess" value="always" /><embed src="https://c.brightcove.com/services/viewer/federated_f9?isVid=1" bgcolor="#FFFFFF" flashVars="videoId=5194439063001&playerID=655898905001&playerKey=AQ~~,AAAAii5Rh_E~,CtyoY0YlBsbcIexFHrivx99PNEri0ZG2&domain=embed&dynamicStreaming=true" base="http://admin.brightcove.com" name="flashObj" width="640" height="446" seamlesstabbing="false" type="application/x-shockwave-flash" allowFullScreen="true" swLiveConnect="true" allowScriptAccess="always" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></embed></object>
     </div>
@@ -146,7 +146,7 @@ description: A description of the work performed for the Child Development Resea
 </div>
 
 <div class="row case-study">
-  <div class="col-xs-12 col-sm-6 col-sm-offset-3">
+  <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
     <p>In the end, we created a system that has shown promise in improving child safety when crossing the street, using an engaging VR interface, and with lessons that are clear and understandable for the target users. We also learned a lot about pedestrian safety, and can't help but think about this project any time we prepare to step into the street!</p>
   </div>
 </div>
