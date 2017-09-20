@@ -9,7 +9,7 @@ description: ThinkUX is a user experience design consultancy based in Toronto, O
       exemplary user-centered designs, documentation, presentations, and applications for our clients.
     </p>
     <p>
-      We have more than 50 years of combined experience in research, teaching, software development, and user experience design.
+      We have more than 50 years of combined experience in user experience design, research, teaching, and software development.
     </p>
   </div>
 </div>
@@ -61,14 +61,10 @@ description: ThinkUX is a user experience design consultancy based in Toronto, O
         <span style="display:inline-block"><small>Co-Founder</small></span>
       </h4>
       <p>
-        Tom is a User Experience Designer and Software Developer, with interests in Agile UX, expert evaluation, usability testing,
-        and machine learning. Tom has worked with BlackBerry as part of their UX team, as a web developer, and with the Child Development Research Unit's Virtual Reality Lab, where his work was published in the <i>Journal of Pediatric
-        Psychology</i>.
+        Tom is a User Experience Designer and Software Developer, with interests in user interviews, contextual inquiry, usability testing, design, rapid prototyping, and machine learning. Tom has worked with BlackBerry as part of their UX team, as a web developer, and with the Child Development Research Unit's Virtual Reality Lab, where his work was published in the <i>Journal of Pediatric Psychology</i>.
       </p>
       <p>
-        Tom holds a Bachelor of Computing and an MSc in Human Computer Interaction from the University of Guelph, where his research
-        focused on the influence of personality on code inspection performance. He has a black belt in Kukkiwon Taekwondo, and when
-        not at work can be found playing and designing board games.
+        Tom holds a Bachelor of Computing and an MSc in Human Computer Interaction from the University of Guelph. He has a black belt in Kukkiwon Taekwondo, and when not at work can be found playing and designing board games.
       </p>
     </div>
    </div>
