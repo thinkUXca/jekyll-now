@@ -276,9 +276,12 @@ input[type="submit"]:hover {
     h1 {
       color: $white; 
       margin: 0;
+      line-height:110%;
     }
     p {
       color:$white;
+      max-width:80%;
+      margin: .8em auto;
     }
   }
 }
