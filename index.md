@@ -4,9 +4,8 @@ layout: default
 
 <div class="jumbotron">
   <div class="jumbo-header">
-    <h1 class="text-center">We create better user experiences.</h1>
-    <p class="text-center">We're a team of passionate people who solve hard problems through inspired design.</p>
-    <p class="text-center" style="margin-top:-.8em;">We love our work and it shows.</p>
+    <h1 class="text-center" style="line-height:110%;">We create better user experiences.</h1>
+    <p class="text-center">We're a team of passionate people who solve hard problems through inspired design. We love our work and it shows.</p>
   </div>
 </div>
 <div class="container">
