@@ -298,7 +298,9 @@ input[type="submit"]:hover {
 }
 
 .feature-icon {
-  width: 200px;
+  width:200px;
+  max-width:100%;
+  height:auto;
 }
 
 .testimonial {
