@@ -23,14 +23,14 @@ description: A description of the work performed for TripSeer, including user in
 </div>
 
 <div class="row case-study">
-  <div class="col-xs-12 col-sm-6 col-sm-offset-3">
+  <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
     <h2>The Challenge</h2>
     <p>TripSeer is a web application offering intelligent trip planning and itinerary management. It allows users to create trips with multiple destinations, and manage accommodations, activities, and travel methods between their destinations. The client approached us because they were concerned that while the application was rich with features, it was too complex for users to manage easily.</p>
   </div>
 </div>
 
 <div class="row case-study">
-  <div class="col-xs-12 col-sm-6 col-sm-offset-3">
+  <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
     <h2>Understanding the Problem</h2>
     <h4>Expert Evaluation &amp; Competitive Analysis</h4>
     <p>To get a sense of the strengths and weaknesses of the TripSeer interface, we performed an expert evaluation with two evaluators. It had a lot of powerful functionality, but the interface was overwhelming,and there was no obvious starting point. We created a Google Slides deck and presented our findings. We also identified and reviewed some competitor products. This provided insight into industry standards and gave us an idea of where TripSeer stood in terms of features and usability.</p>
@@ -48,7 +48,7 @@ description: A description of the work performed for TripSeer, including user in
 </div>
 
 <div class="row case-study">
-  <div class="col-xs-12 col-sm-6 col-sm-offset-3">
+  <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
     <h2>Design and Prototype</h2>
     <p>We focused on the landing page and the trip planning flow, with the goal of making TripSeer more intuitive and less overwhelming for users. Using the personas, we brainstormed to determine which features were essential, and how we could design an interface that would accommodate the non-linear workflow of planning trips.</p>
     <p>We sketched some ideas for the interface and mapped out user flows between the screens, then demoed to each other how the different user personas might approach it. Eventually we narrowed it down to something that we thought would work.</p>
@@ -66,7 +66,7 @@ description: A description of the work performed for TripSeer, including user in
 </div>
 
 <div class="row case-study">
-  <div class="col-xs-12 col-sm-6 col-sm-offset-3">
+  <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
     <h2>User Testing &amp; Iteration</h2>
     <p>We created a testing protocol with some key tasks, based on the user stories that we’d identified. Then we recruited four users who had experience planning trips, and tested the interface with them.</p>
     <p>Most of the tasks were completed without too much difficulty  by each of the users. Our solution for managing arrival and departure dates across the different destinations seemed to work well, and the overall feedback was quite positive. The tests also revealed some usability issues, and some tweaks that we had to make, so we adjusted the prototype before delivering it to the client.</p>
@@ -74,7 +74,7 @@ description: A description of the work performed for TripSeer, including user in
 </div>
 
 <div class="row case-study">
-  <div class="col-xs-12 col-sm-6 col-sm-offset-3">
+  <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
     <h2>The Result</h2>
     <p>At the conclusion of the project, we'd provided TripSeer with:</p>
     <ul>
