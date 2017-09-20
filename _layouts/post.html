@@ -3,16 +3,20 @@ layout: default
 ---
 {% assign author = site.authors[page.author] %}
 <div class="container">
-  <article class="post">
-    <h1>{{ page.title }}</h1>
-    <div class="byline">
-      <a href="mailto:{{ author.email }}">{{ author.display_name }}</a> - {{ page.date | date: "%B %e, %Y" }}
-    </div>
+  <div class="row">
+    <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
+      <article class="post">
+        <h1>{{ page.title }}</h1>
+        <div class="byline">
+          <a href="mailto:{{ author.email }}">{{ author.display_name }}</a> - {{ page.date | date: "%B %e, %Y" }}
+        </div>
 
-    <div class="entry">
-      {{ content }}
-    </div>
+        <div class="entry">
+          {{ content }}
+        </div>
 
-    {% include disqus.html %}
-  </article>
+        {% include disqus.html %}
+      </article>
+    </div>
+  </div>
 </div>
