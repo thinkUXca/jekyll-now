@@ -20,7 +20,7 @@ layout: default
     <div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0">
       <div class="feature">
         <div class="text-center">
-          <img class="feature-icon" src="{{ site.baseurl }}/images/experiment-icon.svg" alt="An experiment">
+          <img class="feature-icon img-responsive" src="{{ site.baseurl }}/images/experiment-icon.svg" alt="An experiment">
         </div>
         <h3 class="text-center" style="margin-top:-40px">Research</h3>
         <p>We dive deep to understand your product and your customers. We make your business our business.</p>
@@ -29,7 +29,7 @@ layout: default
     <div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0">
       <div class="feature">
         <div class="text-center" style="margin-top:-5px;">
-          <img class="feature-icon" src="{{ site.baseurl }}/images/light-icon.svg" alt="A lightbulb">
+          <img class="feature-icon img-responsive" src="{{ site.baseurl }}/images/light-icon.svg" alt="A lightbulb">
         </div>
         <h3 class="text-center" style="margin-top:-35px">Design</h3>
         <p>With our user-centred approach, we create compelling and intuitive designs for your product.</p>
@@ -38,7 +38,7 @@ layout: default
     <div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-0">
       <div class="feature">
         <div class="text-center">
-          <img class="feature-icon" src="{{ site.baseurl }}/images/notes-icon.svg" alt="A checklist">
+          <img class="feature-icon img-responsive" src="{{ site.baseurl }}/images/notes-icon.svg" alt="A checklist">
         </div>
         <h3 class="text-center" style="margin-top:-40px">Test</h3>
         <p>Rapid prototyping, usability testing, and design iteration make sure that your money is spent wisely.</p>
