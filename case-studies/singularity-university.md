@@ -54,8 +54,24 @@ description: A description of the work performed for Singularity University, inc
     <h2>Design</h2>
     <p>We focused on the landing page, the sign up flow, and the course information pages.</p>
     <p>On the landing page we aimed to more clearly communicate the purpose of the site, the benefit of the SU courses, and provide a more clear call to action (CTA). We also created separate landing pages for guests and registered users. Registered users had reported having problems finding their courses after returning to SU, so we simplified the process by adding their courses and course progress to the landing page after signing in.</p>
+    <figure class="figure">
+      <img class="img-responsive" src="{{ site.baseurl }}/images/portfolio/case_studies/su-landing.jpg" alt="SU landing page (new users)" />
+      <figcaption class="figure-caption">The SU landing page for guests or new users.</figcaption>
+    </figure>
+    <figure class="figure">
+      <img class="img-responsive" src="{{ site.baseurl }}/images/portfolio/case_studies/su-landing-registered.jpg" alt="SU landing page (registered users)" />
+      <figcaption class="figure-caption">The SU landing page for registered users.</figcaption>
+    </figure>
     <p>One of the SU business goals was to simplify the registration process for both the introductory course and the paid course series. We focused on creating a clear path from landing as a guest to joining the free course or applying for the course series. We also made recommendations on how to improve the site registration and course application forms to increase conversions.</p>
+    <figure class="figure">
+      <img class="img-responsive" src="{{ site.baseurl }}/images/portfolio/case_studies/su-courses.jpg" alt="SU courses overview page" />
+      <figcaption class="figure-caption">The courses overview page.</figcaption>
+    </figure>
     <p>We redesigned the course information pages to quickly communicate the price, time commitment, course duration, and activity types (e.g. videos, readings, discussion groups). We also added social proof in the form of former student testimonials, and a FAQ to answer the most common questions about the courses.</p>
+    <figure class="figure">
+      <img class="img-responsive" src="{{ site.baseurl }}/images/portfolio/case_studies/su-courseinfo.jpg" alt="SU course information page" />
+      <figcaption class="figure-caption">A course information page, showing key details at a glance.</figcaption>
+    </figure>
   </div>
 </div>
 
