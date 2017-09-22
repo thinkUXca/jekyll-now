@@ -67,6 +67,9 @@ description: A description of the work performed for the Child Development Resea
   <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
     <h2>Our Process</h2>
     <p>After we built the MVP, we started the process of testing with users and iterating the prototype. After each round of user testing (generally 3-5 children), we would identify the most common issues and brainstorm solutions for them. We’d present these to the researchers, and collaboratively decide on the best course of action. We would then integrate the solutions into the system, and perform more user testing.</p>
+    <figure class="figure">
+      <img class="img-responsive" src="{{ site.baseurl }}/images/portfolio/case_studies/designthinking.jpeg" alt="Design Thinking diagram" />
+    </figure>
   </div>
 </div>
 
