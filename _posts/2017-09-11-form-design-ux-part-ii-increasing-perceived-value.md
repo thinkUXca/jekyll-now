@@ -105,12 +105,111 @@ I did a survey of case studies that tracked changes in conversion % after changi
     <tr>
       <th>Old button</th>
       <th>New button</th>
-      <th><th>Conversions% Change</th>
+      <th>Conversions% Change</th>
       <th>Confidence</th>
       <th>My Reasoning</th>
     </tr>
   </thead>
-
+  <tbody>
+    <tr>
+      <td>a</td>
+      <td>b</td>
+      <td>10.94%</td>
+      <td>99%</td>
+      <td>More specific & more value.</td>
+    </tr>
+    <tr>
+      <td>a</td>
+      <td>b</td>
+      <td>90%</td>
+      <td>98%</td>
+      <td>More personal.</td>
+    </tr>
+    <tr>
+      <td>a</td>
+      <td>b</td>
+      <td>38.26%</td>
+      <td>98%</td>
+      <td>Less effort (order vs. get).</td>
+    </tr>
+    <tr>
+      <td>a</td>
+      <td>b</td>
+      <td>(39.03%)</td>
+      <td>99%</td>
+      <td>Less specific.</td>
+    </tr>
+    <tr>
+      <td>a</td>
+      <td>b "Find your gym and get membership"</td>
+      <td>68%</td>
+      <td>99%</td>
+      <td>More specific.</td>
+    </tr>
+    <tr>
+      <td>a</td>
+      <td>b</td>
+      <td>31.03%</td>
+      <td>n/a</td>
+      <td>More specific.</td>
+    </tr>
+    <tr>
+      <td>a</td>
+      <td>b</td>
+      <td>(24.91%)</td>
+      <td>99%</td>
+      <td>Less personal.</td>
+    </tr>
+    <tr>
+      <td>a</td>
+      <td>b "End My Scheduling Hassles"</td>
+      <td>24%</td>
+      <td>98%</td>
+      <td>More personal and more value.</td>
+    </tr>
+    <tr>
+      <td>a</td>
+      <td>b</td>
+      <td>33.1%</td>
+      <td>96%</td>
+      <td>More specific and more value.</td>
+    </tr>
+    <tr>
+      <td>a</td>
+      <td>b</td>
+      <td>60%</td>
+      <td>n/a</td>
+      <td>Less effort (book vs. get).</td>
+    </tr>
+    <tr>
+      <td>a</td>
+      <td>b</td>
+      <td>49.85%</td>
+      <td>n/a</td>
+      <td>More value.</td>
+    </tr>
+    <tr>
+      <td>a</td>
+      <td>b</td>
+      <td>14.41%</td>
+      <td>99.9%</td>
+      <td>More specific.</td>
+    </tr>
+    <tr>
+      <td>a</td>
+      <td>b</td>
+      <td>74%</td>
+      <td>n/a</td>
+      <td>More specific.</td>
+    </tr>
+    <tr>
+      <td>a</td>
+      <td>b</td>
+      <td>192%</td>
+      <td>n/a</td>
+      <td>More specific.</td>
+    </tr>
+  </tbody>
 </table>
 
 ### Take-aways from these case studies ###
@@ -144,61 +243,80 @@ In Formstack’s [2015 Form Conversion Report](https://www.formstack.com/report/
 
 However, this data should be carefully considered before taking it as gospel. They looked at a lot of different *types* of forms, and each form performs very differently. Contact forms were by far the most represented type of form in their study (see below), and had by far the lowest conversion %. That means that common button copy used on contact forms (for example, “Submit”) would have a much lower conversion percentage due to the fact that contact forms have such a low conversion percentage. **The data would be much more valuable if it were reported by *form type***.
 
-Type of form
-Conversion rate
-Avg. # of fields
-# forms analyzed
-Event Registration
-11%
-15
-6,198
- Order/Payment 
-9%
-22
-16,182
-Contact
-1%
-4
-76,426
-Survey
-14%
-22
-6,943
-Donation
-7%
-9
-6,634
-Contest
-35%
-10
-2,318
-Lead Gen
-11% or 17%, they state both in the report
-11
-2,876
+<table class="table table-striped table-bordered" style="font-size: .8em">
+  <thead>
+    <tr>
+      <th>Type of form</th>
+      <th>Conversion rate</th>
+      <th>Avg. # of fields</th>
+      <th># forms analyzed</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Event Registration</td>
+      <td>11%</td>
+      <td>15</td>
+      <td>6,198</td>
+    </tr>
+    <tr>
+      <td>Order/Payment</td>
+      <td>9%</td>
+      <td>22</td>
+      <td>16,182</td>
+    </tr>
+    <tr>
+      <td>Contact</td>
+      <td>1%</td>
+      <td>4</td>
+      <td>76,426</td>
+    </tr>
+    <tr>
+      <td>Survey</td>
+      <td>14%</td>
+      <td>22</td>
+      <td>6,943</td>
+    </tr>
+    <tr>
+      <td>Donation</td>
+      <td>7%</td>
+      <td>9</td>
+      <td>6,634</td>
+    </tr>
+    <tr>
+      <td>Contest</td>
+      <td>35%</td>
+      <td>10</td>
+      <td>2,318</td>
+    </tr>
+
 <Data gathered from the Formstack 2015 report>
-The Submit Conundrum
+
+#### The Submit Conundrum ####
+
 We’ve got a contradiction! On one hand you’ve got Hubspot saying forms using “Submit” perform worse than forms without it, and on the other, you’ve got Formstack saying “Submit” is used in 4 of the top 9 converting buttons. 
 
-The Formstack survey results are not very useful in this case. They tell us that “Submit Survey” has a higher conversion % than “Submit Registration”, “Submit”, and “Submit Request”, but it’s across all form types. Contests and surveys have the highest conversion rates but account for only a small percentage of all forms, so naturally “Submit Survey” has a high conversion %. We can’t determine how well “Submit Survey” performs relative to other options on survey forms, so we’re missing key data to make sense of the results. Also, “Submit” is likely used on contact forms a lot (which have only a 1% conversion rate) whereas “Submit Survey” is likely never used on contact forms. So “Submit” will be weighed down by the volume and low conversion % of contact forms, while “Submit Survey” will not be.
+The Formstack survey results are not very useful in this case. They tell us that “Submit Survey” has a higher conversion % than “Submit Registration”, “Submit”, and “Submit Request”, but it’s across *all form types*. Contests and surveys have the highest conversion rates but account for only a small percentage of all forms, so naturally “Submit Survey” has a high conversion %. We can’t determine how well “Submit Survey” performs relative to other options on survey forms, so **we’re missing key data to make sense of the results**. Also, “Submit” is likely used on contact forms a lot (which have only a 1% conversion rate) whereas “Submit Survey” is likely never used on contact forms. So “Submit” will be weighed down by the volume and low conversion % of contact forms, while “Submit Survey” will not be.
 
-TL;DR You probably shouldn’t use “submit” as your button copy. It is not very specific, and doesn’t convey much value. Being more specific, e.g., “Submit survey”, is likely better, however, there may be better options without using “submit” at all. A/B testing multiple options is the best way to go.
-How To Write Good Button Copy
-One popular method is to write button copy by finishing the sentence:
+**TL;DR You probably shouldn’t use “submit” as your button copy.** It is not very specific, and doesn’t convey much value. Being more specific, e.g., “Submit survey”, is likely better, however, there may be better options without using “submit” at all. A/B testing multiple options is the best way to go.
+
+### How To Write Good Button Copy ###
+
+One popular method is to write button copy by [finishing the sentence](https://www.copyblogger.com/call-to-action-buttons/):
 
 I want to __________.
 
 Using this technique forces you to do three things:
-Write in the first person.
-Address the user’s desire in the button copy.
-Be specific.
+* Write in the first person.
+* Address the user’s desire in the button copy.
+* Be specific.
 
 If we look at a few examples from the table, we can see this in action:
-I want to “Get Started Now” vs. I want to “Shop Medicare Plans”. Even though people might want to get started now, it’s not clear what they’ll be started. It’s very clear what will happen in the latter case.
-I want to “Download” vs. I want to “Get your FREE converter now”. Yes, people want to download, but with Download it’s not clear what they’ll be downloading. Get your FREE converter now says exactly what will happen when they click the button. I’d love to see another test here that uses “my” instead of “your”.
-I want to “Start your 30 day trial” vs. I want to “Start my 30 day trial”. This is probably the most clear example of writing in the first person, and shows why finishing the “I want to ______” sentence is a good template.
+* **I want to “Get Started Now” vs. I want to “Shop Medicare Plans”.** Even though people might want to get started now, it’s not clear what they’ll be started. It’s very clear what will happen in the latter case.
+* **I want to “Download” vs. I want to “Get your FREE converter now”.** Yes, people want to download, but with Download it’s not clear what they’ll be downloading. Get your FREE converter now says exactly what will happen when they click the button. I’d love to see another test here that uses “my” instead of “your”.
+* **I want to “Start your 30 day trial” vs. I want to “Start my 30 day trial”.** This is probably the most clear example of writing in the first person, and shows why finishing the “I want to ______.” sentence is a good template.
 
 This is a great way to generate ideas for your button copy. After coming up with two or three options, you should test, test, test! Forms in different contexts will have different results, so to find out what works best for your form in your context, you have to test.
 
-Summary
+# Summary #
 To maximize the chances of people filling in your forms, you need to provide them with motivation to do so. Two ways you can do this are by writing good form headlines and writing specific, compelling button copy.
