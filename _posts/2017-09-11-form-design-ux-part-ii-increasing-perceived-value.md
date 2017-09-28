@@ -121,56 +121,56 @@ I did a survey of case studies that tracked changes in conversion % after changi
     <tr>
       <td><img src="{{ site.baseurl }}/images/form-design/before-after/startyour-before.png" class="img-responsive" alt="Order information"></td>
       <td><img src="{{ site.baseurl }}/images/form-design/before-after/startyour-after.png" class="img-responsive" alt="Get information"></td>
-      <td>90%</td>
+      <td><a href="https://unbounce.com/conversion-rate-optimization/design-call-to-action-buttons/">90%</a></td>
       <td>98%</td>
       <td>More personal.</td>
     </tr>
     <tr>
       <td><img src="{{ site.baseurl }}/images/form-design/before-after/order-before.png" class="img-responsive" alt="Download button - before"></td>
       <td><img src="{{ site.baseurl }}/images/form-design/before-after/order-after.png" class="img-responsive" alt="Download button - after"></td>
-      <td>38.26%</td>
+      <td><a href="https://unbounce.com/conversion-rate-optimization/how-to-write-a-call-to-action-that-converts-with-case-sudies/">38.26%</a></td>
       <td>98%</td>
       <td>Less effort (order vs. get).</td>
     </tr>
     <tr>
       <td><img src="{{ site.baseurl }}/images/form-design/before-after/read-essay-before.png" class="img-responsive" alt="Read full essay now"></td>
       <td><img src="{{ site.baseurl }}/images/form-design/before-after/read-essay-after.png" class="img-responsive" alt="Get Instant Access Now"></td>
-      <td>(39.03%)</td>
+      <td><a href="https://unbounce.com/conversion-rate-optimization/how-to-write-a-call-to-action-that-converts-with-case-sudies/">(39.03%)</a></td>
       <td>99%</td>
       <td>Less specific.</td>
     </tr>
     <tr>
       <td><img src="{{ site.baseurl }}/images/form-design/before-after/get-your-membership-before.png" class="img-responsive" alt="Get your membership"></td>
       <td><img src="{{ site.baseurl }}/images/form-design/before-after/get-your-membership-after.png" class="img-responsive" alt="Find your gym & get membership"></td>
-      <td>68%</td>
+      <td><a href="https://unbounce.com/conversion-rate-optimization/how-to-write-a-call-to-action-that-converts-with-case-sudies/">68%</a></td>
       <td>99%</td>
       <td>More specific.</td>
     </tr>
     <tr>
       <td><img src="{{ site.baseurl }}/images/form-design/before-after/create-my-account-before.png" class="img-responsive" alt="Create My Account"></td>
       <td><img src="{{ site.baseurl }}/images/form-design/before-after/create-my-account-after.png" class="img-responsive" alt="Create Account & Get Started"></td>
-      <td>31.03%</td>
+      <td><a href="https://neilpatel.com/blog/the-definitive-guide-to-lead-generation-form-optimization/">31.03%</a></td>
       <td>n/a</td>
       <td>More specific.</td>
     </tr>
     <tr>
       <td><img src="{{ site.baseurl }}/images/form-design/before-after/create-my-account-before.png" class="img-responsive" alt="Create My Account"></td>
       <td><img src="{{ site.baseurl }}/images/form-design/before-after/create-my-account-after2.png" class="img-responsive" alt="Create Your Account"></td>
-      <td>(24.91%)</td>
+      <td><a href="https://unbounce.com/a-b-testing/failed-ab-test-results/">(24.91%)</a></td>
       <td>99%</td>
       <td>Less personal.</td>
     </tr>
     <tr>
       <td><img src="{{ site.baseurl }}/images/form-design/before-after/try-schedulicity-before.png" class="img-responsive" alt="Try Schedulicity Free"></td>
       <td><img src="{{ site.baseurl }}/images/form-design/before-after/try-schedulicity-after.png" class="img-responsive" alt="End My Scheduling Hassles"></td>
-      <td>24%</td>
+      <td><a href="https://www.copyblogger.com/call-to-action-buttons/">24%</a></td>
       <td>98%</td>
       <td>More personal and more value.</td>
     </tr>
     <tr>
       <td><img src="{{ site.baseurl }}/images/form-design/before-after/join-us-before.png" class="img-responsive" alt="Join Us"></td>
       <td><img src="{{ site.baseurl }}/images/form-design/before-after/join-us-after.png" class="img-responsive" alt="Make Money Flipping Websites"></td>
-      <td>33.1%</td>
+      <td><a href="https://vwo.com/blog/ab-testing-cta-text-increased-clickthroughs/">33.1%</a></td>
       <td>96%</td>
       <td>More specific and more value.</td>
     </tr>
@@ -184,28 +184,28 @@ I did a survey of case studies that tracked changes in conversion % after changi
     <tr>
       <td><img src="{{ site.baseurl }}/images/form-design/before-after/shop-online-before.png" class="img-responsive" alt="Shop Online"></td>
       <td><img src="{{ site.baseurl }}/images/form-design/before-after/shop-online-after.png" class="img-responsive" alt="Buy tax-free"></td>
-      <td>49.85%</td>
+      <td><a href="https://vwo.com/blog/ab-testing-value-proposition/">49.85%</a></td>
       <td>n/a</td>
       <td>More value.</td>
     </tr>
     <tr>
       <td><img src="{{ site.baseurl }}/images/form-design/before-after/go-ahead-before.png" class="img-responsive" alt="Go ahead"></td>
       <td><img src="{{ site.baseurl }}/images/form-design/before-after/go-ahead-after.png" class="img-responsive" alt="More Information"></td>
-      <td>14.41%</td>
+      <td><a href="https://vwo.com/blog/specific-call-to-action-text-increased-clickthrough-rate/">14.41%</a></td>
       <td>99.9%</td>
       <td>More specific.</td>
     </tr>
     <tr>
       <td><img src="{{ site.baseurl }}/images/form-design/before-after/solar-consultation-before.png" class="img-responsive" alt="Click for your solar consultation (click here to get started)"></td>
       <td><img src="{{ site.baseurl }}/images/form-design/before-after/solar-consultation-after.png" class="img-responsive" alt="Get a no obligation quote now"></td>
-      <td>74%</td>
+      <td><a href="https://www.behave.org/case-study/button-copy-ab-test/">74%</a></td>
       <td>n/a</td>
       <td>More specific.</td>
     </tr>
     <tr>
       <td><img src="{{ site.baseurl }}/images/form-design/before-after/medicare-before.png" class="img-responsive" alt="Get started now"></td>
       <td><img src="{{ site.baseurl }}/images/form-design/before-after/medicare-after.png" class="img-responsive" alt="Shop Medicare Plans"></td>
-      <td>192%</td>
+      <td><a href="https://www.designforfounders.com/ab-testing-examples/">192%</a></td>
       <td>n/a</td>
       <td>More specific.</td>
     </tr>
