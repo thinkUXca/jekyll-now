@@ -36,7 +36,7 @@ Are you giving them something for free? Is that free thing very valuable to them
 The higher the perceived value of filling out the form, the more resources (time, effort, information) 
 people are willing to give up to get it. 
 
-## User Motivation Matters. A Lot. ##
+## The Type of Form Matters. A Lot. ##
 
 Formstack’s [2015 Form Conversion Report](https://www.formstack.com/report/form-conversion-2015) analyzed over 650,000 forms. 
 They divided the forms by type: contests, surveys, event registrations, order forms, donation forms, and contact forms. 
