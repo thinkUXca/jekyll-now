@@ -114,7 +114,7 @@ I did a survey of case studies that tracked changes in conversion % after changi
     <tr>
       <td><img src="{{ site.baseurl }}/images/form-design/before-after/freemake-before.png" class="img-responsive" alt="Button copy - Download"></td>
       <td><img src="{{ site.baseurl }}/images/form-design/before-after/freemake-after.png" class="img-responsive" alt="Button copy - get your free converter"></td>
-      <td>[10.94%](https://unbounce.com/conversion-rate-optimization/design-call-to-action-buttons/)</td>
+     <td><a href="https://unbounce.com/conversion-rate-optimization/design-call-to-action-buttons/">10.94%</a></td>
       <td>99%</td>
       <td>More specific & more value.</td>
     </tr>
