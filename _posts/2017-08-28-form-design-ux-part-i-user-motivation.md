@@ -3,10 +3,8 @@ layout: post
 title: Form Design UX Part I - User Motivation
 author: jonathan
 sitemap: true
-description: This is the first post in a three part series on the user experience (UX) of form design. 
-This post introduces a model for thinking about form design from the user perspective. I outline
-the cost-benefit analysis implicitly performed by users when deciding to fill in a form or not, and discuss the perceived
-benefits and costs associated with the decision.
+published: true
+description: This is the first post in a three part series on the user experience (UX) of form design. This post introduces a model for thinking about form design from the user perspective. I outline the cost-benefit analysis implicitly performed by users when deciding to fill in a form or not, and discuss the perceived benefits and costs associated with the decision.
 ---
 
 When asked to fill in a form, users ask themselves “Should I bother?” The assessment is often quick and brutal. 
