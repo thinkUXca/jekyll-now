@@ -15,8 +15,8 @@ Then they fill it in, or move on. As a form designer you want to do everything y
 
 People generally don’t want to fill in forms. When a user is faced with a form, they ask themselves "Should I bother?"
 To answer the question, a user makes two assessments:
-* What will filling in the form get me and how valuable is that thing to me? This is the *perceived value*.
-* What will it cost me in terms of time, effort, and information? This is the *perceived cost*.
+* What will filling in the form get me and how valuable is that thing to me? This is the **perceived value**.
+* What will it cost me in terms of time, effort, and information? This is the **perceived cost**.
 
 <figure class="figure">
   <img src="{{ site.baseurl }}/images/form-design/cost-benefits.jpg"
@@ -56,10 +56,10 @@ As we can see, not all forms are made equal!
 ## Form Type and Motivation ##
 
 Let’s look at potential reasons for these results.
-* *Contests* have by far the highest conversion rate, and this is no surprise. Entering a contest means that you have the opportunity to win something. People love free stuff.
-* *Surveys* are usually designed to collect feedback. The data doesn’t talk at all about the motivation for filling in the surveys. For example, rewards for filling in surveys, or where surveys were in the sales funnel can impact the conversion rate.
-* *Event Registration*, *Order/Payment*, and *Donation* forms allow people to do things they want to do (attend events, pay for something, or donate).
-* *Contact* forms have by far the lowest conversion rates. One possibility is that people are going to contact forms to get contact information, and if they can find the email or phone number on the form page, there is no need to complete the form.
+* **Contests** have by far the highest conversion rate, and this is no surprise. Entering a contest means that you have the opportunity to win something. People love free stuff.
+* **Surveys** are usually designed to collect feedback. The data doesn’t talk at all about the motivation for filling in the surveys. For example, rewards for filling in surveys, or where surveys were in the sales funnel can impact the conversion rate.
+* **Event Registration**, **Order/Payment**, and **Donation** forms allow people to do things they want to do (attend events, pay for something, or donate).
+* **Contact** forms have by far the lowest conversion rates. One possibility is that people are going to contact forms to get contact information, and if they can find the email or phone number on the form page, there is no need to complete the form.
 
 It’s clear that not all forms types are made equal. You’re probably designing a specific kind of form, but it’s worth considering methods you can use to motivate people to fill in your form.
 
@@ -73,9 +73,9 @@ There are two things that you can do increase a user’s motivation to fill in a
 
 If you offer the most amazing product or service in the world, but nobody knows what you’re offering, you won’t be in business long. 
 This logic applies directly to forms: if you’re offering an amazing product or service in return for filling in the form, 
-but it’s not obvious, it’s unlikely many people will fill in the form. Your job is to *make the value proposition obvious*.
+but it’s not obvious, it’s unlikely many people will fill in the form. Your job is to **make the value proposition obvious**.
 
-Two ways to make your value proposition obvious are to *write excellent form headlines*, and to *write compelling button copy* 
+Two ways to make your value proposition obvious are to **write excellent form headlines**, and to **write compelling button copy** 
 on the form’s button. The next post in this series examines the importance of these two things, and how to improve your form’s copy.
 
 ### Give Users Something They Want ###
@@ -99,13 +99,13 @@ A good form designer tries to reduce the perceived cost of each of these things.
 
 The perceived time required to fill in a form is the easiest assessment for users: if a form looks really long and complicated, 
 it’ll be perceived as requiring more time to fill in (said nobody ever with surprise in their voice). The primary factor related 
-to perceived time required to fill in a form is *the number of form fields*.
+to perceived time required to fill in a form is **the number of form fields**.
 
 ### Form Length ###
 
 The most common advice I came across when researching form design is to [keep your forms short](https://www.nngroup.com/articles/web-form-design/). The advantage of keeping forms 
 as short as possible is that the perceived time required to fill it in is very small. Though in general keeping forms to 
-the minimum required information to generate a lead is a good idea, *the shortest form is not necessarily the best form*, as I 
+the minimum required information to generate a lead is a good idea, **the shortest form is not necessarily the best form**, as I 
 discuss at length in the third part of this series.
 
 ### Multi-step Forms ###
@@ -118,7 +118,7 @@ For a more detailed discussion on multi-step forms and related studies, please r
 
 ## Effort ##
 
-The perceived effort required to fill in a form relates to the *types of form fields* and the overall UX of the form. 
+The perceived effort required to fill in a form relates to the **types of form fields** and the overall UX of the form. 
 [Certain types of fields](https://blog.hubspot.com/blog/tabid/6307/bid/6746/Which-Types-of-Form-Fields-Lower-Landing-Page-Conversions.aspx), 
 such as textareas, are perceived to require more effort to complete than other kinds of fields. 
 Generally speaking, single line text fields require users to enter factual information: your name, your email, some part of an address, 
