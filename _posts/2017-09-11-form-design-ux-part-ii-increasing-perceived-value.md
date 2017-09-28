@@ -13,7 +13,8 @@ In the first part of this Form Design series, I outlined a framework for thinkin
 
 You have very little time to convince a user who is deciding if it’s worth filling in a form. You have to **make the form’s value proposition obvious**. This starts with having a good headline with a compelling value proposition.
 
-Put yourself in the shoes of your users. Look at your form for 5 seconds. Now close your eyes and ask yourself: "What will I get by filling in the form?"
+Put yourself in the shoes of your users. Look at your form for 5 seconds. Now close your eyes and ask yourself: 
+* **"What will I get by filling in the form?"**
 
 Chances are, you answered the question based on what you saw in the headline, and in the button copy.
 
@@ -28,7 +29,7 @@ If your form:
 * is offering a free demo or trial → “What does the product do?”
 * is offering a free e-book or some other downloadable → “What will I get?”
 
-> "A good headline makes the form’s value proposition obvious.”
+> A good headline makes the form’s value proposition obvious.
 
 If you can’t answer your these questions based on reading the headline, try out a different headline and test it. With forms, there is no surefire right answer for anything because they’re so context-dependent. [A/B testing](https://en.wikipedia.org/wiki/A/B_testing)  different versions of your forms is the best way to determine what works best for you.
 
@@ -97,7 +98,7 @@ A number of A/B tests have been done to assess the effects of changing button co
 
 ## Button Copy Case Studies ##
 
-I did a survey of case studies that tracked changes in conversion % after changing button copy. Although I tried to pick studies that only changed the button copy, in some cases, other minor changes were made also. I did not include studies that I thought the other changes significantly affected the results.
+I did a survey of case studies that tracked changes in conversion % after changing button copy. Although I tried to pick studies that only changed the button copy, in some cases, other minor changes were made also. I did not include studies that I thought the other changes significantly affected the results. All images were captured from the linked articles.
 
 <table class="table table-striped table-bordered" style="font-size: .8em">
   <thead>
@@ -111,108 +112,136 @@ I did a survey of case studies that tracked changes in conversion % after changi
   </thead>
   <tbody>
     <tr>
-      <td><img src=""></td>
-      <td><img src=""></td>
+      <td>a</td>
+      <td>b</td>
       <td>10.94%</td>
       <td>99%</td>
       <td>More specific & more value.</td>
     </tr>
+    <tr>
+      <td>a</td>
+      <td>b</td>
+      <td>90%</td>
+      <td>98%</td>
+      <td>More personal.</td>
+    </tr>
+    <tr>
+      <td>a</td>
+      <td>b</td>
+      <td>38.26%</td>
+      <td>98%</td>
+      <td>Less effort (order vs. get).</td>
+    </tr>
+    <tr>
+      <td>a</td>
+      <td>b</td>
+      <td>(39.03%)</td>
+      <td>99%</td>
+      <td>Less specific.</td>
+    </tr>
+    <tr>
+      <td>a</td>
+      <td>b "Find your gym and get membership"</td>
+      <td>68%</td>
+      <td>99%</td>
+      <td>More specific.</td>
+    </tr>
+    <tr>
+      <td>a</td>
+      <td>b</td>
+      <td>31.03%</td>
+      <td>n/a</td>
+      <td>More specific.</td>
+    </tr>
+    <tr>
+      <td>a</td>
+      <td>b</td>
+      <td>(24.91%)</td>
+      <td>99%</td>
+      <td>Less personal.</td>
+    </tr>
+    <tr>
+      <td>a</td>
+      <td>b "End My Scheduling Hassles"</td>
+      <td>24%</td>
+      <td>98%</td>
+      <td>More personal and more value.</td>
+    </tr>
+    <tr>
+      <td>a</td>
+      <td>b</td>
+      <td>33.1%</td>
+      <td>96%</td>
+      <td>More specific and more value.</td>
+    </tr>
+    <tr>
+      <td>a</td>
+      <td>b</td>
+      <td>60%</td>
+      <td>n/a</td>
+      <td>Less effort (book vs. get).</td>
+    </tr>
+    <tr>
+      <td>a</td>
+      <td>b</td>
+      <td>49.85%</td>
+      <td>n/a</td>
+      <td>More value.</td>
+    </tr>
+    <tr>
+      <td>a</td>
+      <td>b</td>
+      <td>14.41%</td>
+      <td>99.9%</td>
+      <td>More specific.</td>
+    </tr>
+    <tr>
+      <td>a</td>
+      <td>b</td>
+      <td>74%</td>
+      <td>n/a</td>
+      <td>More specific.</td>
+    </tr>
+    <tr>
+      <td>a</td>
+      <td>b</td>
+      <td>192%</td>
+      <td>n/a</td>
+      <td>More specific.</td>
+    </tr>
   </tbody>
 </table>
 
-90%
-n/a
-More personal.
+### Take-aways from these case studies ###
 
+* **Buttons that were more specific had higher conversions.** Being specific about what would happen when the button was pressed improved results in all cases.
+* **Buttons that implied effort had fewer conversions than buttons that implied less effort.** Using “Get” instead of “Order” and “Book” improved results.
+* **Buttons that were more personal had higher conversions.** Using “my” instead of “your” improved conversions, while using “your” instead of “my” worsened conversions.
+* **Buttons that conveyed the value proposition had more conversions.** Stating how clicking the button would help the user resulted in more people clicking the button.
 
-38.26%
-98%
-Less effort (order vs. get).
+### Large Scale Form-specific Studies ###
 
-
-(39.03%)
-99%
-Less specific.
-
-
-“Find your gym & get membership”
-68%
-99%
-More specific.
-
-
-31.03%
-n/a
-More specific.
-
-
-
-
-(24.91%)
-99%
-Less personal.
-
-
-“End My Scheduling Hassles”
-24%
-98%
-More personal and more value.
-
-
-33.1%
-96%
-More specific & more value.
-
-
-60%
-n/a
-Less effort (book vs. get).
-
-
-49.85%
-n/a
-More value.
-
-
-14.41%
-99.9%
-More specific.
-
-
-74%
-n/a
-More specific.
-
-
-192%
-n/a
-More specific.
-<All images snipped from the linked articles>
-Take-aways from these case studies:
-Buttons that were more specific had higher conversions. Being specific about what would happen when the button was pressed improved results in all cases.
-Buttons that implied effort had fewer conversions than buttons that implied less effort. Using “Get” instead of “Order” and “Book” improved results.
-Buttons that were more personal had higher conversions. Using “my” instead of “your” improved conversions, while using “your” instead of “my” worsened conversions.
-Buttons that conveyed the value proposition had more conversions. Stating how clicking the button would help the user resulted in more people clicking the button.
-
-Large Scale Form-specific Studies
 I found two studies that analyzed a large number of customer forms. One was performed by Hubspot, and the other by Formstack.
-Hubspot
-Hubspot’s Dan Zarella looked at over 40,000 forms, paying careful attention to button copy. He specifically examined how using the word “Submit” in button copy affected conversion rates.
 
+#### Hubspot ####
 
+Hubspot’s Dan Zarella looked at over 40,000 forms, paying careful attention to button copy. He specifically examined how [using the word “Submit”](https://blog.hubspot.com/blog/tabid/6307/bid/6737/don-t-submit-to-landing-page-button-text.aspx) in button copy affected conversion rates.
 
-He found that forms on landing pages with buttons labelled “Submit” had a 14.5% conversion rate on average, and forms with other wording had a 17% conversion rate. This could be due to any number of factors (form placement, button layout, form design, etc.), but over 40,000 forms, it’s a good indication that there’s likely a better choice for your button copy that “Submit”.
+<INSERT IMAGE HERE>
 
-Formstack
-In Formstack’s 2015 Form Conversion Report they analyzed over 650,000 forms and conclude that you should:
-keep your button copy short (the top-ten converting buttons all contained two words or less)
-use words that inspire action
-Be specific (adding a single word after “submit” can boost conversion by up to 320%)
+He found that forms on landing pages with buttons labelled “Submit” had a 14.5% conversion rate on average, and forms with other wording had a 17% conversion rate. This could be due to any number of factors (form placement, button layout, form design, etc.), but over 40,000 forms, it’s a good indication that **there’s likely a better choice for your button copy that “Submit”**.
 
+#### Formstack ####
 
+In Formstack’s [2015 Form Conversion Report](https://www.formstack.com/report/form-conversion-2015) they analyzed over 650,000 forms and conclude that you should:
+* Keep your button copy short (the top-ten converting buttons all contained two words or less).
+* Use words that inspire action.
+* Be specific (adding a single word after “submit” can boost conversion by up to 320%).
+
+<INSERT IMAGE HERE>
 <Button copy with the highest conversion %>
 
-However, this data should be carefully considered before taking it as gospel. They looked at a lot of different *types* of forms, and each form performs very differently. Contact forms were by far the most represented type of form in their study (see below), and had by far the lowest conversion %. That means that common button copy used on contact forms (for example, “Submit”) would have a much lower conversion percentage due to the fact that contact forms have such a low conversion percentage. The data would be much more valuable if it were reported by form type.
+However, this data should be carefully considered before taking it as gospel. They looked at a lot of different *types* of forms, and each form performs very differently. Contact forms were by far the most represented type of form in their study (see below), and had by far the lowest conversion %. That means that common button copy used on contact forms (for example, “Submit”) would have a much lower conversion percentage due to the fact that contact forms have such a low conversion percentage. **The data would be much more valuable if it were reported by *form type***.
 
 Type of form
 Conversion rate
