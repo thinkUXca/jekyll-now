@@ -112,8 +112,8 @@ I did a survey of case studies that tracked changes in conversion % after changi
   </thead>
   <tbody>
     <tr>
-      <td><img src="{{ site.baseurl }}/images/form-design/freemake-before.png" class="img-responsive" alt="Download button - before"></td>
-      <td><img src="{{ site.baseurl }}/images/form-design/freemake-after.png" class="img-responsive" alt="Download button - after"></td>
+      <td><img src="{{ site.baseurl }}/images/form-design/before-after/freemake-before.png" class="img-responsive" alt="Download button - before"></td>
+      <td><img src="{{ site.baseurl }}/images/form-design/before-after/freemake-after.png" class="img-responsive" alt="Download button - after"></td>
       <td>10.94%</td>
       <td>99%</td>
       <td>More specific & more value.</td>
