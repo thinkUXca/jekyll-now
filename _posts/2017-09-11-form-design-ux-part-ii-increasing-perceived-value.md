@@ -227,7 +227,13 @@ I found two studies that analyzed a large number of customer forms. One was perf
 
 Hubspot’s Dan Zarella looked at over 40,000 forms, paying careful attention to button copy. He specifically examined how [using the word “Submit”](https://blog.hubspot.com/blog/tabid/6307/bid/6737/don-t-submit-to-landing-page-button-text.aspx) in button copy affected conversion rates.
 
-<INSERT IMAGE HERE>
+<figure class="figure">
+  <img src="{{ site.baseurl }}/images/form-design/hubspot-submit.jpg"
+    class="img-responsive"
+    alt="Hubspot - calls to action with submit vs no submit"
+    />
+  <figcaption class="figure-caption">Image credit: https://blog.hubspot.com/blog/tabid/6307/bid/6737/don-t-submit-to-landing-page-button-text.aspx</figcaption>
+</figure>
 
 He found that forms on landing pages with buttons labelled “Submit” had a 14.5% conversion rate on average, and forms with other wording had a 17% conversion rate. This could be due to any number of factors (form placement, button layout, form design, etc.), but over 40,000 forms, it’s a good indication that **there’s likely a better choice for your button copy that “Submit”**.
 
@@ -238,8 +244,13 @@ In Formstack’s [2015 Form Conversion Report](https://www.formstack.com/report/
 * Use words that inspire action.
 * Be specific (adding a single word after “submit” can boost conversion by up to 320%).
 
-<INSERT IMAGE HERE>
-<Button copy with the highest conversion %>
+<figure class="figure">
+  <img src="{{ site.baseurl }}/images/form-design/formstack-button-copy.png"
+    class="img-responsive"
+    alt="Formstack - Button copy with highest converstion %"
+    />
+  <figcaption class="figure-caption">Image credit: https://www.formstack.com/report/form-conversion-2015</figcaption>
+</figure>
 
 However, this data should be carefully considered before taking it as gospel. They looked at a lot of different *types* of forms, and each form performs very differently. Contact forms were by far the most represented type of form in their study (see below), and had by far the lowest conversion %. That means that common button copy used on contact forms (for example, “Submit”) would have a much lower conversion percentage due to the fact that contact forms have such a low conversion percentage. **The data would be much more valuable if it were reported by *form type***.
 
@@ -290,7 +301,7 @@ However, this data should be carefully considered before taking it as gospel. Th
       <td>2,318</td>
     </tr>
 
-<Data gathered from the Formstack 2015 report>
+The data in this table was gathered from the [2015 Form Conversion Report](https://www.formstack.com/report/form-conversion-2015).
 
 #### The Submit Conundrum ####
 
