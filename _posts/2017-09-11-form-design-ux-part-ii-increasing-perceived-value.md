@@ -317,7 +317,7 @@ The Formstack survey results are not very useful in this case. They tell us that
 
 One popular method is to write button copy by [finishing the sentence](https://www.copyblogger.com/call-to-action-buttons/):
 
-I want to __________.
+I want to \_\_\_\_\_\_\_\_\_\_.
 
 Using this technique forces you to do three things:
 * Write in the first person.
