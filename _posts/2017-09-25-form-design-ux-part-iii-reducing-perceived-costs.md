@@ -15,13 +15,18 @@ The cost of filling in a form isn’t usually financial. It relates to the perce
 
 # Types of Perceived Costs #
 
-There are two types of costs that a user incurs when deciding whether or not fill out a form:
+There are three types of costs that a user incurs when deciding whether or not fill out a form:
 * Time
+* Effort 
 * Information (privacy)
 
-**Time is related to form length and field types.**
+**Time is related to form length.**
 * Single vs. multi-page forms
+* Number of form fields
+
+**Effort is related to field types.**
 * Field types: text input, textareas, dropdowns, etc.
+* Effort also relates to how easy it is to fill in the form (e.g. error messaging, tab-order auto-forwarding, etc., but this is not covered here).
 
 **Information is related to a person's privacy values:**
 * Types of information requested
@@ -37,7 +42,7 @@ In most cases, forms are used to generate leads. Determining if lead quantity or
 
 The business motivation varies from situation to situation, and from company to company. For example, a startup without many leads may want to generate as many leads as they can because they’re doing all they can to create contacts, build their brand, etc. A well-established company with a broad and deep network likely does not have the same motivation. They still want to generate leads, but the quality of those leads is more important.
 
-## Reduce The Perceived Form Length ##
+### Reduce The Perceived Form Length ###
 
 Intuitively, if a form *looks* too long, users are less likely to engage with the form. While I haven’t been able to find any concrete data on the optimal number of fields to display on a single page form, [one recommendation](https://blogs.adobe.com/creativecloud/designing-more-efficient-forms-structure-inputs-labels-and-actions/) is to display no more than 5-7 fields on a page before considering breaking a form up into multiple pages.
 
@@ -68,7 +73,7 @@ And here is their modified, multi-step form:
 
 Smashing Magazine has an [insightful article](https://www.smashingmagazine.com/2017/05/better-form-design-one-thing-per-page/) on why multi-step forms are beneficial, and gives a guideline into how to divide your content into multiple-steps.
 
-### Don’t Use Multiple Columns ###
+### Use A Single Column Layout ###
 
 You may be tempted to use a multi-column for instead of a single column form to reduce how long the form looks, however, that’s probably [not a good idea](https://uxplanet.org/designing-more-efficient-forms-structure-inputs-labels-and-actions-e3a47007114f). ConversionXL [ran a study](https://conversionxl.com/research-study/form-field-usability/) to determine the effect of single vs. multi-column layouts and found that **users filled out  forms with single-column layouts significantly faster than multi-column layouts** (99% confidence).
 
@@ -86,9 +91,15 @@ There does appear to be one exception to this rule: when designing a form that r
 
 Another way to reduce the perceived length of a form is to actually shorten the form: you can often [reduce the number of form fields](https://baymard.com/blog/checkout-flow-average-form-fields) without reducing the data collected. Of course, one of the most widely discussed questions in form design revolves around the number of form fields: does the number of form fields matter?
 
-### Does The Number of Form Fields Matter? ###
+### Form Length: Does The Number of Form Fields Matter? ###
 
-I looked at four studies that examined the effect of form length on conversions. Form length in this case is defined in terms of number of total number of fields, not visual length.
+#### If “Shorter is Better”, Where’s The Proof? ####
+
+When I started investigating whether or not form length affects conversions, I kept finding references to two studies in particular: one about how Expedia [increased their revenue](https://www.google.ca/search?safe=off&q=expedia+form+length+12+million&oq=expedia+form+length+12+million) by $12-million / year by removing one form field, and another about how Imaginary Landscape [increased contact form conversions](https://www.imagescape.com/media/filer_public/06/94/0694c7f4-8914-4598-8871-b857fbc12737/form_case_study.pdf) by reducing the number of fields from 11 to 4. Looking into these, I found that they were misrepresented as proof to show that shorter forms are better. In the Expedia case, the $12M issue wasn’t that there was one extra form field, it was that the particular form field was [asking for information that was confusing](http://www.zdnet.com/article/expedia-on-how-one-extra-data-field-can-cost-12m/) the users and stopping them from being able to check out. In Imaginary Landscape case, there were many confounding variables (they used different types of fields) and the data was misrepresented: they claim a 160% increase in conversions (10 responses increased to 16 responses), but they didn’t take into account the number of visitors in the timeframe! So there was an increase, but it wasn’t as big as 160% sounds. I decided the matter of form length warranted further investigation.
+
+#### Studies On Form Length ####
+
+I looked at four studies that examined the effect of form length on conversions. Form length in this case is defined in terms of number of total number of fields, not visual length. What I found is that in general, shorter forms lead to higher conversions, but the importance of form length appears to be highly contextual: the higher the perceived benefit of filling in the form, the more fields users are willing to fill in. The *second* best advice I have here is to really consider the information that you're asking for, and if it's not necessary, eliminate it. The *best* advice I have here is to test the effects of adding and removing fields on your forms!
 
 #### Hubspot ####
 
@@ -139,7 +150,6 @@ We don’t know how many forms this is based on, the form types, or the field ty
 
 In 2011, Oracle analyzed data [from 1,500 forms](https://blogs.oracle.com/marketingcloud/landing-page-questions) over a three month period. The forms they analyzed were on landing pages, meaning that users had already expressed an interest in the product or service being offered.
 
-
 <figure class="figure">
   <img src="{{ site.baseurl }}/images/form-design/oracle-number-of-form-fields.png"
     class="img-responsive"
@@ -157,9 +167,14 @@ Oracle did note the effects of form type on conversions, much like FormStack. Th
 
 They didn’t make this data available, so we can’t do any further analysis.
 
+
+## Perceived Cost: Effort ##
+
+Another type of cost involved with filling in a form is the perceived effort required to do so. This can be divided into two sections: deciding to fill in the form, and actually filling in the form. When a user looks at the form and gets a first impression, they see the length (perceived time) and the types of form fields (perceived effort to complete each). This post doesn't cover the effort related to actually filling in the form, such as where to place labels for maximum readability, where to put error messages, etc.
+
 ### Form Field Types Matter ###
 
-Not only does the number of fields matter, but also the types of the form fields.
+Intuitively, different kinds of form fields require different levels of effort to fill in. Entering your name in a single-line text box takes almost no mental effort, it's just a matter of typing in the information (which is a different kind of effort). Entering data into a textarea on the other hand requires more mental effort: the user has to write a statement or question about a problem. 
 
 #### Text Inputs ####
 
@@ -233,3 +248,8 @@ After pouring over data and case studies, I have reached the following conclusio
 There is much more to form design than I’ve covered in this three part series. Considerations like where to place your form, the kinds of graphics used, additional information included in or around your form (such as social proof, security certificates, etc.), label positioning, error reporting, etc. aren’t discussed at all in this series.
 
 My goal was to look at and present existing data on form studies, and propose a way to think about form design. I hope you’ve found this series helpful, and that it leads you to higher conversion rates.
+
+## Form Design UX Series ##
+[Part I: User Motivation](https://thinkux.ca/blog/form-design-ux-part-i-user-motivation/)
+[Part II: Increasing Perceived Benefits](https://thinkux.ca/blog/form-design-ux-part-ii-increasing-perceived-value/)
+[Part III: Reducing Perceived Costs](https://thinkux.ca/blog/form-design-ux-part-iii-reducing-perceived-costs/)
