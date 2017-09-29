@@ -300,6 +300,8 @@ However, this data should be carefully considered before taking it as gospel. Th
       <td>10</td>
       <td>2,318</td>
     </tr>
+  </tbody>
+</table>
 
 The data in this table was gathered from the [2015 Form Conversion Report](https://www.formstack.com/report/form-conversion-2015).
 
