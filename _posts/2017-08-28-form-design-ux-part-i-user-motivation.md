@@ -120,11 +120,7 @@ For a more detailed discussion on multi-step forms and related studies, please r
 
 The perceived effort required to fill in a form relates to the **types of form fields** and the overall UX of the form. 
 [Certain types of fields](https://blog.hubspot.com/blog/tabid/6307/bid/6746/Which-Types-of-Form-Fields-Lower-Landing-Page-Conversions.aspx), 
-such as textareas, are perceived to require more effort to complete than other kinds of fields. 
-Generally speaking, single line text fields require users to enter factual information: your name, your email, some part of an address, 
-etc. Textareas, those multi-line text boxes, often require users to think to fill them in. The more thinking users have to do, the 
-higher the perceived effort required to complete the form. I discuss research related to the effects of different form fields in 
-part three of this series.
+such as textareas, have been shown to substantially lower conversion rates if you have more than two of them. One possible reason for this is that textareas are perceived to require more effort to complete than other kinds of fields. Generally speaking, single line text fields require users to enter factual information: your name, your email, some part of an address, etc. Textareas, those multi-line text boxes, often require users to think to fill them in. The more thinking users have to do, the higher the perceived effort required to complete the form. I discuss research related to the effects of different form fields in part three of this series.
 
 ## Information ##
 
