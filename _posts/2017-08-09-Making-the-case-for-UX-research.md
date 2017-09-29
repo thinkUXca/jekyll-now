@@ -89,3 +89,8 @@ to show your [messy work](https://www.invisionapp.com/blog/genius-designer-minds
 It’s not a requirement of UX research that you follow your favourite process to the letter, but it is a requirement to test the product 
 with users and to learn from it. Users will be testing the product at some stage, no matter what you do. It’s better to do the testing 
 early, when you can ultimately help save your client some time and money.
+
+## Form Design UX Series ##
+[Part I: User Motivation](https://thinkux.ca/blog/form-design-ux-part-i-user-motivation/)
+[Part II: Increasing Perceived Benefits](https://thinkux.ca/blog/form-design-ux-part-ii-increasing-perceived-value/)
+[Part III: Reducing Perceived Costs](https://thinkux.ca/blog/form-design-ux-part-iii-reducing-perceived-costs/)
