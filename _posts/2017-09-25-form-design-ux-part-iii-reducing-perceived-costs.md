@@ -15,18 +15,17 @@ The cost of filling in a form isn’t usually financial. It relates to the perce
 
 # Types of Perceived Costs #
 
-There are three types of costs that a user incurs when filling out a form:
+There are two types of costs that a user incurs when deciding whether or not fill out a form:
 * Time
-* Effort
 * Information (privacy)
 
 **Time is related to form length and field types.**
 * Single vs. multi-page forms
 * Field types: text input, textareas, dropdowns, etc.
 
-**Information is related to how a person perceives the value of their information:**
+**Information is related to a person's privacy values:**
 * Types of information requested
-* Name, email, phone number, address, etc.
+  * Name, email, phone number, address, etc.
 
 ## Perceived Cost: Time ##
 
