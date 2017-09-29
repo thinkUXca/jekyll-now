@@ -9,7 +9,7 @@ description: This is the second post in a three part series on the user experien
 
 In the first part of this Form Design series, I outlined a framework for thinking about form design in terms of a cost-benefit analysis: users’ motivation to complete forms based on the perceived benefit and the perceived costs. This post covers how to increase the perceived value of forms by writing better form headlines and button copy. This post provides an overview of existing research and case studies, and recommendations on how to improve the perceived value of forms you design.
 
-# Increasing Perceived Value #
+#  Perceived Value #
 
 You have very little time to convince a user who is deciding if it’s worth filling in a form. You have to **make the form’s value proposition obvious**. This starts with having a good headline with a compelling value proposition.
 
