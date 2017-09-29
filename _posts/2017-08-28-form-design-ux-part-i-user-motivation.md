@@ -140,3 +140,8 @@ Ambitiously, I’d love to be able to define an equation for expected conversion
 Something that could calculate the expected conversion rate based on perceived value (form type and motivation) 
 and perceived cost (length and layout of form, types of information requested, etc.), but for now I’ll settle 
 for being more in-form-ed (*groan*) and having a better way of thinking about form design.
+
+## Form Design UX Series ##
+[Part I: User Motivation](https://thinkux.ca/blog/form-design-ux-part-i-user-motivation/)
+[Part II: Increasing Perceived Benefits](https://thinkux.ca/blog/form-design-ux-part-ii-increasing-perceived-value/)
+[Part III: Reducing Perceived Costs](https://thinkux.ca/blog/form-design-ux-part-iii-reducing-perceived-costs/)
