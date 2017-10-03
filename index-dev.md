@@ -46,6 +46,17 @@ layout: default
     </div>
   </div>
   
+  <div class="row landing-page-section">
+    <div class="col-xs-12">
+      <h1 class="text-center">Stay a while, and listen</h1>
+    </div>
+  </div>
+  
+  <div class="row">
+    <div class="col-xs-8 col-xs-offset-2 col-sm-4 col-sm-offset-4">
+      {% include mailchimp-signup.html %}  
+    </div>
+  </div>
   
   <div class="row landing-page-section">
     <div class="col-xs-12">
