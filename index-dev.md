@@ -48,12 +48,12 @@ layout: default
   
   <div class="row landing-page-section">
     <div class="col-xs-12">
-      <h1 class="text-center">Stay a while, and listen</h1>
+      <h1 class="text-center">Get weekly UX insights</h1>
     </div>
   </div>
   
   <div class="row">
-    <div class="col-xs-12 col-sm-6">
+    <div class="col-xs-12 col-sm-6 col-sm-offset-3">
       {% include mailchimp-signup.html %}  
     </div>
   </div>
