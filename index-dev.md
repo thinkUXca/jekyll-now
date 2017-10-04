@@ -53,7 +53,7 @@ layout: default
   </div>
   
   <div class="row">
-    <div class="col-xs-8 col-xs-offset-2 col-sm-4 col-sm-offset-4">
+    <div class="col-xs-12 col-sm-6">
       {% include mailchimp-signup.html %}  
     </div>
   </div>
