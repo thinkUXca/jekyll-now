@@ -159,6 +159,4 @@ layout: default
     </div>
   </div>
   
-  <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us16.list-manage.com","uuid":"22afddfc60003db11e7092ec3","lid":"c9b574a854"}) })</script>
-  
 </div>
