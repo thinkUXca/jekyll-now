@@ -1,0 +1,1 @@
+{% include mailchimp-script.html %}
