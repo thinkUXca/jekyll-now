@@ -513,6 +513,11 @@ footer {
   text-align: center;
 }
 
+// mailchimp pop-up fix question mark
+.mc-layout__modalContent {
+  overflow:hidden;
+}
+
 // convenience
 .m-b-10 {
   margin-bottom: 10px;
