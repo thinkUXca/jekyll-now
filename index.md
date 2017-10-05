@@ -142,11 +142,11 @@ layout: default
       <form action="https://formspree.io/info@thinkux.ca" method="POST">
         <div class="form-group row">
           <label for="name">Name</label>
-          <input type="text" class="form-control" name="name" placeholder="e.g. Jane Smith" required>
+          <input type="text" class="form-control" name="name" required>
         </div>
         <div class="form-group row">
           <label for="_replyto">Email address</label>
-          <input type="text" class="form-control" name="_subject" placeholder="Enter email" required>
+          <input type="text" class="form-control" name="_subject" required>
         </div>
         <div class="form-group row">
           <label for="_message">Message</label>
