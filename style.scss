@@ -515,7 +515,7 @@ footer {
 
 // mailchimp pop-up fix question mark
 .mc-layout__modalContent {
-  overflow:hidden !important;
+  max-height:500px !important;
 }
 
 // convenience
