@@ -27,19 +27,23 @@ Let's look at some examples to understand some visual cues you can use to distin
 
 Hero images, often with a clear call to action (CTA) button, are currently one of the most common patterns for landing page design. A good hero image uses the foreground/background principle to convey a message quickly, and make the next action obvious.
 
+[Moosehead](https://moosehead.ca/) uses a hero image with a clear foreground and background, conveyed using *size*, *colour*, and *level of detail*:
+
 <img src="{{ site.baseurl }}/images/gestalt/figure_ground-moosehead_hero.png"
   class="img-responsive"
   alt="Moosehead hero banner"
   />
 
-[Moosehead](https://moosehead.ca/) uses a hero image with a clear foreground and background, conveyed using *size*, *colour*, and *level of detail*. The text (figure) is white with a thin grey border and is very large, both of which make it pop in front of the image (ground). The contrast of the white text on the darker background also draws the eye. The background image is greyscale and has been blurred wherever there is text to ensure that the text is clearly the focus. Another way of thinking about this is that the background image has a lower level of detail (it's blurry) than the foreground. All of these things work together to make it clear that the text is the _figure_ and the image is the _ground_.
+The text (figure) is white with a thin grey border and is very large, both of which make it pop in front of the image (ground). The contrast of the white text on the darker background also draws the eye. The background image is greyscale and has been blurred wherever there is text to ensure that the text is clearly the focus. Another way of thinking about this is that the background image has a lower level of detail (it's blurry) than the foreground. All of these things work together to make it clear that the text is the _figure_ and the image is the _ground_.
+
+[Heineken](https://www.heineken.com) uses a movie as the background of their hero banner:
 
 <img src="{{ site.baseurl }}/images/gestalt/figure_ground-heineken_hero.png"
   class="img-responsive"
   alt="Heineken hero banner"
   />
 
-[Heineken](https://www.heineken.com) uses a movie as the background of their hero banner. This makes it a little more challenging to ensure that the message and CTA pop, but they've done an excellent job by using large white text and darkening the movie. The CTA, "Watch the prep talk", is mounted on a semi-transparent black background that serves two purposes: to ensure contrast between the text and the movie so you can always read it, and to convey that it's a button (it also changes on hover to make it crystal clear).
+Using video background  makes it a little more challenging to ensure that the message and CTA pop, but they've done an excellent job by using large white text and darkening the movie. The CTA, "Watch the prep talk", is mounted on a semi-transparent black background that serves two purposes: to ensure contrast between the text and the movie so you can always read it, and to convey that it's a button (it also changes on hover to make it crystal clear).
 
 ## Boxes of content ##
 
