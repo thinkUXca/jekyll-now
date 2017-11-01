@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using Gestalt Principles To Be A Better UX Designer, Part 2 - Similarity
+title: Using Gestalt Principles To Be A Better UX Designer, Part II - Similarity
 author: jonathan
 description: Become a better user experience designer by using the Gestalt principle of similarity. The Gestalt principle of similarity states that things that share similar visual characteristics are perceived to be more related than things that are dissimilar. The three most common characteristics used to create similarity are colour, shape, and size. In this post I’ll be looking at the principle of similarity, and how you can use it to become a better designer.
 ---
