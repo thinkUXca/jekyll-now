@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using Gestalt Principles To Be A Better UX Designer, Part 3 - Grouping
+title: Using Gestalt Principles To Be A Better UX Designer, Part III - Grouping
 author: jonathan
 sitemap: true
 description: Become a better designer and improve the UX of your designs by applying the Gestalt principles of uniform connectedness and proxmity to group elements and convey that they are related. Grouping makes it clear that elements are related and improves the user experience of your sites and applications.
