@@ -80,3 +80,10 @@ The Figure/Ground prinicple is all about using visual cues to indicate what is i
 * using shadows to provide depth
 
 To cement this idea, you need to practice. Take five minutes right now and visit your favourite sites and examine the techniques they use to convey foreground/background. Good luck, and design on.
+
+# Gestalt Principles series #
+
+(Using Gestalt Principles To Be A Better UX Designer, Part I - Figure/Ground)[https://thinkux.ca/blog/Using-Gestalt-Principles-To-Be-A-Better-Designer-Part-1-Figure-Ground/]
+(Using Gestalt Principles To Be A Better UX Designer, Part II - Similarity)[https://thinkux.ca/blog/Using-Gestalt-Principles-To-Be-A-Better-Designer-Part-2-Similarity/]
+(Using Gestalt Principles To Be A Better UX Designer, Part III - Grouping)[https://thinkux.ca/blog/Using-Gestalt-Principles-To-Be-A-Better-Designer-Part-3-Grouping/]
+
