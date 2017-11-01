@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Using Gestalt Principles To Be A Better UX Designer, Part 1 - Figure/Ground
+title: Using Gestalt Principles To Be A Better UX Designer, Part I - Figure/Ground
 author: jonathan
 description: Improve your designs and provide your clients and users with a better user experience by incorporating Gestalt principles in your designs. Using the Gestalt principle of Figure/Ground will help you create distinctions between what is important and what is not important, and visually guide your users toward important interface elements. The figure (also known as the foreground) should stand out above the ground (the background). This blog explains figure/ground by example.
 ---
 
 Understanding Gestalt Principles will help you be a better UX designer.
 
-The lack of descriptiveness of the name, Gestalt Principles, might make you think that this is some complicated black magic stuff you need a PhD to understand. If they were called "Five-ish Principles of Design Based On The Way Humans Perceive and Process Visual Information", it would be much more clear what they are (and also much more painful to say). This post is going to explain the Figure/Ground Gestalt Principle by example.
+The lack of descriptiveness of the name, Gestalt Principles, might make you think that this is some complicated black magic stuff you need a PhD to understand. If they were called "Five-ish Principles of Design Based On The Way Humans Perceive and Process Visual Information", it would be much more clear what they are (and also much more painful to say). This post is going to explain the [Figure/Ground Gestalt Principle](https://en.wikipedia.org/wiki/Figure%E2%80%93ground_(perception)) by example.
 
 # Why should you care? #
 
