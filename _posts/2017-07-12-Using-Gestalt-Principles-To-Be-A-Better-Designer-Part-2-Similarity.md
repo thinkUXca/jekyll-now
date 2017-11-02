@@ -142,3 +142,9 @@ The boxes with semi-circles protruding from the top are clearly related. This si
 The similarity principle states that things that look the same will be perceived as similar. You can create the perception of similarity among design elements by using techniques like colour, size, and shape. Being consistent across elements that you want to be perceived as similar is key.
 
 To cement this idea, you need to practice. Take five minutes and visit your favourite sites and look at how they use colour, shape, and size to create similarity between design elements. Good luck, and design on.
+
+# Gestalt Principles series #
+
+* [Using Gestalt Principles To Be A Better UX Designer, Part I - Figure/Ground](https://thinkux.ca/blog/Using-Gestalt-Principles-To-Be-A-Better-Designer-Part-1-Figure-Ground/)
+* [Using Gestalt Principles To Be A Better UX Designer, Part II - Similarity](https://thinkux.ca/blog/Using-Gestalt-Principles-To-Be-A-Better-Designer-Part-2-Similarity/)
+* [Using Gestalt Principles To Be A Better UX Designer, Part III - Grouping](https://thinkux.ca/blog/Using-Gestalt-Principles-To-Be-A-Better-Designer-Part-3-Grouping/)
