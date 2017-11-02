@@ -227,3 +227,9 @@ Grouping can be achieved using the Gestalt principles of uniform connectedness a
 If you with to learn more about grouping using uniform connectedness and proximity, [Smashing Magazine](https://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt/#proximity) and [Andy Rutledge](http://www.andyrutledge.com/gestalt-principles-3.php) are excellent resources.
 
 To cement this idea, you need to practice. Take five minutes and visit your favourite sites and look at how they use uniform connectedness and proximity to group design elements. Good luck, and design on.
+
+# Gestalt Principles series #
+
+* [Using Gestalt Principles To Be A Better UX Designer, Part I - Figure/Ground](https://thinkux.ca/blog/Using-Gestalt-Principles-To-Be-A-Better-Designer-Part-1-Figure-Ground/)
+* [Using Gestalt Principles To Be A Better UX Designer, Part II - Similarity](https://thinkux.ca/blog/Using-Gestalt-Principles-To-Be-A-Better-Designer-Part-2-Similarity/)
+* [Using Gestalt Principles To Be A Better UX Designer, Part III - Grouping](https://thinkux.ca/blog/Using-Gestalt-Principles-To-Be-A-Better-Designer-Part-3-Grouping/)
