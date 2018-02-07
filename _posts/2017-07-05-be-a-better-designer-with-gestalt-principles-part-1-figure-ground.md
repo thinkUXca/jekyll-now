@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Improving Your Designs With Gestalt Principles, Part I - Figure/Ground
+title: Be A Better Designer With Gestalt Principles, Part 1 - Figure / Ground
 author: jonathan
 description: Improve your designs and provide your clients and users with a better user experience by incorporating Gestalt principles in your designs. Using the Gestalt principle of Figure/Ground will help you create distinctions between what is important and what is not important, and visually guide your users toward important interface elements. The figure (also known as the foreground) should stand out above the ground (the background). This blog explains figure/ground by example.
 ---
