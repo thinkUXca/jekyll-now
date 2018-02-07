@@ -83,7 +83,6 @@ To cement this idea, you need to practice. Take five minutes right now and visit
 
 # Gestalt Principles series #
 
-* [Using Gestalt Principles To Be A Better UX Designer, Part I - Figure/Ground](https://thinkux.ca/blog/Using-Gestalt-Principles-To-Be-A-Better-Designer-Part-1-Figure-Ground/)
-* [Using Gestalt Principles To Be A Better UX Designer, Part II - Similarity](https://thinkux.ca/blog/Using-Gestalt-Principles-To-Be-A-Better-Designer-Part-2-Similarity/)
-* [Using Gestalt Principles To Be A Better UX Designer, Part III - Grouping](https://thinkux.ca/blog/Using-Gestalt-Principles-To-Be-A-Better-Designer-Part-3-Grouping/)
-
+* [Be A Better Designer With Gestalt Principles, Part I - Figure/Ground](https://thinkux.ca/blog/be-a-better-designer-with-gestalt-principles-part-1-figure-ground/)
+* [Be A Better Designer With Gestalt Principles, Part II - Similarity](https://thinkux.ca/blog/be-a-better-designer-with-gestalt-principles-part-2-similarity/)
+* [Be A Better Designer With Gestalt Principles, Part III - Grouping](https://thinkux.ca/blog/be-a-better-designer-with-gestalt-principles-part-3-grouping/)
