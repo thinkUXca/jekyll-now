@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title: Improving Your Designs With Gestalt Principles: Part I - Figure/Ground
 author: jonathan
