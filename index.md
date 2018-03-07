@@ -48,7 +48,7 @@ layout: default
   
   <div class="row landing-page-section">
     <div class="col-xs-12">
-      <h1 class="text-center">Get weekly UX insights</h1>
+      <h1 class="text-center">Get UX insights</h1>
     </div>
   </div>
   
